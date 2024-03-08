@@ -1,0 +1,10 @@
+def main():
+	from pyasassn.client import SkyPatrolClient	
+	client = SkyPatrolClient()
+	# search = client.cone_search(ra_deg=270, dec_deg=88, radius=0.1, catalog='master_list', download=True)
+	search = client.cone_search("23:22:01.45", "+6:24:42.2", radius=0.0003, catalog='master_list', download=True)
+	print(search)
+	print(search[8590476870].data)
+	search.save(save_dir='lctest/', file_format="csv")
+if __name__ == "__main__":
+	main()
