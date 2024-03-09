@@ -5,5 +5,6 @@ flag = 0 (0 - classification success, 1 - suspicious period)
 class = RRL_ab
 class_probability = 1.0
 position = 0.06821 -72.77875
+magnitude = 15.1
 vsx_id = BP Tuc
 asassn_id = 661427539170

@@ -1,9 +1,0 @@
-
-
-######### Classification results #########
-flag = 1 (0 - classification success, 1 - suspicious period)
-class = EB_ESD
-class_probability = 0.31
-position = 0.02771 56.65331
-vsx_id = V1023 Cas
-asassn_id = 661428935684
