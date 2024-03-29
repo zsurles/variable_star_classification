@@ -9,6 +9,7 @@ magnitude = 15.42
 vsx_id = ASASSN-V J000418.06+583133.8
 asassn_id = 111670556542
 test
+test2
 
 
 ######### Classification results #########
