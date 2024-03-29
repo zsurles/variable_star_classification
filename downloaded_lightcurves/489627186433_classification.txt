@@ -3,7 +3,7 @@
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
 class = RRL_ab
-class_probability = 0.99
+class_probability = 1.0
 position = 0.84675 -0.9942
 magnitude = 15.38
 vsx_id = [SIG2010] 91658

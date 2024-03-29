@@ -3,7 +3,7 @@
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
 class = RRL_ab
-class_probability = 0.87
+class_probability = 0.89
 position = 0.14829 26.66375
 magnitude = 12.96
 vsx_id = GV Peg
