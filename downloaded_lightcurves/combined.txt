@@ -58,7 +58,7 @@ position = 3.50109 60.89321
 magnitude = 13.5
 vsx_id = ASASSN-V J001400.26+605335.6
 asassn_id = 128849749198
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -68,7 +68,7 @@ position = 2.80154 22.23589
 magnitude = 11.921
 vsx_id = ASAS J001113+2214.2
 asassn_id = 180388861098
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -78,7 +78,7 @@ position = 1.56061 19.69367
 magnitude = 14.18
 vsx_id = CSS_J000614.5+194136
 asassn_id = 214748587822
-
+CWB/RRab - BL Her/RRab
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -88,7 +88,7 @@ position = 2.87817 19.66019
 magnitude = 9.73
 vsx_id = ASAS J001131+1939.6
 asassn_id = 214748600537
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
