@@ -3,8 +3,8 @@
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
 class = RRL_ab
-class_probability = 0.96
-position = 0.01521 35.36286
-magnitude = 12.43
-vsx_id = GM And
-asassn_id = 8590948612
+class_probability = 1.0
+position = 2.09948 26.55647
+magnitude = 14.42
+vsx_id = NSVS 6290805
+asassn_id = 188979026520
