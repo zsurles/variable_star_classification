@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 3.92571 -58.88353
+magnitude = 12.515
+vsx_id = UZ Tuc
+asassn_id = 644245563362
