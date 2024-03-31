@@ -169,7 +169,7 @@ position = 5.14196 62.1504
 magnitude = 14.6
 vsx_id = ASASSN-V J002034.07+620901.4
 asassn_id = 120259364823
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -179,7 +179,7 @@ position = 4.55404 21.03375
 magnitude = 14.54
 vsx_id = CSS_J001812.9+210201
 asassn_id = 171799541201
-
+true RR(B)  RR Lyrae variables showing two simultaneously operating pulsation modes.
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
