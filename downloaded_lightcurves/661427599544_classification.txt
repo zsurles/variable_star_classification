@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 6.7663 -60.80748
+magnitude = 14.92
+vsx_id = VY Tuc
+asassn_id = 661427599544

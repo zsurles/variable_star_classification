@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.4
+position = 6.06625 -76.28194
+magnitude = 12.981
+vsx_id = T Hyi
+asassn_id = 163209698723

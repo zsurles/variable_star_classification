@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 6.17195 83.43852
+magnitude = 14.1
+vsx_id = EN Cep
+asassn_id = 8590689024
