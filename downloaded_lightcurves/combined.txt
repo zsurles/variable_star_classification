@@ -189,7 +189,7 @@ position = 5.43708 24.91631
 magnitude = 10.81
 vsx_id = ASAS J002145+2455.0
 asassn_id = 188978664246
-
+true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -199,7 +199,7 @@ position = 4.51567 43.28278
 magnitude = 12.65
 vsx_id = CSS_J001803.7+431658
 asassn_id = 42949677128
-
+EB - Beta Lyrae-type eclipsing system
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -209,7 +209,7 @@ position = 5.48396 -22.67392
 magnitude = 11.95
 vsx_id = ASAS J002156-2240.4
 asassn_id = 463857302252
-
+true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -219,7 +219,7 @@ position = 5.08733 -25.32261
 magnitude = 11.32
 vsx_id = ASAS J002021-2519.3
 asassn_id = 558346822146
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -229,7 +229,7 @@ position = 5.28071 -53.83809
 magnitude = 14.22
 vsx_id = SSS_J002107.3-535017
 asassn_id = 609886364962
-
+true RRAB - or maybe BL Her?
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -239,7 +239,7 @@ position = 4.95408 18.80006
 magnitude = 15.2
 vsx_id = CSS_J001948.9+184800
 asassn_id = 661428774878
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -249,7 +249,7 @@ position = 5.26279 40.4905
 magnitude = 15.43
 vsx_id = CSS_J002103.0+402925
 asassn_id = 661428863525
-
+true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -259,3 +259,4 @@ position = 4.5945 55.53056
 magnitude = 8.827
 vsx_id = WISE J001822.6+553150
 asassn_id = 661428933394
+true RRC - just pretty faint
