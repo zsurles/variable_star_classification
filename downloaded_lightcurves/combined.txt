@@ -269,7 +269,7 @@ position = 5.84133 -42.44664
 magnitude = 11.14
 vsx_id = ASAS J002322-4226.8
 asassn_id = 163209104297
-
+true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -279,7 +279,7 @@ position = 6.06625 -76.28194
 magnitude = 12.981
 vsx_id = T Hyi
 asassn_id = 163209698723
-
+true RRAB - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -289,7 +289,7 @@ position = 6.09237 -77.36883
 magnitude = 14.4
 vsx_id = YZ Hyi
 asassn_id = 214748380620
-
+true RRAB - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -299,7 +299,7 @@ position = 6.76196 60.98814
 magnitude = 14.83
 vsx_id = ASASSN-V J002702.87+605917.3
 asassn_id = 661428944969
-
+true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -309,7 +309,7 @@ position = 6.1705 37.96867
 magnitude = 15.449
 vsx_id = SDSS J002440.92+375807.3
 asassn_id = 68719830084
-
+true RRAB - blended with the nearby star so ASAS-SN data are corrupted
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -319,7 +319,7 @@ position = 5.92954 29.401
 magnitude = 9.14
 vsx_id = SW And
 asassn_id = 77310940203
-
+true RRAB - close to saturation for ASAS-SN
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -329,7 +329,7 @@ position = 8.05712 33.89302
 magnitude = 10.36
 vsx_id = WISE J003213.7+335334
 asassn_id = 103080225947
-
+EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -339,7 +339,7 @@ position = 7.61955 73.57531
 magnitude = 13.69
 vsx_id = ASASSN-V J003028.69+733431.1
 asassn_id = 17180414569
-
+true RR(B) - RR Lyrae variable showing two simultaneously operating pulsation modes
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -349,7 +349,7 @@ position = 7.29509 63.46456
 magnitude = 12.036
 vsx_id = WISE J002910.8+632752
 asassn_id = 17180428264
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -359,7 +359,7 @@ position = 7.62538 43.04006
 magnitude = 14.62
 vsx_id = CSS_J003030.0+430224
 asassn_id = 25770962091
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
