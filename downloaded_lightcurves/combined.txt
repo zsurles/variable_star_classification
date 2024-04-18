@@ -369,7 +369,7 @@ position = 7.13858 49.98061
 magnitude = 13.2
 vsx_id = 1SWASP J002833.26+495850.2
 asassn_id = 77309710590
-
+peculiar Cepheid that rapidly changes its amplitude??
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -379,7 +379,7 @@ position = 8.86585 55.193
 magnitude = 11.575
 vsx_id = WISE J003527.8+551134
 asassn_id = 103079740421
-
+EW - W Ursae Majoris-type eclipsing variable (minima are kind of more 'pointy' than maxima)
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -389,7 +389,7 @@ position = 9.29733 63.61001
 magnitude = 12.064
 vsx_id = WISE J003711.3+633636
 asassn_id = 103080079304
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -399,7 +399,7 @@ position = 10.03908 -20.04853
 magnitude = 12.7
 vsx_id = ASAS J004009-2002.9
 asassn_id = 335007739328
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -409,7 +409,7 @@ position = 9.48512 67.77418
 magnitude = 12.652
 vsx_id = WISE J003756.4+674627
 asassn_id = 34360758878
-
+EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -419,7 +419,7 @@ position = 9.12321 -20.1945
 magnitude = 11.5
 vsx_id = ASAS J003629-2011.7
 asassn_id = 429496816432
-
+EW - W Ursae Majoris-type eclipsing variable, corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -429,7 +429,7 @@ position = 8.57638 -41.87111
 magnitude = 12.75
 vsx_id = ASAS J003418-4152.3
 asassn_id = 481036366939
-
+SR: - Semiregular variable?
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -439,6 +439,7 @@ position = 8.96962 45.0949
 magnitude = 14.34
 vsx_id = NSVS 3669239
 asassn_id = 60130288936
+<<<<<<< HEAD
 
 
 ######### Classification results #########
@@ -829,3 +830,6 @@ position = 20.92446 33.0875
 magnitude = 15.18
 vsx_id = CSS_J012341.9+330514
 asassn_id = 661428832842
+=======
+constant star
+>>>>>>> a78fdc093409c86945ca90847645887ef8acf940
