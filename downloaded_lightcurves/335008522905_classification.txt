@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.42
+position = 19.92742 -26.86519
+magnitude = 11.1
+vsx_id = RV Scl
+asassn_id = 335008522905

@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.56
+position = 22.91917 -49.95525
+magnitude = 11.9
+vsx_id = DR Phe
+asassn_id = 549756021219

@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 13.72221 -66.708
+magnitude = 12.22
+vsx_id = AG Tuc
+asassn_id = 644245771319

@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 10.33103 5.34631
+magnitude = 13.89
+vsx_id = SW Psc
+asassn_id = 386547129218

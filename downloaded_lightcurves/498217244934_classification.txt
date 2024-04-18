@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 11.27546 -18.90428
+magnitude = 11.9
+vsx_id = FX Cet
+asassn_id = 498217244934

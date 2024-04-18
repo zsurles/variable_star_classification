@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.38
+position = 23.03404 1.34175
+magnitude = 9.15
+vsx_id = RR Cet
+asassn_id = 274878563884

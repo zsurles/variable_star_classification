@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 11.33596 -4.32358
+magnitude = 12.9
+vsx_id = GQ Cet
+asassn_id = 403727512266

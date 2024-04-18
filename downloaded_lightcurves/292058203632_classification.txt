@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.75
+position = 10.44071 -3.00778
+magnitude = 14.3
+vsx_id = II Cet
+asassn_id = 292058203632

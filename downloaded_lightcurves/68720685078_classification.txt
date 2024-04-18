@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.98
+position = 17.76517 57.34608
+magnitude = 11.79
+vsx_id = HU Cas
+asassn_id = 68720685078

@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.4
+position = 21.15229 54.0885
+magnitude = 13.52
+vsx_id = ISON_J012436.6+540519
+asassn_id = 137440318164

@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.65
+position = 13.6728 -28.23197
+magnitude = 14.0
+vsx_id = DH Scl
+asassn_id = 377957651286
