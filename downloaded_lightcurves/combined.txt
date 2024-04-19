@@ -439,7 +439,6 @@ position = 8.96962 45.0949
 magnitude = 14.34
 vsx_id = NSVS 3669239
 asassn_id = 60130288936
-<<<<<<< HEAD
 
 
 ######### Classification results #########
@@ -830,6 +829,3 @@ position = 20.92446 33.0875
 magnitude = 15.18
 vsx_id = CSS_J012341.9+330514
 asassn_id = 661428832842
-=======
-constant star
->>>>>>> a78fdc093409c86945ca90847645887ef8acf940
