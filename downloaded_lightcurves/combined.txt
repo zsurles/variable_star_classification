@@ -829,3 +829,253 @@ position = 20.92446 33.0875
 magnitude = 15.18
 vsx_id = CSS_J012341.9+330514
 asassn_id = 661428832842
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.46
+position = 25.65118 43.23909
+magnitude = 14.54
+vsx_id = CSS_J014236.2+431421
+asassn_id = 120259779346
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.41
+position = 28.08094 52.50314
+magnitude = 15.1
+vsx_id = PS1-3PI J015219.42+523011.3
+asassn_id = 197568921816
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.6
+position = 25.54783 -29.98911
+magnitude = 14.0
+vsx_id = SS Scl
+asassn_id = 352188311547
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.46
+position = 28.42746 15.871
+magnitude = 14.64
+vsx_id = DO Ari
+asassn_id = 386547608005
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.88
+position = 28.3801 64.42443
+magnitude = 13.249
+vsx_id = WISE J015331.2+642527
+asassn_id = 51540903233
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.94
+position = 26.55325 -47.35314
+magnitude = 15.0
+vsx_id = AB Phe
+asassn_id = 523986947569
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.65
+position = 27.27706 70.52662
+magnitude = 13.329
+vsx_id = WISE J014906.4+703135
+asassn_id = 60129845092
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.91
+position = 26.68783 60.58451
+magnitude = 15.29
+vsx_id = ASASSN-V J014645.08+603504.2
+asassn_id = 60130152775
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.94
+position = 25.7095 -36.0659
+magnitude = 14.36
+vsx_id = NSVS 17503446
+asassn_id = 661427772759
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.28
+position = 26.7893 56.4546
+magnitude = 13.11
+vsx_id = PS1-3PI J014709.43+562716.5
+asassn_id = 85900177278
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.54
+position = 29.41612 11.52914
+magnitude = 10.23
+vsx_id = ASAS J015740+1131.8
+asassn_id = 240518990155
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.4
+position = 29.62328 26.05922
+magnitude = 12.71
+vsx_id = ASAS J015830+2603.5
+asassn_id = 266288772526
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.29
+position = 30.72883 -1.09981
+magnitude = 14.59
+vsx_id = CSS_J020254.9-010559
+asassn_id = 292058033423
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.29
+position = 31.96658 -26.86603
+magnitude = 9.45
+vsx_id = SS For
+asassn_id = 335008523179
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.53
+position = 29.20275 -6.83272
+magnitude = 11.65
+vsx_id = ASAS J015649-0650.0
+asassn_id = 377958396937
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.33
+position = 28.98071 2.04564
+magnitude = 13.88
+vsx_id = CSS_J015555.3+020244
+asassn_id = 395138134263
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.5
+position = 29.23396 -41.81614
+magnitude = 12.44
+vsx_id = ASAS J015656-4149.0
+asassn_id = 463856731134
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.61
+position = 31.95837 64.49198
+magnitude = 14.2
+vsx_id = ASASSN-V J020750.01+642931.1
+asassn_id = 51540904833
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.91
+position = 32.88842 -18.88648
+magnitude = 13.53
+vsx_id = PS1-3PI J021133.22-185311.3
+asassn_id = 661428595223
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.52
+position = 31.57279 13.95558
+magnitude = 13.71
+vsx_id = CSS_J020617.4+135720
+asassn_id = 661428754830
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.98
+position = 28.97535 38.69768
+magnitude = 14.846
+vsx_id = CSS_J015554.0+384151
+asassn_id = 661428852683
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.5
+position = 32.56357 62.9744
+magnitude = 12.413
+vsx_id = WISE J021015.2+625827
+asassn_id = 661428949189
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.33
+position = 28.65263 63.20709
+magnitude = 15.4
+vsx_id = ASASSN-V J015436.63+631225.5
+asassn_id = 661428949611
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.63
+position = 30.11828 66.77205
+magnitude = 12.525
+vsx_id = WISE J020028.3+664619
+asassn_id = 661428954794
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.75
+position = 29.53227 66.05277
+magnitude = 12.535
+vsx_id = WISE J015807.7+660309
+asassn_id = 8591361573

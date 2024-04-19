@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.94
+position = 26.55325 -47.35314
+magnitude = 15.0
+vsx_id = AB Phe
+asassn_id = 523986947569

@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 26.39588 31.38044
+magnitude = 13.5
+vsx_id = UX Tri
+asassn_id = 94489905758

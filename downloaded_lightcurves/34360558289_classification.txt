@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 28.88092 33.76886
+magnitude = 11.88
+vsx_id = U Tri
+asassn_id = 34360558289

@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.44
+position = 29.64108 57.44525
+magnitude = 13.8
+vsx_id = KV Per
+asassn_id = 68720702168

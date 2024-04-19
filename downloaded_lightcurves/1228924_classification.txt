@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 32.50363 32.40247
+magnitude = 14.374
+vsx_id = VX Tri
+asassn_id = 1228924

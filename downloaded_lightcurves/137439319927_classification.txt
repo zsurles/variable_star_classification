@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 24.52638 33.01006
+magnitude = 14.509
+vsx_id = AT Tri
+asassn_id = 137439319927
