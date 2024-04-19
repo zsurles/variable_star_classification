@@ -489,7 +489,7 @@ position = 15.99073 -16.96561
 magnitude = 14.97
 vsx_id = CSS_J010357.7-165757
 asassn_id = 300648327498
-
+true RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
