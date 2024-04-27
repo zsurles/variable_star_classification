@@ -519,7 +519,7 @@ position = 12.0695 -74.59758
 magnitude = 13.3
 vsx_id = VY Hyi
 asassn_id = 429496871520
-
+SRA - Semiregular late-type (M, C, S or Me, Ce, Se) giant
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -529,7 +529,7 @@ position = 10.19218 43.39985
 magnitude = 15.412
 vsx_id = V0499 And
 asassn_id = 42949690094
-
+candidate RRC in eclipsing? binary? SpType: A2V (LAMOST DR5); initial discovery report: http://ibvs.konkoly.hu/pub/ibvs/5601/5700.pdf Robertson, Jeff - Arkansas Tech University,
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
