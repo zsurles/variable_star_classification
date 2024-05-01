@@ -509,7 +509,7 @@ position = 13.6728 -28.23197
 magnitude = 14.0
 vsx_id = DH Scl
 asassn_id = 377957651286
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -529,7 +529,7 @@ position = 10.19218 43.39985
 magnitude = 15.412
 vsx_id = V0499 And
 asassn_id = 42949690094
-candidate RRC in eclipsing? binary? SpType: A2V (LAMOST DR5); initial discovery report: http://ibvs.konkoly.hu/pub/ibvs/5601/5700.pdf Robertson, Jeff - Arkansas Tech University,
+RRC with variable period (7d orbit binary??) SpType: A2V (LAMOST DR5); initial discovery report: http://ibvs.konkoly.hu/pub/ibvs/5601/5700.pdf Robertson, Jeff - Arkansas Tech University,
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -539,7 +539,7 @@ position = 15.12442 36.066
 magnitude = 14.02
 vsx_id = CSS_J010029.8+360357
 asassn_id = 51540712913
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -549,7 +549,7 @@ position = 15.12902 69.68138
 magnitude = 13.62
 vsx_id = NSVS 336806
 asassn_id = 51540743514
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -559,7 +559,7 @@ position = 15.36511 -17.09556
 magnitude = 15.035
 vsx_id = CSS_J010127.6-170544
 asassn_id = 661428605480
-
+true RRAB - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -569,7 +569,7 @@ position = 11.86379 40.95244
 magnitude = 14.99
 vsx_id = CSS_J004727.3+405708
 asassn_id = 661428866727
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -579,7 +579,7 @@ position = 15.22964 48.33896
 magnitude = 15.3
 vsx_id = PS1-3PI J010055.12+482020.2
 asassn_id = 661428911686
-
+true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -589,7 +589,7 @@ position = 18.80619 27.18009
 magnitude = 14.784
 vsx_id = CSS_J011513.4+271048
 asassn_id = 163209863157
-
+true RRAB
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -599,7 +599,7 @@ position = 19.01721 63.3413
 magnitude = 13.104
 vsx_id = WISE J011604.1+632028
 asassn_id = 17180436110
-
+EW - W Ursae Majoris-type eclipsing variable  - too faint for ASAS-SN, classification based on ZTF lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -609,7 +609,7 @@ position = 18.24273 76.13571
 magnitude = 12.91
 vsx_id = NSVS 269243
 asassn_id = 25770299404
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
