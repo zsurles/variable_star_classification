@@ -619,7 +619,7 @@ position = 19.92742 -26.86519
 magnitude = 11.1
 vsx_id = RV Scl
 asassn_id = 335008522905
-
+constant
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -629,7 +629,7 @@ position = 18.81815 47.35371
 magnitude = 14.02
 vsx_id = NSVS 3775229
 asassn_id = 60130247590
-
+constant
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -639,6 +639,7 @@ position = 18.78592 -61.91897
 magnitude = 12.69
 vsx_id = ASAS J011509-6155.2
 asassn_id = 609885933609
+EW - W Ursae Majoris-type eclipsing variable ??
 
 
 ######### Classification results #########
@@ -649,7 +650,7 @@ position = 18.6085 24.41567
 magnitude = 9.93
 vsx_id = RU Psc
 asassn_id = 661428799420
-
+true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -659,7 +660,7 @@ position = 24.09671 48.00789
 magnitude = 13.12
 vsx_id = V0797 And
 asassn_id = 120259200129
-
+true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -669,7 +670,7 @@ position = 22.82827 71.72525
 magnitude = 13.076
 vsx_id = WISE J013118.7+714330
 asassn_id = 120259254551
-
+EB - Beta Lyrae-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -679,7 +680,7 @@ position = 23.99305 59.91316
 magnitude = 13.299
 vsx_id = WISE J013558.3+595447
 asassn_id = 137439640944
-
+EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -689,7 +690,7 @@ position = 19.96729 58.74936
 magnitude = 15.34
 vsx_id = V1092 Cas
 asassn_id = 146029865540
-
+const
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -699,6 +700,7 @@ position = 20.60944 59.21006
 magnitude = 11.457
 vsx_id = V1276 Cas
 asassn_id = 154619049544
+BY Draconis-type variables
 
 
 ######### Classification results #########
@@ -709,6 +711,7 @@ position = 22.40046 22.42411
 magnitude = 12.07
 vsx_id = ASAS J012936+2225.4
 asassn_id = 171798747376
+EW - W Ursae Majoris-type eclipsing variable ??
 
 
 ######### Classification results #########
