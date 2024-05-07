@@ -499,7 +499,7 @@ position = 15.11967 -44.07011
 magnitude = 12.29
 vsx_id = ASAS J010029-4404.2
 asassn_id = 360778411010
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -722,7 +722,7 @@ position = 22.46321 5.61225
 magnitude = 11.5
 vsx_id = ASAS J012951+0536.7
 asassn_id = 188978753552
-
+true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -732,7 +732,7 @@ position = 22.5085 4.15256
 magnitude = 15.37
 vsx_id = SEKBO 128750.149
 asassn_id = 188979185097
-
+constant -- confirmed with TESS
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -742,7 +742,7 @@ position = 23.63675 2.74507
 magnitude = 13.34
 vsx_id = NSVS 12009123
 asassn_id = 214749384998
-
+true RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -752,7 +752,7 @@ position = 23.03404 1.34175
 magnitude = 9.15
 vsx_id = RR Cet
 asassn_id = 274878563884
-
+true RRAB, corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -762,7 +762,7 @@ position = 20.87596 -13.92425
 magnitude = 8.4
 vsx_id = CW Cet
 asassn_id = 300648159536
-
+EW - W Ursae Majoris-type eclipsing variable - classification based on TESS lightcurve and SpType: F6IV 1988MSS...C04....0H J-Ks=0.282+/-0.029 (F) - saturated - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -772,6 +772,7 @@ position = 20.3565 -15.73032
 magnitude = 14.153
 vsx_id = CSS_J012125.5-154349
 asassn_id = 300648645519
+SRA - Semiregular late-type (M, C, S or Me, Ce, Se) giant
 
 
 ######### Classification results #########
@@ -782,7 +783,7 @@ position = 20.60117 79.56335
 magnitude = 13.398
 vsx_id = WISE J012224.2+793348
 asassn_id = 34360210537
-
+true RRC???
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -792,7 +793,7 @@ position = 23.00623 64.99035
 magnitude = 13.74
 vsx_id = ASASSN-V J013201.50+645925.3
 asassn_id = 34360322751
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -802,7 +803,7 @@ position = 22.83446 6.33333
 magnitude = 10.17
 vsx_id = ASAS J013120+0620.0
 asassn_id = 352187689319
-
+ -- corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -812,7 +813,7 @@ position = 20.40687 -73.83819
 magnitude = 13.45
 vsx_id = ASAS J012138-7350.2
 asassn_id = 558346211055
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -822,7 +823,7 @@ position = 22.95088 6.0635
 magnitude = 11.94
 vsx_id = ASAS J013148+0603.8
 asassn_id = 661428722637
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -842,7 +843,7 @@ position = 25.65118 43.23909
 magnitude = 14.54
 vsx_id = CSS_J014236.2+431421
 asassn_id = 120259779346
-
+true RRAB -- funny slow rise to peak
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -852,7 +853,7 @@ position = 28.08094 52.50314
 magnitude = 15.1
 vsx_id = PS1-3PI J015219.42+523011.3
 asassn_id = 197568921816
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -862,7 +863,7 @@ position = 25.54783 -29.98911
 magnitude = 14.0
 vsx_id = SS Scl
 asassn_id = 352188311547
-
+true RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -872,7 +873,7 @@ position = 28.42746 15.871
 magnitude = 14.64
 vsx_id = DO Ari
 asassn_id = 386547608005
-
+true RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -882,7 +883,7 @@ position = 28.3801 64.42443
 magnitude = 13.249
 vsx_id = WISE J015331.2+642527
 asassn_id = 51540903233
-
+RS
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -902,7 +903,7 @@ position = 27.27706 70.52662
 magnitude = 13.329
 vsx_id = WISE J014906.4+703135
 asassn_id = 60129845092
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -912,7 +913,7 @@ position = 26.68783 60.58451
 magnitude = 15.29
 vsx_id = ASASSN-V J014645.08+603504.2
 asassn_id = 60130152775
-
+SXPHE
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -942,7 +943,7 @@ position = 29.41612 11.52914
 magnitude = 10.23
 vsx_id = ASAS J015740+1131.8
 asassn_id = 240518990155
-
+-- corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -952,7 +953,7 @@ position = 29.62328 26.05922
 magnitude = 12.71
 vsx_id = ASAS J015830+2603.5
 asassn_id = 266288772526
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -962,7 +963,7 @@ position = 30.72883 -1.09981
 magnitude = 14.59
 vsx_id = CSS_J020254.9-010559
 asassn_id = 292058033423
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -972,7 +973,7 @@ position = 31.96658 -26.86603
 magnitude = 9.45
 vsx_id = SS For
 asassn_id = 335008523179
-
+true RRAB -- corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -982,7 +983,7 @@ position = 29.20275 -6.83272
 magnitude = 11.65
 vsx_id = ASAS J015649-0650.0
 asassn_id = 377958396937
-
+EW - W Ursae Majoris-type eclipsing variable -- corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -992,7 +993,7 @@ position = 28.98071 2.04564
 magnitude = 13.88
 vsx_id = CSS_J015555.3+020244
 asassn_id = 395138134263
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1002,7 +1003,7 @@ position = 29.23396 -41.81614
 magnitude = 12.44
 vsx_id = ASAS J015656-4149.0
 asassn_id = 463856731134
-
+true RRAB - funny slow rise to maximum light
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1012,7 +1013,7 @@ position = 31.95837 64.49198
 magnitude = 14.2
 vsx_id = ASASSN-V J020750.01+642931.1
 asassn_id = 51540904833
-
+true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1022,7 +1023,7 @@ position = 32.88842 -18.88648
 magnitude = 13.53
 vsx_id = PS1-3PI J021133.22-185311.3
 asassn_id = 661428595223
-
+EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1032,7 +1033,7 @@ position = 31.57279 13.95558
 magnitude = 13.71
 vsx_id = CSS_J020617.4+135720
 asassn_id = 661428754830
-
+true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
