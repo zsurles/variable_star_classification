@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 34.39217 21.71636
+magnitude = 12.1
+vsx_id = SY Ari
+asassn_id = 274878168317

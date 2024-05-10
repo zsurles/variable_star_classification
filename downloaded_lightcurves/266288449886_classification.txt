@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.57
+position = 34.96791 9.28004
+magnitude = 12.3
+vsx_id = HN Cet
+asassn_id = 266288449886

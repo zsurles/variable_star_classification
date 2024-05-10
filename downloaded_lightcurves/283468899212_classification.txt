@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 34.87762 -73.56583
+magnitude = 12.574
+vsx_id = TW Hyi
+asassn_id = 283468899212
