@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 38.47113 35.79569
+magnitude = 14.21
+vsx_id = SX Tri
+asassn_id = 25770622618

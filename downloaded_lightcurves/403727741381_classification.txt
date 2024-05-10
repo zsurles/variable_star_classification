@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 36.77133 -71.27061
+magnitude = 14.9
+vsx_id = TX Hyi
+asassn_id = 403727741381
