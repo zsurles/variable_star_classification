@@ -1124,7 +1124,7 @@ position = 33.81208 -10.80019
 magnitude = 10.35
 vsx_id = RV Cet
 asassn_id = 300648476487
-
+True RRAB - corrupted ASASSN data
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1134,7 +1134,7 @@ position = 34.6708 -5.88288
 magnitude = 14.4
 vsx_id = CSS_J021841.0-055259
 asassn_id = 309238039156
-
+BY Draconis
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1144,7 +1144,7 @@ position = 34.95708 -9.65328
 magnitude = 14.04
 vsx_id = CSS_J021949.7-093911
 asassn_id = 343598390728
-
+True RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1154,7 +1154,7 @@ position = 33.41554 39.37681
 magnitude = 14.94
 vsx_id = CSS_J021339.7+392236
 asassn_id = 42949807655
-
+unsure
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1164,7 +1164,7 @@ position = 34.79583 40.48794
 magnitude = 14.25
 vsx_id = CSS_J021911.0+402916
 asassn_id = 42950751740
-
+EW 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1174,7 +1174,7 @@ position = 35.17998 66.75658
 magnitude = 13.76
 vsx_id = ASASSN-V J022043.19+664523.7
 asassn_id = 68719959276
-
+EW
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
