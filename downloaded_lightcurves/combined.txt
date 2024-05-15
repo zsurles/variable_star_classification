@@ -1114,7 +1114,7 @@ position = 34.02596 34.63033
 magnitude = 12.75
 vsx_id = BW Tri
 asassn_id = 223339323706
-unsure
+EW - W Ursae Majoris-type eclipsing variable, according to TESS lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1154,7 +1154,7 @@ position = 33.41554 39.37681
 magnitude = 14.94
 vsx_id = CSS_J021339.7+392236
 asassn_id = 42949807655
-unsure
+true RRC, according to TESS lightcurve
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1164,7 +1164,7 @@ position = 34.79583 40.48794
 magnitude = 14.25
 vsx_id = CSS_J021911.0+402916
 asassn_id = 42950751740
-EW 
+EW - W Ursae Majoris-type eclipsing variable 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1174,7 +1174,7 @@ position = 35.17998 66.75658
 magnitude = 13.76
 vsx_id = ASASSN-V J022043.19+664523.7
 asassn_id = 68719959276
-EW
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1184,7 +1184,7 @@ position = 36.84908 54.28722
 magnitude = 14.9
 vsx_id = PS1-3PI J022723.77+541713.9
 asassn_id = 103079505155
-
+constant according to ZTF lightcurve
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1194,7 +1194,7 @@ position = 39.03912 -77.90861
 magnitude = 14.0
 vsx_id = NSV 885
 asassn_id = 135557
-
+constant
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1204,7 +1204,7 @@ position = 40.21123 37.79017
 magnitude = 13.345
 vsx_id = CSS_J024050.6+374724
 asassn_id = 137439952939
-
+constant according to ZTF lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1214,7 +1214,7 @@ position = 36.01046 30.08925
 magnitude = 15.0
 vsx_id = CSS_J022402.5+300521
 asassn_id = 154618966004
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
