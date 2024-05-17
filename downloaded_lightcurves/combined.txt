@@ -1224,7 +1224,7 @@ position = 39.274 -42.96333
 magnitude = 8.75
 vsx_id = CS Eri
 asassn_id = 163209144697
-
+true RRC from TESS lightcurve, corrupted ASAS-SN data (saturated)
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1234,7 +1234,7 @@ position = 39.46396 63.42415
 magnitude = 14.79
 vsx_id = ASASSN-V J023751.35+632526.9
 asassn_id = 17180453841
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1244,7 +1244,7 @@ position = 39.58592 20.25939
 magnitude = 8.59
 vsx_id = ASAS J023821+2015.5
 asassn_id = 188979597804
-
+ need TESS corrupted ASAS-SN data (saturated)
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1254,7 +1254,7 @@ position = 39.35747 43.88899
 magnitude = 12.028
 vsx_id = WISE J023725.7+435320
 asassn_id = 206158828541
-
+true RRC, but I'm not entierly sure
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1264,7 +1264,7 @@ position = 37.28249 2.5435
 magnitude = 14.738
 vsx_id = CSS_J022907.7+023236
 asassn_id = 206159302910
-
+ need TESS
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1274,7 +1274,7 @@ position = 39.44958 27.785
 magnitude = 12.26
 vsx_id = ASAS J023748+2747.1
 asassn_id = 223338866775
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
