@@ -1334,7 +1334,7 @@ position = 38.90333 52.41069
 magnitude = 11.95
 vsx_id = BEST F2_09401
 asassn_id = 51540626457
-needs TESS, longterm variability
+BY Draconis
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
