@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.98
+position = 42.82667 -20.05689
+magnitude = 13.4
+vsx_id = SZ Eri
+asassn_id = 515396287999

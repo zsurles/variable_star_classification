@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.45
+position = 47.96713 -11.35392
+magnitude = 9.56
+vsx_id = SV Eri
+asassn_id = 326417655735

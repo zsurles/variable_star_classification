@@ -1,0 +1,10 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 44.38938 -59.77157
+magnitude = 13.6
+vsx_id = RX Hor
+asassn_id = 644245506650
