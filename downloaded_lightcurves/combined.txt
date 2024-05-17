@@ -1284,7 +1284,7 @@ position = 38.11654 34.04594
 magnitude = 13.43
 vsx_id = CSS_J023227.9+340245
 asassn_id = 25770161767
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1294,7 +1294,7 @@ position = 39.54042 14.35117
 magnitude = 11.95
 vsx_id = ASAS J023810+1421.1
 asassn_id = 369367815905
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1304,7 +1304,7 @@ position = 35.99096 -45.64483
 magnitude = 12.25
 vsx_id = ASAS J022358-4538.8
 asassn_id = 455266608467
-
+True RRC - unsure
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1314,7 +1314,7 @@ position = 36.02853 -44.85298
 magnitude = 14.2
 vsx_id = SSS_J022406.7-445112
 asassn_id = 472447609369
-
+True RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1324,7 +1324,7 @@ position = 37.12583 -28.80306
 magnitude = 12.98
 vsx_id = ASAS J022830-2848.2
 asassn_id = 506806820269
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1334,7 +1334,7 @@ position = 38.90333 52.41069
 magnitude = 11.95
 vsx_id = BEST F2_09401
 asassn_id = 51540626457
-
+needs TESS, longterm variability
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1344,7 +1344,7 @@ position = 37.17667 42.82481
 magnitude = 13.07
 vsx_id = WISE J022842.4+424929
 asassn_id = 60130793282
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1354,7 +1354,7 @@ position = 39.99004 -55.13308
 magnitude = 14.24
 vsx_id = SSS_J023957.5-550759
 asassn_id = 644245338076
-
+True RRAB
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1364,7 +1364,7 @@ position = 36.47441 -34.81954
 magnitude = 13.95
 vsx_id = SSS_J022553.9-344910
 asassn_id = 661427811245
-
+needs TESS, likely constant
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1374,7 +1374,7 @@ position = 42.851 41.84386
 magnitude = 14.26
 vsx_id = CSS_J025124.2+415037
 asassn_id = 120260431273
-
+EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
