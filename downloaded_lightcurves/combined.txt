@@ -8,7 +8,8 @@ position = 1.07524 58.52606
 magnitude = 15.42
 vsx_id = ASASSN-V J000418.06+583133.8
 asassn_id = 111670556542
-possibly constant star
+color_string =  ASASSN-V J000418.06+583133.8 | 00:04:18.06 +58:31:33.8 (Gaia DR3)  | RRC (VSX)        | 0.332415000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.938+/-0.033 (M)
+visual_inspection_comments = possibly constant star
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -18,7 +19,8 @@ position = 0.56444 62.15241
 magnitude = 13.79
 vsx_id = PS1-3PI J000215.46+620908.6
 asassn_id = 120259361503
-constant
+color_string =  PS1-3PI J000215.46+620908.6  | 00:02:15.47 +62:09:08.6 (Gaia DR3)  | RRAB (VSX)       | 0.626613000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.356+/-0.035 (G)
+visual_inspection_comments = constant
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -28,7 +30,8 @@ position = 0.97629 -75.83206
 magnitude = 14.1
 vsx_id = NSV 8
 asassn_id = 154619831684
-constant
+color_string =  NSV 8                        | 00:03:54.36 -75:49:55.7 (Gaia DR3)  | RR: (VSX)        |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.367+/-0.038 (G)
+visual_inspection_comments = constant
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -38,7 +41,8 @@ position = 0.18614 -43.13307
 magnitude = 15.21
 vsx_id = SSS_J000044.8-430758
 asassn_id = 317828130659
-true RRC - corrupted ASAS-SN data
+color_string =  SSS_J000044.8-430758         | 00:00:44.68 -43:07:59.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.493+/-0.069 (K)
+visual_inspection_comments = true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -48,7 +52,8 @@ position = 1.04076 -41.13636
 magnitude = 13.68
 vsx_id = ASAS J000410-4108.2
 asassn_id = 455266817326
-true RRab - corrupted ASAS-SN data
+color_string =  ASAS J000410-4108.2          | 00:04:09.80 -41:08:11.0 (Gaia DR3)  | RRAB (VSX)       | 0.525510000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.312+/-0.045 (F)
+visual_inspection_comments = true RRab - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -58,7 +63,8 @@ position = 3.50109 60.89321
 magnitude = 13.5
 vsx_id = ASASSN-V J001400.26+605335.6
 asassn_id = 128849749198
-true RRC
+color_string =  ASASSN-V J001400.26+605335.6 | 00:14:00.18 +60:53:35.2 (Gaia DR3)  | RRC (VSX)        | 0.238084000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.428+/-0.032 (G)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -68,7 +74,8 @@ position = 2.80154 22.23589
 magnitude = 11.921
 vsx_id = ASAS J001113+2214.2
 asassn_id = 180388861098
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASAS J001113+2214.2          | 00:11:12.37 +22:14:09.1 (Gaia DR3)  | EC/RRC (VSX)     | 0.503197000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.230+/-0.032 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -78,7 +85,8 @@ position = 1.56061 19.69367
 magnitude = 14.18
 vsx_id = CSS_J000614.5+194136
 asassn_id = 214748587822
-CWB/RRab - BL Her/RRab
+color_string =  CSS_J000614.5+194136         | 00:06:14.55 +19:41:37.0 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.331+/-0.040 (G)
+visual_inspection_comments = CWB/RRab - BL Her/RRab
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -88,7 +96,8 @@ position = 2.87817 19.66019
 magnitude = 9.73
 vsx_id = ASAS J001131+1939.6
 asassn_id = 214748600537
-true RRC
+color_string =  ASAS J001131+1939.6          | 00:11:30.76 +19:39:36.5 (Gaia DR3)  | RRC/EC (VSX)     | 0.295282000000 (VSX) |  Gaia3var=VARIABLE        SpType: A7V (LAMOST DR5)     J-Ks=0.239+/-0.032 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -98,7 +107,8 @@ position = 3.22345 64.30151
 magnitude = 11.888
 vsx_id = WISE J001253.6+641805
 asassn_id = 388378
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  WISE J001253.6+641805        | 00:12:53.63 +64:18:05.5 (Gaia DR3)  | RRC (VSX)        | 0.357836500000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.554+/-0.032 (K)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -108,7 +118,8 @@ position = 3.80254 -70.27856
 magnitude = 11.89
 vsx_id = ASAS J001513-7016.7
 asassn_id = 549756413393
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASAS J001513-7016.7          | 00:15:12.63 -70:16:42.6 (Gaia DR3)  | DSCT/RRC/EC (VSX) | 0.209465000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.462+/-0.070 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -118,7 +129,8 @@ position = 2.61108 -24.967
 magnitude = 11.5
 vsx_id = ASASSN-V J001026.66-245801.2
 asassn_id = 549756977370
-true RRC - corrupted ASAS-SN data
+color_string =  ASASSN-V J001026.66-245801.2 | 00:10:26.67 -24:58:00.9 (Gaia DR3)  | RRC (VSX)        | 0.353560000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.246+/-0.029 (F)
+visual_inspection_comments = true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -128,7 +140,8 @@ position = 2.331 54.8188
 magnitude = 14.88
 vsx_id = PS1-3PI J000919.44+544907.6
 asassn_id = 60129786677
-EB - Beta Lyrae-type eclipsing system (based on ZTF), corrupted ASAS-SN data
+color_string =  PS1-3PI J000919.44+544907.6  | 00:09:19.44 +54:49:07.7 (Gaia DR3)  | RRC (VSX)        | 0.303017000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.306+/-0.048 (F)
+visual_inspection_comments = EB - Beta Lyrae-type eclipsing system (based on ZTF), corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -138,7 +151,8 @@ position = 2.45628 -56.52406
 magnitude = 15.43
 vsx_id = SSS_J000949.5-563127
 asassn_id = 661427629142
-true RRab
+color_string =  SSS_J000949.5-563127         | 2.45628 -56.52406 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                            J-Ks=0.160+/-0.090 (F)
+visual_inspection_comments = true RRab
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -148,7 +162,8 @@ position = 2.4414 -5.02658
 magnitude = 15.31
 vsx_id = PS1-3PI J000945.92-050135.7
 asassn_id = 661428667349
-true RRab - corrupted ASAS-SN data
+color_string =  PS1-3PI J000945.92-050135.7  | 00:09:45.93 -05:01:35.8 (Gaia DR3)  | RRAB (VSX)       | 0.568172000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.306+/-0.065 (F)
+visual_inspection_comments = true RRab - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -158,7 +173,8 @@ position = 2.29306 54.57882
 magnitude = 15.33
 vsx_id = PS1-3PI J000910.33+543443.7
 asassn_id = 661428931359
-true RRab - blended with nearby bright star
+color_string =  PS1-3PI J000910.33+543443.7  | 00:09:10.35 +54:34:43.7 (Gaia DR3)  | RRAB (VSX)       | 0.592042000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.352+/-0.057 (G)
+visual_inspection_comments = true RRab - blended with nearby bright star
 
 
 ######### Classification results #########
@@ -169,7 +185,8 @@ position = 5.14196 62.1504
 magnitude = 14.6
 vsx_id = ASASSN-V J002034.07+620901.4
 asassn_id = 120259364823
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASASSN-V J002034.07+620901.4 | 00:20:34.07 +62:09:01.4 (Gaia DR3)  | RRC (VSX)        | 0.266321000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.372+/-0.046 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -179,7 +196,8 @@ position = 4.55404 21.03375
 magnitude = 14.54
 vsx_id = CSS_J001812.9+210201
 asassn_id = 171799541201
-true RR(B)  RR Lyrae variables showing two simultaneously operating pulsation modes.
+color_string =  CSS_J001812.9+210201         | 00:18:12.97 +21:02:01.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.426+/-0.042 (G)
+visual_inspection_comments = true RR(B)  RR Lyrae variables showing two simultaneously operating pulsation modes.
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -189,7 +207,8 @@ position = 5.43708 24.91631
 magnitude = 10.81
 vsx_id = ASAS J002145+2455.0
 asassn_id = 188978664246
-true RRC - corrupted ASAS-SN data
+color_string =  ASAS J002145+2455.0          | 00:21:44.90 +24:54:58.6 (Gaia DR3)  | EC/RRC/DSCT/ESD (VSX) | 0.435610000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.235+/-0.029 (F)
+visual_inspection_comments = true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -199,7 +218,8 @@ position = 4.51567 43.28278
 magnitude = 12.65
 vsx_id = CSS_J001803.7+431658
 asassn_id = 42949677128
-EB - Beta Lyrae-type eclipsing system
+color_string =  CSS_J001803.7+431658         | 00:18:03.78 +43:16:57.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.151+/-0.029 (F)
+visual_inspection_comments = EB - Beta Lyrae-type eclipsing system
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -209,7 +229,8 @@ position = 5.48396 -22.67392
 magnitude = 11.95
 vsx_id = ASAS J002156-2240.4
 asassn_id = 463857302252
-true RRC - corrupted ASAS-SN data
+color_string =  ASAS J002156-2240.4          | 00:21:56.14 -22:40:25.9 (Gaia DR3)  | ESD/RRC/EC (VSX) | 0.540450000000 (VSX) |  Gaia3var=VARIABLE        SpType: A5 1971AJ.....76..338S SB 146  J-Ks=0.179+/-0.032 (F)
+visual_inspection_comments = true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -219,7 +240,8 @@ position = 5.08733 -25.32261
 magnitude = 11.32
 vsx_id = ASAS J002021-2519.3
 asassn_id = 558346822146
-true RRC
+color_string =  ASAS J002021-2519.3          | 00:20:21.00 -25:19:21.3 (Gaia DR3)  | EC/RRC/DSCT (VSX) | 0.412730000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.338+/-0.031 (G)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -229,7 +251,8 @@ position = 5.28071 -53.83809
 magnitude = 14.22
 vsx_id = SSS_J002107.3-535017
 asassn_id = 609886364962
-true RRAB - or maybe BL Her?
+color_string =  SSS_J002107.3-535017         | 00:21:07.36 -53:50:17.3 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.281+/-0.043 (F)
+visual_inspection_comments = true RRAB - or maybe BL Her?
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -239,7 +262,8 @@ position = 4.95408 18.80006
 magnitude = 15.2
 vsx_id = CSS_J001948.9+184800
 asassn_id = 661428774878
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  CSS_J001948.9+184800         | 00:19:49.01 +18:47:59.8 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A9V (LAMOST DR5)      J-Ks=0.318+/-0.067 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -249,7 +273,8 @@ position = 5.26279 40.4905
 magnitude = 15.43
 vsx_id = CSS_J002103.0+402925
 asassn_id = 661428863525
-true RRC
+color_string =  CSS_J002103.0+402925         | 00:21:03.10 +40:29:25.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A6IV (LAMOST DR5)     J-Ks=0.119+/-0.086 (A)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -259,7 +284,8 @@ position = 4.5945 55.53056
 magnitude = 8.827
 vsx_id = WISE J001822.6+553150
 asassn_id = 661428933394
-true RRC - just pretty faint
+color_string =  WISE J001822.6+553150        | 00:18:22.73 +55:31:49.7 (Gaia DR3)  | RRC (VSX)        | 0.346594100000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.271+/-0.024 (F)
+visual_inspection_comments = true RRC - just pretty faint
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -269,7 +295,8 @@ position = 5.84133 -42.44664
 magnitude = 11.14
 vsx_id = ASAS J002322-4226.8
 asassn_id = 163209104297
-true RRC
+color_string =  ASAS J002322-4226.8          | 00:23:21.89 -42:26:48.0 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.628330000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.224+/-0.034 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -279,7 +306,8 @@ position = 6.06625 -76.28194
 magnitude = 12.981
 vsx_id = T Hyi
 asassn_id = 163209698723
-true RRAB - corrupted ASAS-SN data
+color_string =  T Hyi                        | 00:24:15.92 -76:16:55.1 (Gaia DR3)  | RR (GCVS)        | 0.5687500000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.346+/-0.035 (G)
+visual_inspection_comments = true RRAB - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -289,7 +317,8 @@ position = 6.09237 -77.36883
 magnitude = 14.4
 vsx_id = YZ Hyi
 asassn_id = 214748380620
-true RRAB - corrupted ASAS-SN data
+color_string =  YZ Hyi                       | 00:24:22.28 -77:22:08.4 (Gaia DR3)  | RRAB (GCVS)      | 0.4900000000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.400+/-0.039 (G)
+visual_inspection_comments = true RRAB - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -299,7 +328,8 @@ position = 6.76196 60.98814
 magnitude = 14.83
 vsx_id = ASASSN-V J002702.87+605917.3
 asassn_id = 661428944969
-true RRC
+color_string =  ASASSN-V J002702.87+605917.3 | 00:27:02.99 +60:59:16.6 (Gaia DR3)  | RRC (VSX)        | 0.212071000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.450+/-0.040 (G)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -309,7 +339,8 @@ position = 6.1705 37.96867
 magnitude = 15.449
 vsx_id = SDSS J002440.92+375807.3
 asassn_id = 68719830084
-true RRAB - blended with the nearby star so ASAS-SN data are corrupted
+color_string =  SDSS J002440.92+375807.3     | 00:24:40.92 +37:58:07.2 (Gaia DR3)  | RRAB (VSX)       | 0.499650000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.136+/-0.128 (F)
+visual_inspection_comments = true RRAB - blended with the nearby star so ASAS-SN data are corrupted
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -319,7 +350,8 @@ position = 5.92954 29.401
 magnitude = 9.14
 vsx_id = SW And
 asassn_id = 77310940203
-true RRAB - close to saturation for ASAS-SN
+color_string =  SW And                       | 00:23:43.08 +29:24:03.3 (Gaia DR3)  | RRAB (GCVS)      | 0.4422618000 (GCVS)  |  Gaia3var=VARIABLE        SpType: A3 1920HarCi.221....1C SW And  J-Ks=0.335+/-0.036 (G)
+visual_inspection_comments = true RRAB - close to saturation for ASAS-SN
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -329,7 +361,8 @@ position = 8.05712 33.89302
 magnitude = 10.36
 vsx_id = WISE J003213.7+335334
 asassn_id = 103080225947
-EA - Algol (Beta Persei)-type eclipsing system
+color_string =  WISE J003213.7+335334        | 00:32:13.71 +33:53:34.9 (Gaia DR3)  | RRAB (VSX)       | 0.607847700000 (VSX) |  Gaia3var=NOT_AVAILABLE   SpType: G7 (LAMOST DR5)      J-Ks=0.531+/-0.030 (K)
+visual_inspection_comments = EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -339,7 +372,8 @@ position = 7.61955 73.57531
 magnitude = 13.69
 vsx_id = ASASSN-V J003028.69+733431.1
 asassn_id = 17180414569
-true RR(B) - RR Lyrae variable showing two simultaneously operating pulsation modes
+color_string =  ASASSN-V J003028.69+733431.1 | 00:30:28.67 +73:34:31.1 (Gaia DR3)  | RRC (VSX)        | 0.331574000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.249+/-0.034 (F)
+visual_inspection_comments = true RR(B) - RR Lyrae variable showing two simultaneously operating pulsation modes
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -349,7 +383,8 @@ position = 7.29509 63.46456
 magnitude = 12.036
 vsx_id = WISE J002910.8+632752
 asassn_id = 17180428264
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  WISE J002910.8+632752        | 00:29:10.84 +63:27:52.4 (Gaia DR3)  | RRC (VSX)        | 0.385583700000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.426+/-0.038 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -359,7 +394,8 @@ position = 7.62538 43.04006
 magnitude = 14.62
 vsx_id = CSS_J003030.0+430224
 asassn_id = 25770962091
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  CSS_J003030.0+430224         | 00:30:30.16 +43:02:24.0 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A7V (LAMOST DR5)      J-Ks=0.179+/-0.041 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -369,7 +405,8 @@ position = 7.13858 49.98061
 magnitude = 13.2
 vsx_id = 1SWASP J002833.26+495850.2
 asassn_id = 77309710590
-BY Draconis-type variables
+color_string =  1SWASP J002833.26+495850.2   | 00:28:33.26 +49:58:50.5 (Gaia DR3)  | RRAB (VSX)       | 0.958012760000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.735+/-0.028 (K)
+visual_inspection_comments = BY Draconis-type variables
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -379,7 +416,8 @@ position = 8.86585 55.193
 magnitude = 11.575
 vsx_id = WISE J003527.8+551134
 asassn_id = 103079740421
-EW - W Ursae Majoris-type eclipsing variable (minima are kind of more 'pointy' than maxima)
+color_string =  WISE J003527.8+551134        | 00:35:27.81 +55:11:34.8 (Gaia DR3)  | RRC (VSX)        | 0.320169400000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.315+/-0.031 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable (minima are kind of more 'pointy' than maxima)
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -389,7 +427,8 @@ position = 9.29733 63.61001
 magnitude = 12.064
 vsx_id = WISE J003711.3+633636
 asassn_id = 103080079304
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  WISE J003711.3+633636        | 00:37:11.36 +63:36:36.0 (Gaia DR3)  | RRC (VSX)        | 0.378483000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.638+/-0.032 (K)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -399,7 +438,8 @@ position = 10.03908 -20.04853
 magnitude = 12.7
 vsx_id = ASAS J004009-2002.9
 asassn_id = 335007739328
-true RRC
+color_string =  ASAS J004009-2002.9          | 00:40:09.38 -20:02:54.8 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.460680000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.247+/-0.035 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -409,7 +449,8 @@ position = 9.48512 67.77418
 magnitude = 12.652
 vsx_id = WISE J003756.4+674627
 asassn_id = 34360758878
-EA - Algol (Beta Persei)-type eclipsing system
+color_string =  WISE J003756.4+674627        | 00:37:56.43 +67:46:27.0 (Gaia DR3)  | RRAB (VSX)       | 0.835214400000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.359+/-0.037 (G)
+visual_inspection_comments = EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -419,7 +460,8 @@ position = 9.12321 -20.1945
 magnitude = 11.5
 vsx_id = ASAS J003629-2011.7
 asassn_id = 429496816432
-EW - W Ursae Majoris-type eclipsing variable, corrupted ASAS-SN data
+color_string =  ASAS J003629-2011.7          | 00:36:29.57 -20:11:40.6 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.245848000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.349+/-0.036 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable, corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -429,7 +471,8 @@ position = 8.57638 -41.87111
 magnitude = 12.75
 vsx_id = ASAS J003418-4152.3
 asassn_id = 481036366939
-SR: - Semiregular variable?
+color_string =  ASAS J003418-4152.3          | 00:34:18.31 -41:52:16.7 (Gaia DR3)  | DCEP-FO/RRAB (VSX) | 0.513400000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.635+/-0.034 (K)
+visual_inspection_comments = SR: - Semiregular variable?
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -439,7 +482,8 @@ position = 8.96962 45.0949
 magnitude = 14.34
 vsx_id = NSVS 3669239
 asassn_id = 60130288936
-constant star
+color_string =  NSVS 3669239                 | 00:35:52.73 +45:05:41.1 (Gaia DR3)  | RRAB (VSX)       | 0.428172000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.396+/-0.030 (G)
+visual_inspection_comments = constant star
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -449,7 +493,8 @@ position = 15.3419 61.89593
 magnitude = 11.574
 vsx_id = WISE J010122.0+615345
 asassn_id = 111669299064
-EA - Algol (Beta Persei)-type eclipsing system
+color_string =  WISE J010122.0+615345        | 01:01:22.06 +61:53:45.3 (Gaia DR3)  | RRAB (VSX)       | 0.947505500000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.669+/-0.033 (K)
+visual_inspection_comments = EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -459,7 +504,8 @@ position = 11.25717 22.26297
 magnitude = 13.42
 vsx_id = CSS_J004501.7+221546
 asassn_id = 163209594196
-true RRC with a few outlier poits
+color_string =  CSS_J004501.7+221546         | 00:45:01.74 +22:15:47.0 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.198+/-0.034 (F)
+visual_inspection_comments = true RRC with a few outlier poits
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -469,7 +515,8 @@ position = 14.89608 17.56206
 magnitude = 13.62
 vsx_id = CSS_J005935.0+173343
 asassn_id = 206159571490
-true RRC
+color_string =  CSS_J005935.0+173343         | 00:59:35.05 +17:33:43.2 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE  SpType: A6IV (LAMOST DR5)     J-Ks=0.171+/-0.040 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -479,7 +526,8 @@ position = 13.14738 -75.27952
 magnitude = 11.986
 vsx_id = WISE J005235.3-751646
 asassn_id = 283468035580
-EB - Beta Lyrae-type eclipsing system
+color_string =  WISE J005235.3-751646        | 00:52:35.39 -75:16:46.3 (Gaia DR3)  | RRC (VSX)        | 0.353844500000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.246+/-0.035 (F)
+visual_inspection_comments = EB - Beta Lyrae-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -489,7 +537,8 @@ position = 15.99073 -16.96561
 magnitude = 14.97
 vsx_id = CSS_J010357.7-165757
 asassn_id = 300648327498
-true RRAB
+color_string =  CSS_J010357.7-165757         | 01:03:57.77 -16:57:56.3 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.400+/-0.055 (G)
+visual_inspection_comments = true RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -499,7 +548,8 @@ position = 15.11967 -44.07011
 magnitude = 12.29
 vsx_id = ASAS J010029-4404.2
 asassn_id = 360778411010
-true RRC
+color_string =  ASAS J010029-4404.2          | 01:00:28.74 -44:04:12.6 (Gaia DR3)  | RRC/EC (VSX)     | 0.325583000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.288+/-0.031 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -509,7 +559,8 @@ position = 13.6728 -28.23197
 magnitude = 14.0
 vsx_id = DH Scl
 asassn_id = 377957651286
-true RRC
+color_string =  DH Scl                       | 00:54:41.49 -28:13:55.2 (Gaia DR3)  | RRC (GCVS)       | 0.2728600000 (GCVS)  |  Gaia3var=VARIABLE        SpType: A3: 1971AJ.....76..338S SB 363  J-Ks=0.157+/-0.040 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -519,7 +570,8 @@ position = 12.0695 -74.59758
 magnitude = 13.3
 vsx_id = VY Hyi
 asassn_id = 429496871520
-SRA - Semiregular late-type (M, C, S or Me, Ce, Se) giant
+color_string =  VY Hyi                       | 00:48:16.60 -74:35:51.6 (Gaia DR3)  | RR (GCVS)        |  (GCVS)              |  Gaia3var=NOT_AVAILABLE   SpType: M4+ 1983A&AS...53..255P PMMR 17  J-Ks=1.192+/-0.026 (M)
+visual_inspection_comments = SRA - Semiregular late-type (M, C, S or Me, Ce, Se) giant
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -529,7 +581,8 @@ position = 10.19218 43.39985
 magnitude = 15.412
 vsx_id = V0499 And
 asassn_id = 42949690094
-RRC with variable period (7d orbit binary??) SpType: A2V (LAMOST DR5); initial discovery report: http://ibvs.konkoly.hu/pub/ibvs/5601/5700.pdf Robertson, Jeff - Arkansas Tech University,
+color_string =  V0499 And                    | 00:40:46.14 +43:23:59.2 (Gaia DR3)  | RRC (GCVS)       | 0.4661400000 (GCVS)  |  Gaia3var=VARIABLE        SpType: A2V (LAMOST DR5)     J-Ks=0.353+/-0.067 (G)
+visual_inspection_comments = RRC with variable period (7d orbit binary??) SpType: A2V (LAMOST DR5); initial discovery report: http://ibvs.konkoly.hu/pub/ibvs/5601/5700.pdf Robertson, Jeff - Arkansas Tech University,
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -539,7 +592,8 @@ position = 15.12442 36.066
 magnitude = 14.02
 vsx_id = CSS_J010029.8+360357
 asassn_id = 51540712913
-true RRC
+color_string =  CSS_J010029.8+360357         | 01:00:29.86 +36:03:57.8 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A2IV (LAMOST DR5)     J-Ks=0.251+/-0.045 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -549,7 +603,8 @@ position = 15.12902 69.68138
 magnitude = 13.62
 vsx_id = NSVS 336806
 asassn_id = 51540743514
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  NSVS 336806                  | 01:00:30.98 +69:40:53.0 (Gaia DR3)  | RRC (VSX)        | 0.401877800000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.474+/-0.032 (K)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -559,7 +614,8 @@ position = 15.36511 -17.09556
 magnitude = 15.035
 vsx_id = CSS_J010127.6-170544
 asassn_id = 661428605480
-true RRAB - corrupted ASAS-SN data
+color_string =  CSS_J010127.6-170544         | 01:01:27.59 -17:05:43.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.376+/-0.062 (G)
+visual_inspection_comments = true RRAB - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -569,7 +625,8 @@ position = 11.86379 40.95244
 magnitude = 14.99
 vsx_id = CSS_J004727.3+405708
 asassn_id = 661428866727
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  CSS_J004727.3+405708         | 00:47:27.33 +40:57:09.9 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.373+/-0.056 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -579,7 +636,8 @@ position = 15.22964 48.33896
 magnitude = 15.3
 vsx_id = PS1-3PI J010055.12+482020.2
 asassn_id = 661428911686
-true RRC - corrupted ASAS-SN data
+color_string =  PS1-3PI J010055.12+482020.2  | 01:00:55.12 +48:20:20.2 (Gaia DR3)  | RRC (VSX)        | 0.251613000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.307+/-0.063 (F)
+visual_inspection_comments = true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -589,7 +647,8 @@ position = 18.80619 27.18009
 magnitude = 14.784
 vsx_id = CSS_J011513.4+271048
 asassn_id = 163209863157
-true RRAB
+color_string =  CSS_J011513.4+271048         | 01:15:13.42 +27:10:48.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A2V (LAMOST DR5)      J-Ks=0.332+/-0.060 (G)
+visual_inspection_comments = true RRAB
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -599,7 +658,8 @@ position = 19.01721 63.3413
 magnitude = 13.104
 vsx_id = WISE J011604.1+632028
 asassn_id = 17180436110
-EW - W Ursae Majoris-type eclipsing variable  - too faint for ASAS-SN, classification based on ZTF lightcurve
+color_string =  WISE J011604.1+632028        | 01:16:04.15 +63:20:29.0 (Gaia DR3)  | RRC (VSX)        | 0.415228900000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.803+/-0.055 (K)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable  - too faint for ASAS-SN, classification based on ZTF lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -609,7 +669,8 @@ position = 18.24273 76.13571
 magnitude = 12.91
 vsx_id = NSVS 269243
 asassn_id = 25770299404
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  NSVS 269243                  | 01:12:58.34 +76:08:08.9 (Gaia DR3)  | RR (VSX)         | 0.477493430000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.426+/-0.036 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -619,7 +680,8 @@ position = 19.92742 -26.86519
 magnitude = 11.1
 vsx_id = RV Scl
 asassn_id = 335008522905
-constant
+color_string =  RV Scl                       | 01:19:42.58 -26:51:55.1 (Gaia DR3)  | RR: (GCVS)       |  (GCVS)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.244+/-0.039 (F)
+visual_inspection_comments = constant
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -629,7 +691,8 @@ position = 18.81815 47.35371
 magnitude = 14.02
 vsx_id = NSVS 3775229
 asassn_id = 60130247590
-constant
+color_string =  NSVS 3775229                 | 18.81815 47.35371 (user input)  | RRAB (VSX)       | 0.622729000000 (VSX) |  (position from user input)   SpType: F0 (LAMOST DR5)  J-Ks=0.242+/-0.034 (F)
+visual_inspection_comments = constant
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -639,8 +702,8 @@ position = 18.78592 -61.91897
 magnitude = 12.69
 vsx_id = ASAS J011509-6155.2
 asassn_id = 609885933609
-EW - W Ursae Majoris-type eclipsing variable ??
-
+color_string =  ASAS J011509-6155.2          | 01:15:08.63 -61:55:08.2 (Gaia DR3)  | EC/RRC (VSX)     | 0.456010000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.239+/-0.030 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable ??
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -650,7 +713,8 @@ position = 18.6085 24.41567
 magnitude = 9.93
 vsx_id = RU Psc
 asassn_id = 661428799420
-true RRC - corrupted ASAS-SN data
+color_string =  RU Psc                       | 18.6085 24.41567 (user input)  | RRC (GCVS)       | 0.3903850000 (GCVS)  |  (position from user input)   SpType: A3 1934BHarO.897...12C RU Psc  J-Ks=0.211+/-0.028 (F)
+visual_inspection_comments = true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -660,7 +724,8 @@ position = 24.09671 48.00789
 magnitude = 13.12
 vsx_id = V0797 And
 asassn_id = 120259200129
-true RRC - corrupted ASAS-SN data
+color_string =  V0797 And                    | 01:36:23.21 +48:00:28.3 (Gaia DR3)  | RRC (GCVS)       | 0.2049300000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.206+/-0.028 (F)
+visual_inspection_comments = true RRC - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -670,7 +735,8 @@ position = 22.82827 71.72525
 magnitude = 13.076
 vsx_id = WISE J013118.7+714330
 asassn_id = 120259254551
-EB - Beta Lyrae-type eclipsing system
+color_string =  WISE J013118.7+714330        | 01:31:18.79 +71:43:30.9 (Gaia DR3)  | RRAB (VSX)       | 0.738491600000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.372+/-0.043 (G)
+visual_inspection_comments = EB - Beta Lyrae-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -680,7 +746,8 @@ position = 23.99305 59.91316
 magnitude = 13.299
 vsx_id = WISE J013558.3+595447
 asassn_id = 137439640944
-EA - Algol (Beta Persei)-type eclipsing system
+color_string =  WISE J013558.3+595447        | 01:35:58.32 +59:54:47.4 (Gaia DR3)  | RRAB (VSX)       | 0.593118900000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.408+/-0.047 (G)
+visual_inspection_comments = EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -690,7 +757,8 @@ position = 19.96729 58.74936
 magnitude = 15.34
 vsx_id = V1092 Cas
 asassn_id = 146029865540
-const
+color_string =  V1092 Cas                    | 01:19:52.15 +58:44:57.7 (Gaia DR3)  | RR: (GCVS)       | 0.8882480000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.300+/-0.046 (F)
+visual_inspection_comments = const
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -700,7 +768,8 @@ position = 20.60944 59.21006
 magnitude = 11.457
 vsx_id = V1276 Cas
 asassn_id = 154619049544
-BY Draconis-type variables
+color_string =  V1276 Cas                    | 01:22:26.27 +59:12:36.2 (Gaia DR3)  | RRC (GCVS)       | 0.4197940000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.471+/-0.033 (K)
+visual_inspection_comments = BY Draconis-type variables
 
 
 ######### Classification results #########
@@ -711,7 +780,8 @@ position = 22.40046 22.42411
 magnitude = 12.07
 vsx_id = ASAS J012936+2225.4
 asassn_id = 171798747376
-EW - W Ursae Majoris-type eclipsing variable ??
+color_string =  ASAS J012936+2225.4          | 01:29:36.12 +22:25:26.9 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.263985000000 (VSX) |  Gaia3var=VARIABLE        SpType: A7V (LAMOST DR5)     J-Ks=0.236+/-0.035 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable ??
 
 
 ######### Classification results #########
@@ -722,7 +792,8 @@ position = 22.46321 5.61225
 magnitude = 11.5
 vsx_id = ASAS J012951+0536.7
 asassn_id = 188978753552
-true RRC
+color_string =  ASAS J012951+0536.7          | 01:29:51.17 +05:36:43.8 (Gaia DR3)  | EC/RRC (VSX)     | 0.472048000000 (VSX) |  Gaia3var=VARIABLE        SpType: F0 (LAMOST DR5)      J-Ks=0.200+/-0.035 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -732,7 +803,8 @@ position = 22.5085 4.15256
 magnitude = 15.37
 vsx_id = SEKBO 128750.149
 asassn_id = 188979185097
-constant -- confirmed with TESS
+color_string =  SEKBO 128750.149             | 01:30:02.09 +04:09:09.6 (Gaia DR3)  | RR: (VSX)        |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.831+/-0.066 (M)
+visual_inspection_comments = constant -- confirmed with TESS
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -742,7 +814,8 @@ position = 23.63675 2.74507
 magnitude = 13.34
 vsx_id = NSVS 12009123
 asassn_id = 214749384998
-true RRAB
+color_string =  NSVS 12009123                | 01:34:32.83 +02:44:42.1 (Gaia DR3)  | RRAB (VSX)       | 0.646685000000 (VSX) |  Gaia3var=VARIABLE        SpType: F0 (LAMOST DR5)      J-Ks=0.319+/-0.035 (F)
+visual_inspection_comments = true RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -752,7 +825,8 @@ position = 23.03404 1.34175
 magnitude = 9.15
 vsx_id = RR Cet
 asassn_id = 274878563884
-true RRAB, corrupted ASAS-SN data
+color_string =  RR Cet                       | 01:32:08.19 +01:20:29.5 (Gaia DR3)  | RRAB (GCVS)      | 0.5530281400 (GCVS)  |  Gaia3var=VARIABLE        SpType: A5 1946ApJ...103..371M RR Cet  J-Ks=0.343+/-0.034 (G)
+visual_inspection_comments = true RRAB, corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -762,7 +836,8 @@ position = 20.87596 -13.92425
 magnitude = 8.4
 vsx_id = CW Cet
 asassn_id = 300648159536
-EW - W Ursae Majoris-type eclipsing variable - classification based on TESS lightcurve and SpType: F6IV 1988MSS...C04....0H J-Ks=0.282+/-0.029 (F) - saturated - corrupted ASAS-SN data
+color_string =  CW Cet                       | 01:23:30.31 -13:55:27.6 (Gaia DR3)  | RR: (GCVS)       |  (GCVS)              |  Gaia3var=VARIABLE        SpType: F6IV 1988MSS...C04....0H HD 8445  J-Ks=0.282+/-0.029 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable - classification based on TESS lightcurve and SpType: F6IV 1988MSS...C04....0H J-Ks=0.282+/-0.029 (F) - saturated - corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -772,7 +847,8 @@ position = 20.3565 -15.73032
 magnitude = 14.153
 vsx_id = CSS_J012125.5-154349
 asassn_id = 300648645519
-SRA - Semiregular late-type (M, C, S or Me, Ce, Se) giant
+color_string =  CSS_J012125.5-154349         | 01:21:25.51 -15:43:48.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=1.157+/-0.032 (M)
+visual_inspection_comments = SRA - Semiregular late-type (M, C, S or Me, Ce, Se) giant
 
 
 ######### Classification results #########
@@ -783,7 +859,8 @@ position = 20.60117 79.56335
 magnitude = 13.398
 vsx_id = WISE J012224.2+793348
 asassn_id = 34360210537
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  WISE J012224.2+793348        | 01:22:24.28 +79:33:48.1 (Gaia DR3)  | RRC (VSX)        | 0.409505400000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.399+/-0.054 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -793,7 +870,8 @@ position = 23.00623 64.99035
 magnitude = 13.74
 vsx_id = ASASSN-V J013201.50+645925.3
 asassn_id = 34360322751
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASASSN-V J013201.50+645925.3 | 01:32:01.49 +64:59:25.3 (Gaia DR3)  | RRC (VSX)        | 0.253510000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.320+/-0.038 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -803,7 +881,8 @@ position = 22.83446 6.33333
 magnitude = 10.17
 vsx_id = ASAS J013120+0620.0
 asassn_id = 352187689319
-true RRC -- TESS lightcurve with alternating high and low peaks -- corrupted ASAS-SN data
+color_string =  ASAS J013120+0620.0          | 01:31:20.25 +06:19:59.6 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.320332000000 (VSX) |  Gaia3var=VARIABLE        SpType: F0 1958PMcCO..13b....V AG+06 155  J-Ks=0.167+/-0.029 (F)
+visual_inspection_comments = true RRC -- TESS lightcurve with alternating high and low peaks -- corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -813,7 +892,8 @@ position = 20.40687 -73.83819
 magnitude = 13.45
 vsx_id = ASAS J012138-7350.2
 asassn_id = 558346211055
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASAS J012138-7350.2          | 01:21:37.68 -73:50:17.5 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.263843000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.473+/-0.034 (K)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -823,7 +903,8 @@ position = 22.95088 6.0635
 magnitude = 11.94
 vsx_id = ASAS J013148+0603.8
 asassn_id = 661428722637
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASAS J013148+0603.8          | 01:31:48.21 +06:03:48.2 (Gaia DR3)  | EC/RRC/BCEP/DSCT/ESD (VSX) | 0.420460000000 (VSX) |  Gaia3var=VARIABLE        SpType: A6IV (LAMOST DR5)    J-Ks=0.189+/-0.033 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -833,7 +914,8 @@ position = 20.92446 33.0875
 magnitude = 15.18
 vsx_id = CSS_J012341.9+330514
 asassn_id = 661428832842
-true RRC low amplitude in TESS
+color_string =  CSS_J012341.9+330514         | 01:23:41.86 +33:05:14.9 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE  SpType: A6IV (LAMOST DR5)     J-Ks=0.113+/-0.089 (A)
+visual_inspection_comments = true RRC low amplitude in TESS
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -843,7 +925,8 @@ position = 25.65118 43.23909
 magnitude = 14.54
 vsx_id = CSS_J014236.2+431421
 asassn_id = 120259779346
-true RRAB -- funny slow rise to peak
+color_string =  CSS_J014236.2+431421         | 01:42:36.28 +43:14:20.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A3IV (LAMOST DR5)     J-Ks=0.155+/-0.049 (F)
+visual_inspection_comments = true RRAB -- funny slow rise to peak
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -853,7 +936,8 @@ position = 28.08094 52.50314
 magnitude = 15.1
 vsx_id = PS1-3PI J015219.42+523011.3
 asassn_id = 197568921816
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  PS1-3PI J015219.42+523011.3  | 01:52:19.43 +52:30:11.3 (Gaia DR3)  | RRAB (VSX)       | 0.612318000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.449+/-0.043 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -863,7 +947,8 @@ position = 25.54783 -29.98911
 magnitude = 14.0
 vsx_id = SS Scl
 asassn_id = 352188311547
-true RRAB
+color_string =  SS Scl                       | 01:42:11.50 -29:59:20.9 (Gaia DR3)  | RR (GCVS)        | 0.4187000000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.286+/-0.034 (F)
+visual_inspection_comments = true RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -873,7 +958,8 @@ position = 28.42746 15.871
 magnitude = 14.64
 vsx_id = DO Ari
 asassn_id = 386547608005
-true RRAB
+color_string =  DO Ari                       | 01:53:42.59 +15:52:15.5 (Gaia DR3)  | RRD (VSX)        | 0.420513000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.226+/-0.071 (F)
+visual_inspection_comments = true RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -883,7 +969,8 @@ position = 28.3801 64.42443
 magnitude = 13.249
 vsx_id = WISE J015331.2+642527
 asassn_id = 51540903233
-RS
+color_string =  WISE J015331.2+642527        | 01:53:31.23 +64:25:28.0 (Gaia DR3)  | RR (VSX)         | 0.324694300000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.269+/-0.036 (F)
+visual_inspection_comments = RS
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -893,7 +980,8 @@ position = 26.55325 -47.35314
 magnitude = 15.0
 vsx_id = AB Phe
 asassn_id = 523986947569
-constant from TESS lightcurve
+color_string =  AB Phe                       | 01:46:12.85 -47:21:10.8 (Gaia DR3)  | RR (GCVS)        |  (GCVS)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.413+/-0.043 (G)
+visual_inspection_comments = constant from TESS lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -903,7 +991,8 @@ position = 27.27706 70.52662
 magnitude = 13.329
 vsx_id = WISE J014906.4+703135
 asassn_id = 60129845092
-true RRC
+color_string =  WISE J014906.4+703135        | 01:49:06.51 +70:31:35.8 (Gaia DR3)  | RRC (VSX)        | 0.369995200000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.369+/-0.049 (G)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -913,7 +1002,8 @@ position = 26.68783 60.58451
 magnitude = 15.29
 vsx_id = ASASSN-V J014645.08+603504.2
 asassn_id = 60130152775
-SXPHE
+color_string =  ASASSN-V J014645.08+603504.2 | 01:46:45.06 +60:35:04.3 (Gaia DR3)  | RRC (VSX)        | 0.186381000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.544+/-0.040 (K)
+visual_inspection_comments = SXPHE
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -923,7 +1013,8 @@ position = 25.7095 -36.0659
 magnitude = 14.36
 vsx_id = NSVS 17503446
 asassn_id = 661427772759
-constant according to TESS lightcurve
+color_string =  NSVS 17503446                | 25.7095 -36.0659 (user input)  | RRAB (VSX)       | 0.539657000000 (VSX) |  (position from user input)                            J-Ks=0.838+/-0.030 (M)
+visual_inspection_comments = constant according to TESS lightcurve
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -933,7 +1024,8 @@ position = 26.7893 56.4546
 magnitude = 13.11
 vsx_id = PS1-3PI J014709.43+562716.5
 asassn_id = 85900177278
-constant according to ZTF lightcurve
+color_string =  PS1-3PI J014709.43+562716.5  | 01:47:09.44 +56:27:16.5 (Gaia DR3)  | RRAB (VSX)       | 0.627343000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.127+/-0.041 (A)
+visual_inspection_comments = constant according to ZTF lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -943,7 +1035,8 @@ position = 29.41612 11.52914
 magnitude = 10.23
 vsx_id = ASAS J015740+1131.8
 asassn_id = 240518990155
-EW - W Ursae Majoris-type eclipsing variable -- corrupted ASAS-SN data
+color_string =  ASAS J015740+1131.8          | 01:57:39.93 +11:31:44.7 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.487994000000 (VSX) |  Gaia3var=VARIABLE        SpType: F5 1958PMcCO..13b....V AG+11 188  J-Ks=0.281+/-0.031 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable -- corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -953,7 +1046,8 @@ position = 29.62328 26.05922
 magnitude = 12.71
 vsx_id = ASAS J015830+2603.5
 asassn_id = 266288772526
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASAS J015830+2603.5          | 01:58:29.59 +26:03:33.1 (Gaia DR3)  | RRC (VSX)        | 0.227665000000 (VSX) |  Gaia3var=VARIABLE        SpType: F7 (LAMOST DR5)      J-Ks=0.305+/-0.028 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -963,7 +1057,8 @@ position = 30.72883 -1.09981
 magnitude = 14.59
 vsx_id = CSS_J020254.9-010559
 asassn_id = 292058033423
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  CSS_J020254.9-010559         | 02:02:54.95 -01:05:59.8 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.162+/-0.050 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -973,7 +1068,8 @@ position = 31.96658 -26.86603
 magnitude = 9.45
 vsx_id = SS For
 asassn_id = 335008523179
-true RRAB -- corrupted ASAS-SN data
+color_string =  SS For                       | 02:07:52.01 -26:51:58.9 (Gaia DR3)  | RRAB (GCVS)      | 0.4954320000 (GCVS)  |  Gaia3var=VARIABLE        SpType: kA0hA3 1969MmRAS..72..101C SS For  J-Ks=0.320+/-0.034 (F)
+visual_inspection_comments = true RRAB -- corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -983,7 +1079,8 @@ position = 29.20275 -6.83272
 magnitude = 11.65
 vsx_id = ASAS J015649-0650.0
 asassn_id = 377958396937
-EW - W Ursae Majoris-type eclipsing variable -- corrupted ASAS-SN data
+color_string =  ASAS J015649-0650.0          | 01:56:48.67 -06:49:57.7 (Gaia DR3)  | RRC/DSCT/EC (VSX) | 0.221601000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.267+/-0.037 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable -- corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -993,7 +1090,8 @@ position = 28.98071 2.04564
 magnitude = 13.88
 vsx_id = CSS_J015555.3+020244
 asassn_id = 395138134263
-true RRC
+color_string =  CSS_J015555.3+020244         | 01:55:55.36 +02:02:44.5 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE  SpType: F0 (LAMOST DR5)       J-Ks=0.201+/-0.042 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1003,7 +1101,8 @@ position = 29.23396 -41.81614
 magnitude = 12.44
 vsx_id = ASAS J015656-4149.0
 asassn_id = 463856731134
-true RRAB - funny slow rise to maximum light
+color_string =  ASAS J015656-4149.0          | 01:56:56.15 -41:48:58.3 (Gaia DR3)  | RRAB (VSX)       | 0.717470000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.299+/-0.035 (F)
+visual_inspection_comments = true RRAB - funny slow rise to maximum light
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1013,7 +1112,8 @@ position = 31.95837 64.49198
 magnitude = 14.2
 vsx_id = ASASSN-V J020750.01+642931.1
 asassn_id = 51540904833
-true RRC
+color_string =  ASASSN-V J020750.01+642931.1 | 02:07:50.00 +64:29:31.1 (Gaia DR3)  | RRC (VSX)        | 0.217847000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.482+/-0.035 (K)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1023,7 +1123,8 @@ position = 32.88842 -18.88648
 magnitude = 13.53
 vsx_id = PS1-3PI J021133.22-185311.3
 asassn_id = 661428595223
-EA - Algol (Beta Persei)-type eclipsing system
+color_string =  PS1-3PI J021133.22-185311.3  | 02:11:33.23 -18:53:11.4 (Gaia DR3)  | RRC (VSX)        | 0.332720000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.291+/-0.039 (F)
+visual_inspection_comments = EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1033,7 +1134,8 @@ position = 31.57279 13.95558
 magnitude = 13.71
 vsx_id = CSS_J020617.4+135720
 asassn_id = 661428754830
-true RRC
+color_string =  CSS_J020617.4+135720         | 31.57279 13.95558 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                                                  
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1043,7 +1145,8 @@ position = 28.97535 38.69768
 magnitude = 14.846
 vsx_id = CSS_J015554.0+384151
 asassn_id = 661428852683
-constant - coordinates point to the blend of two stars
+color_string =  CSS_J015554.0+384151         | 28.97535 38.69768 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                                                  
+visual_inspection_comments = constant - coordinates point to the blend of two stars
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1053,7 +1156,8 @@ position = 32.56357 62.9744
 magnitude = 12.413
 vsx_id = WISE J021015.2+625827
 asassn_id = 661428949189
-EA - Algol (Beta Persei)-type eclipsing system -- but very low amplitude in TESS -- possibly blended
+color_string =  WISE J021015.2+625827        | 02:10:15.25 +62:58:27.9 (Gaia DR3)  | RRAB (VSX)       | 0.626148100000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.447+/-0.033 (G)
+visual_inspection_comments = EA - Algol (Beta Persei)-type eclipsing system -- but very low amplitude in TESS -- possibly blended
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1063,7 +1167,8 @@ position = 28.65263 63.20709
 magnitude = 15.4
 vsx_id = ASASSN-V J015436.63+631225.5
 asassn_id = 661428949611
-EW - W Ursae Majoris-type eclipsing variable -- according to ZTF lightcurve
+color_string =  ASASSN-V J015436.63+631225.5 | 01:54:36.63 +63:12:25.5 (Gaia DR3)  | RRC (VSX)        | 0.252241000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.320+/-0.055 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable -- according to ZTF lightcurve
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1073,7 +1178,8 @@ position = 30.11828 66.77205
 magnitude = 12.525
 vsx_id = WISE J020028.3+664619
 asassn_id = 661428954794
-true RRC -- TESS lightcurve
+color_string =  WISE J020028.3+664619        | 02:00:28.36 +66:46:19.6 (Gaia DR3)  | RRC (VSX)        | 0.339157000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.715+/-0.036 (K)
+visual_inspection_comments = true RRC -- TESS lightcurve
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1083,8 +1189,8 @@ position = 29.53227 66.05277
 magnitude = 12.535
 vsx_id = WISE J015807.7+660309
 asassn_id = 8591361573
-RRC/EW - W Ursae Majoris-type eclipsing variable according to TESS lightcurve - blended
-
+color_string =  WISE J015807.7+660309        | 01:58:07.71 +66:03:09.9 (Gaia DR3)  | RRC (VSX)        | 0.330924700000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.667+/-0.041 (K)
+visual_inspection_comments = RRC/EW - W Ursae Majoris-type eclipsing variable according to TESS lightcurve - blended
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1094,7 +1200,8 @@ position = 34.82179 48.85797
 magnitude = 12.75
 vsx_id = NSVS 3943592
 asassn_id = 103080368756
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  NSVS 3943592                 | 02:19:17.24 +48:51:28.7 (Gaia DR3)  | RRC: (VSX)       | 0.237940000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.275+/-0.035 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1104,7 +1211,8 @@ position = 34.3006 48.6138
 magnitude = 14.68
 vsx_id = ASASSN-V J021712.14+483649.7
 asassn_id = 111669416181
-EA - Algol (Beta Persei)-type eclipsing system
+color_string =  ASASSN-V J021712.14+483649.7 | 02:17:12.14 +48:36:49.7 (Gaia DR3)  | RRC (VSX)        | 0.444234000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.365+/-0.039 (G)
+visual_inspection_comments = EA - Algol (Beta Persei)-type eclipsing system
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1114,7 +1222,8 @@ position = 34.02596 34.63033
 magnitude = 12.75
 vsx_id = BW Tri
 asassn_id = 223339323706
-EW - W Ursae Majoris-type eclipsing variable, according to TESS lightcurve
+color_string =  BW Tri                       | 02:16:06.25 +34:37:48.8 (Gaia DR3)  | RRC (GCVS)       | 0.2224600000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.331+/-0.030 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable, according to TESS lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1124,7 +1233,8 @@ position = 33.81208 -10.80019
 magnitude = 10.35
 vsx_id = RV Cet
 asassn_id = 300648476487
-True RRAB - corrupted ASASSN data
+color_string =  RV Cet                       | 02:15:14.93 -10:48:01.1 (Gaia DR3)  | RRAB (GCVS)      | 0.6234030000 (GCVS)  |  Gaia3var=VARIABLE        SpType: kA0hF0 1969MmRAS..72..101C RV Cet  J-Ks=0.313+/-0.033 (F)
+visual_inspection_comments = True RRAB - corrupted ASASSN data
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1134,7 +1244,8 @@ position = 34.6708 -5.88288
 magnitude = 14.4
 vsx_id = CSS_J021841.0-055259
 asassn_id = 309238039156
-BY Draconis
+color_string =  CSS_J021841.0-055259         | 02:18:41.00 -05:52:58.5 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.758+/-0.042 (K)
+visual_inspection_comments = BY Draconis
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1144,7 +1255,8 @@ position = 34.95708 -9.65328
 magnitude = 14.04
 vsx_id = CSS_J021949.7-093911
 asassn_id = 343598390728
-True RRAB
+color_string =  CSS_J021949.7-093911         | 02:19:49.73 -09:39:12.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.269+/-0.033 (F)
+visual_inspection_comments = True RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1154,7 +1266,8 @@ position = 33.41554 39.37681
 magnitude = 14.94
 vsx_id = CSS_J021339.7+392236
 asassn_id = 42949807655
-true RRC, according to TESS lightcurve
+color_string =  CSS_J021339.7+392236         | 02:13:39.74 +39:22:37.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A7V (LAMOST DR5)      J-Ks=0.293+/-0.072 (F)
+visual_inspection_comments = true RRC, according to TESS lightcurve
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1164,7 +1277,8 @@ position = 34.79583 40.48794
 magnitude = 14.25
 vsx_id = CSS_J021911.0+402916
 asassn_id = 42950751740
-EW - W Ursae Majoris-type eclipsing variable 
+color_string =  CSS_J021911.0+402916         | 02:19:11.03 +40:29:15.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE  SpType: F9 (LAMOST DR5)       J-Ks=0.335+/-0.030 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1174,7 +1288,8 @@ position = 35.17998 66.75658
 magnitude = 13.76
 vsx_id = ASASSN-V J022043.19+664523.7
 asassn_id = 68719959276
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASASSN-V J022043.19+664523.7 | 02:20:43.20 +66:45:23.7 (Gaia DR3)  | RRC (VSX)        | 0.190367000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.580+/-0.034 (K)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1184,7 +1299,8 @@ position = 36.84908 54.28722
 magnitude = 14.9
 vsx_id = PS1-3PI J022723.77+541713.9
 asassn_id = 103079505155
-constant according to ZTF lightcurve
+color_string =  PS1-3PI J022723.77+541713.9  | 02:27:23.77 +54:17:13.9 (Gaia DR3)  | RRAB (VSX)       | 0.498626000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.343+/-0.045 (G)
+visual_inspection_comments = constant according to ZTF lightcurve
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1194,7 +1310,8 @@ position = 39.03912 -77.90861
 magnitude = 14.0
 vsx_id = NSV 885
 asassn_id = 135557
-constant
+color_string =  NSV 885                      | 02:36:09.47 -77:54:32.2 (Gaia DR3)  | RR: (VSX)        |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.390+/-0.038 (G)
+visual_inspection_comments = constant
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1204,7 +1321,8 @@ position = 40.21123 37.79017
 magnitude = 13.345
 vsx_id = CSS_J024050.6+374724
 asassn_id = 137439952939
-constant according to ZTF lightcurve
+color_string =  CSS_J024050.6+374724         | 02:40:50.70 +37:47:24.3 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.710+/-0.026 (K)
+visual_inspection_comments = constant according to ZTF lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1214,7 +1332,8 @@ position = 36.01046 30.08925
 magnitude = 15.0
 vsx_id = CSS_J022402.5+300521
 asassn_id = 154618966004
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  CSS_J022402.5+300521         | 02:24:02.50 +30:05:21.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.259+/-0.072 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1224,7 +1343,8 @@ position = 39.274 -42.96333
 magnitude = 8.75
 vsx_id = CS Eri
 asassn_id = 163209144697
-true RRC from TESS lightcurve, corrupted ASAS-SN data (saturated)
+color_string =  CS Eri                       | 39.274 -42.96333 (user input)  | RRC (GCVS)       | 0.3113310000 (GCVS)  |  (position from user input)   SpType: A2/3II: wl: 1978MSS...C02....0H HD 16456  J-Ks=0.141+/-0.033 (F)
+visual_inspection_comments = true RRC from TESS lightcurve, corrupted ASAS-SN data (saturated)
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1234,7 +1354,8 @@ position = 39.46396 63.42415
 magnitude = 14.79
 vsx_id = ASASSN-V J023751.35+632526.9
 asassn_id = 17180453841
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASASSN-V J023751.35+632526.9 | 02:37:51.35 +63:25:26.9 (Gaia DR3)  | RRC (VSX)        | 0.346235000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.262+/-0.045 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1244,7 +1365,8 @@ position = 39.58592 20.25939
 magnitude = 8.59
 vsx_id = ASAS J023821+2015.5
 asassn_id = 188979597804
- need TESS corrupted ASAS-SN data (saturated)
+color_string =  ASAS J023821+2015.5          | 02:38:20.60 +20:15:33.6 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.367435000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.182+/-0.037 (F)
+visual_inspection_comments =  need TESS corrupted ASAS-SN data (saturated)
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1254,7 +1376,8 @@ position = 39.35747 43.88899
 magnitude = 12.028
 vsx_id = WISE J023725.7+435320
 asassn_id = 206158828541
-true RRC, but I'm not entierly sure
+color_string =  WISE J023725.7+435320        | 02:37:25.80 +43:53:20.4 (Gaia DR3)  | RRAB (VSX)       | 0.576387500000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.263+/-0.032 (F)
+visual_inspection_comments = true RRC, but I'm not entierly sure
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1264,7 +1387,8 @@ position = 37.28249 2.5435
 magnitude = 14.738
 vsx_id = CSS_J022907.7+023236
 asassn_id = 206159302910
- need TESS
+color_string =  CSS_J022907.7+023236         | 02:29:07.79 +02:32:37.3 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: M2 (LAMOST DR5)       J-Ks=1.100+/-0.035 (M)
+visual_inspection_comments =  need TESS
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1274,7 +1398,8 @@ position = 39.44958 27.785
 magnitude = 12.26
 vsx_id = ASAS J023748+2747.1
 asassn_id = 223338866775
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASAS J023748+2747.1          | 02:37:47.91 +27:47:06.1 (Gaia DR3)  | EC/RRC (VSX)     | 0.433028000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.277+/-0.033 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1284,7 +1409,8 @@ position = 38.11654 34.04594
 magnitude = 13.43
 vsx_id = CSS_J023227.9+340245
 asassn_id = 25770161767
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  CSS_J023227.9+340245         | 02:32:27.98 +34:02:45.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.209+/-0.033 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1294,7 +1420,8 @@ position = 39.54042 14.35117
 magnitude = 11.95
 vsx_id = ASAS J023810+1421.1
 asassn_id = 369367815905
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASAS J023810+1421.1          | 02:38:09.70 +14:21:03.9 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.279394000000 (VSX) |  Gaia3var=VARIABLE        SpType: A8III (LAMOST DR5)   J-Ks=0.295+/-0.028 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1304,7 +1431,8 @@ position = 35.99096 -45.64483
 magnitude = 12.25
 vsx_id = ASAS J022358-4538.8
 asassn_id = 455266608467
-True RRC - unsure
+color_string =  ASAS J022358-4538.8          | 02:23:57.85 -45:38:41.6 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.319599000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.143+/-0.031 (F)
+visual_inspection_comments = True RRC - unsure
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1314,7 +1442,8 @@ position = 36.02853 -44.85298
 magnitude = 14.2
 vsx_id = SSS_J022406.7-445112
 asassn_id = 472447609369
-True RRAB
+color_string =  SSS_J022406.7-445112         | 02:24:06.86 -44:51:10.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.342+/-0.038 (G)
+visual_inspection_comments = True RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1324,7 +1453,8 @@ position = 37.12583 -28.80306
 magnitude = 12.98
 vsx_id = ASAS J022830-2848.2
 asassn_id = 506806820269
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASAS J022830-2848.2          | 02:28:30.21 -28:48:11.0 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.542280000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.317+/-0.033 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1334,7 +1464,8 @@ position = 38.90333 52.41069
 magnitude = 11.95
 vsx_id = BEST F2_09401
 asassn_id = 51540626457
-BY Draconis
+color_string =  BEST F2_09401                | 02:35:36.80 +52:24:38.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: G8 (LAMOST DR5)       J-Ks=0.548+/-0.029 (K)
+visual_inspection_comments = BY Draconis
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1344,7 +1475,8 @@ position = 37.17667 42.82481
 magnitude = 13.07
 vsx_id = WISE J022842.4+424929
 asassn_id = 60130793282
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  WISE J022842.4+424929        | 02:28:42.40 +42:49:29.4 (Gaia DR3)  | RRAB (VSX)       | 0.661562500000 (VSX) |  Gaia3var=VARIABLE        SpType: F0 (LAMOST DR5)      J-Ks=0.298+/-0.043 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1354,7 +1486,8 @@ position = 39.99004 -55.13308
 magnitude = 14.24
 vsx_id = SSS_J023957.5-550759
 asassn_id = 644245338076
-True RRAB
+color_string =  SSS_J023957.5-550759         | 02:39:57.65 -55:07:59.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.337+/-0.033 (G)
+visual_inspection_comments = True RRAB
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1364,7 +1497,8 @@ position = 36.47441 -34.81954
 magnitude = 13.95
 vsx_id = SSS_J022553.9-344910
 asassn_id = 661427811245
-constant according to TESS (I dont belive the eclipse-like pattern in on sector but not the other)
+color_string =  SSS_J022553.9-344910         | 36.47441 -34.81954 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                                                  
+visual_inspection_comments = constant according to TESS (I dont belive the eclipse-like pattern in on sector but not the other)
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1374,7 +1508,8 @@ position = 42.851 41.84386
 magnitude = 14.26
 vsx_id = CSS_J025124.2+415037
 asassn_id = 120260431273
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  CSS_J025124.2+415037         | 02:51:24.26 +41:50:37.8 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.274+/-0.038 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1384,7 +1519,8 @@ position = 43.2999 58.15704
 magnitude = 11.936
 vsx_id = WISE J025311.9+580925
 asassn_id = 146029788648
-EW - W Ursae Majoris-type eclipsing variable according to TESS lightcurve
+color_string =  WISE J025311.9+580925        | 02:53:11.98 +58:09:25.3 (Gaia DR3)  | RRAB (VSX)       | 0.452663000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.535+/-0.029 (K)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable according to TESS lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1394,7 +1530,8 @@ position = 43.58154 17.13061
 magnitude = 10.73
 vsx_id = ASAS J025420+1707.9
 asassn_id = 171799062981
-true RRC from spectral type, looks like eclipsing binary in TESS lightcurve, corrupted ASAS-SN data 
+color_string =  ASAS J025420+1707.9          | 02:54:19.58 +17:07:50.2 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.277078000000 (VSX) |  Gaia3var=NOT_AVAILABLE   SpType: F0 (LAMOST DR5)      J-Ks=0.245+/-0.031 (F)
+visual_inspection_comments = true RRC from spectral type, looks like eclipsing binary in TESS lightcurve, corrupted ASAS-SN data 
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1404,7 +1541,8 @@ position = 41.64958 -0.04083
 magnitude = 10.91
 vsx_id = ASAS J024636-0002.4
 asassn_id = 257699167423
-true RRC from spectral type, looks like eclipsing binary in TESS lightcurve
+color_string =  ASAS J024636-0002.4          | 02:46:35.92 -00:02:27.0 (Gaia DR3)  | RRC: (VSX)       | 0.403660000000 (VSX) |  Gaia3var=VARIABLE        SpType: F5 1958PMcCO..13b....V AG-00 298  J-Ks=0.232+/-0.036 (F)
+visual_inspection_comments = true RRC from spectral type, looks like eclipsing binary in TESS lightcurve
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1414,7 +1552,8 @@ position = 42.5577 -1.74522
 magnitude = 14.27
 vsx_id = CSS_J025013.8-014442
 asassn_id = 274877938418
-BY Draconis
+color_string =  CSS_J025013.8-014442         | 02:50:13.86 -01:44:42.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.788+/-0.039 (K)
+visual_inspection_comments = BY Draconis
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1424,7 +1563,8 @@ position = 42.3685 13.53189
 magnitude = 12.84
 vsx_id = ASAS J024929+1332.0
 asassn_id = 343597952947
-BY Draconis
+color_string =  ASAS J024929+1332.0          | 02:49:28.43 +13:31:54.7 (Gaia DR3)  | ESD/RRAB/EC (VSX) | 0.711860000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.757+/-0.027 (K)
+visual_inspection_comments = BY Draconis
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1434,7 +1574,8 @@ position = 43.53267 13.07986
 magnitude = 13.89
 vsx_id = CSS_J025407.8+130447
 asassn_id = 343598540454
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  CSS_J025407.8+130447         | 02:54:07.84 +13:04:47.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.221+/-0.038 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1444,7 +1585,8 @@ position = 41.84394 67.70604
 magnitude = 12.666
 vsx_id = WISE J024722.5+674221
 asassn_id = 34360718912
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  WISE J024722.5+674221        | 02:47:22.55 +67:42:21.8 (Gaia DR3)  | RRC (VSX)        | 0.366766200000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.654+/-0.038 (K)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1454,7 +1596,8 @@ position = 41.74279 -32.25383
 magnitude = 11.1
 vsx_id = ASAS J024658-3215.2
 asassn_id = 515396384188
-EW - W Ursae Majoris-type eclipsing variable from TESS, corrupted ASAS-SN data
+color_string =  ASAS J024658-3215.2          | 02:46:58.27 -32:15:13.8 (Gaia DR3)  | ESD/RRC/EC (VSX) | 0.636480000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.190+/-0.032 (F)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable from TESS, corrupted ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1464,7 +1607,8 @@ position = 42.54129 -26.26453
 magnitude = 12.343
 vsx_id = Z For
 asassn_id = 566936006142
-true RRAB
+color_string =  Z For                        | 02:50:09.92 -26:15:52.3 (Gaia DR3)  | RR (GCVS)        | 0.3704400000 (GCVS)  |  Gaia3var=VARIABLE        SpType: A2 wl 1972BOTT....6..201P [PS72] 431  J-Ks=0.298+/-0.033 (F)
+visual_inspection_comments = true RRAB
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1474,7 +1618,8 @@ position = 44.17423 36.58463
 magnitude = 14.54
 vsx_id = CSS_J025641.7+363503
 asassn_id = 60130375047
-true RRC
+color_string =  CSS_J025641.7+363503         | 02:56:41.82 +36:35:04.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A8III (LAMOST DR5)    J-Ks=0.213+/-0.043 (F)
+visual_inspection_comments = true RRC
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1484,7 +1629,8 @@ position = 40.2325 -66.73531
 magnitude = 12.64
 vsx_id = ASAS J024055-6644.1
 asassn_id = 644245771827
-EW - W Ursae Majoris-type eclipsing variable
+color_string =  ASAS J024055-6644.1          | 02:40:55.78 -66:44:07.0 (Gaia DR3)  | EC/RRC/ELL (VSX) | 0.505570000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.391+/-0.032 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1494,7 +1640,8 @@ position = 43.67814 54.84521
 magnitude = 13.277
 vsx_id = WISE J025442.7+545042
 asassn_id = 68720024827
-true RRC according to ZTF, corrupted ASAS-SN data (blended)
+color_string =  WISE J025442.7+545042        | 02:54:42.75 +54:50:42.7 (Gaia DR3)  | RRC (VSX)        | 0.335801300000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.720+/-0.041 (K)
+visual_inspection_comments = true RRC according to ZTF, corrupted ASAS-SN data (blended)
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1504,7 +1651,8 @@ position = 46.40047 66.67055
 magnitude = 13.37
 vsx_id = ASASSN-V J030536.11+664014.0
 asassn_id = 137439072191
-EW - W Ursae Majoris-type eclipsing variable according to TESS
+color_string =  ASASSN-V J030536.11+664014.0 | 03:05:36.10 +66:40:14.0 (Gaia DR3)  | RRC (VSX)        | 0.288118000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.369+/-0.034 (G)
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable according to TESS
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1514,7 +1662,8 @@ position = 45.08925 27.72181
 magnitude = 12.26
 vsx_id = ASAS J030021+2743.3
 asassn_id = 223338883473
-
+color_string =  ASAS J030021+2743.3          | 03:00:21.43 +27:43:18.5 (Gaia DR3)  | RRC/EC (VSX)     | 0.336336000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.315+/-0.028 (F)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1524,7 +1673,8 @@ position = 45.64954 41.20117
 magnitude = 14.3
 vsx_id = V0428 Per
 asassn_id = 231928488510
-
+color_string =  V0428 Per                    | 03:02:35.89 +41:12:04.0 (Gaia DR3)  | RR (GCVS)        | 0.6641910000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=1.163+/-0.024 (M)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1534,7 +1684,8 @@ position = 45.19896 4.22583
 magnitude = 12.95
 vsx_id = ASAS J030048+0413.5
 asassn_id = 249108875160
-
+color_string =  ASAS J030048+0413.5          | 03:00:47.76 +04:13:32.8 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.638835000000 (VSX) |  Gaia3var=VARIABLE        SpType: F0 (LAMOST DR5)      J-Ks=0.315+/-0.031 (F)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1544,7 +1695,8 @@ position = 45.57349 -81.56454
 magnitude = 14.6
 vsx_id = ASASSN-V J030217.64-813352.3
 asassn_id = 266288965286
-
+color_string =  ASASSN-V J030217.64-813352.3 | 03:02:17.64 -81:33:52.5 (Gaia DR3)  | RRC (VSX)        | 0.260856000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.222+/-0.074 (F)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1554,7 +1706,8 @@ position = 45.73987 64.89303
 magnitude = 12.88
 vsx_id = WISE J030257.5+645334
 asassn_id = 34360343602
-
+color_string =  WISE J030257.5+645334        | 03:02:57.57 +64:53:34.9 (Gaia DR3)  | RRC (VSX)        | 0.326868500000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.634+/-0.041 (K)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1564,7 +1717,8 @@ position = 44.64433 14.22931
 magnitude = 15.22
 vsx_id = SEKBO 116990.209
 asassn_id = 360777601165
-
+color_string =  SEKBO 116990.209             | 02:58:34.62 +14:13:45.8 (Gaia DR3)  | RR: (VSX)        |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.379+/-0.056 (G)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1574,7 +1728,8 @@ position = 45.78867 -1.48644
 magnitude = 11.96
 vsx_id = ASAS J030309-0129.2
 asassn_id = 403726998547
-
+color_string =  ASAS J030309-0129.2          | 03:03:09.28 -01:29:10.9 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.618375000000 (VSX) |  Gaia3var=VARIABLE        SpType: A5 1970BOTT....5..297P [PD70] 17  J-Ks=0.202+/-0.033 (F)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1584,7 +1739,8 @@ position = 46.0225 -39.86806
 magnitude = 11.42
 vsx_id = ASAS J030405-3952.1
 asassn_id = 463857223395
-
+color_string =  ASAS J030405-3952.1          | 03:04:05.39 -39:52:05.2 (Gaia DR3)  | RRC/EC (VSX)     | 0.300939000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.243+/-0.031 (F)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1594,7 +1750,8 @@ position = 46.24754 -42.233
 magnitude = 11.54
 vsx_id = ASAS J030459-4214.0
 asassn_id = 481036563372
-
+color_string =  ASAS J030459-4214.0          | 03:04:59.43 -42:13:58.4 (Gaia DR3)  | EC/RRC/DSCT/ESD (VSX) | 0.445850000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.179+/-0.033 (F)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1604,7 +1761,8 @@ position = 46.63421 11.13192
 magnitude = 12.75
 vsx_id = ASAS J030632+1107.9
 asassn_id = 506806542141
-
+color_string =  ASAS J030632+1107.9          | 03:06:32.20 +11:07:54.4 (Gaia DR3)  | RRC (VSX)        | 0.266227000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.434+/-0.038 (G)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1614,7 +1772,8 @@ position = 46.46156 -67.09337
 magnitude = 14.65
 vsx_id = ASASSN-V J030550.77-670536.1
 asassn_id = 592706476621
-
+color_string =  ASASSN-V J030550.77-670536.1 | 03:05:50.78 -67:05:36.1 (Gaia DR3)  | RRC (VSX)        | 0.219515000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.203+/-0.070 (F)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1624,7 +1783,8 @@ position = 45.73815 -55.52753
 magnitude = 13.08
 vsx_id = SSS_J030257.2-553139
 asassn_id = 601295680001
-
+color_string =  SSS_J030257.2-553139         | 03:02:57.12 -55:31:39.5 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=1.161+/-0.032 (M)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1634,7 +1794,8 @@ position = 46.15418 70.61625
 magnitude = 13.344
 vsx_id = WISE J030437.0+703658
 asassn_id = 60129809309
-
+color_string =  WISE J030437.0+703658        | 03:04:37.02 +70:36:58.6 (Gaia DR3)  | RRAB (VSX)       | 0.607580800000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.666+/-0.049 (K)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1644,7 +1805,8 @@ position = 46.61344 43.86737
 magnitude = 13.86
 vsx_id = ASASSN-V J030627.23+435202.7
 asassn_id = 77309463136
-
+color_string =  ASASSN-V J030627.23+435202.7 | 03:06:27.24 +43:52:02.4 (Gaia DR3)  | RRC (VSX)        | 0.249370000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.382+/-0.031 (G)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1654,7 +1816,8 @@ position = 47.12867 10.44589
 magnitude = 9.036
 vsx_id = X Ari
 asassn_id = 223338946002
-
+color_string =  X Ari                        | 47.12867 10.44589 (user input)  | RRAB (GCVS)      | 0.6511628000 (GCVS)  |  (position from user input)   SpType: A0 1927HarCi.313....1S X Ari  J-Ks=0.408+/-0.039 (G)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1664,7 +1827,8 @@ position = 47.84454 9.18394
 magnitude = 12.05
 vsx_id = ASAS J031123+0911.0
 asassn_id = 274878635947
-
+color_string =  ASAS J031123+0911.0          | 03:11:22.67 +09:11:02.3 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.463981000000 (VSX) |  Gaia3var=VARIABLE        SpType: A7IV (LAMOST DR5)    J-Ks=0.325+/-0.032 (G)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1674,7 +1838,8 @@ position = 47.31346 12.09794
 magnitude = 14.88
 vsx_id = SEKBO 129513.27
 asassn_id = 317828260670
-
+color_string =  SEKBO 129513.27              | 03:09:15.22 +12:05:53.0 (Gaia DR3)  | RR: (VSX)        |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.476+/-0.043 (K)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1684,7 +1849,8 @@ position = 47.96713 -11.35392
 magnitude = 9.56
 vsx_id = SV Eri
 asassn_id = 326417655735
-
+color_string =  SV Eri                       | 03:11:52.12 -11:21:14.9 (Gaia DR3)  | RRAB (GCVS)      | 0.7137964000 (GCVS)  |  Gaia3var=VARIABLE        SpType: A5 1950ApJ...111..437C SV Eri  J-Ks=0.340+/-0.034 (G)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1694,7 +1860,8 @@ position = 50.11967 8.55161
 magnitude = 12.57
 vsx_id = ASAS J032029+0833.1
 asassn_id = 335007481869
-
+color_string =  ASAS J032029+0833.1          | 03:20:28.73 +08:33:05.7 (Gaia DR3)  | EC/RRC/DSCT (VSX) | 0.448810000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.424+/-0.035 (G)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1704,7 +1871,8 @@ position = 48.77525 -17.13244
 magnitude = 13.26
 vsx_id = ASAS J031506-1707.9
 asassn_id = 403727832879
-
+color_string =  ASAS J031506-1707.9          | 03:15:06.08 -17:07:56.7 (Gaia DR3)  | EC/RRC/ELL (VSX) | 0.947680000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.779+/-0.033 (K)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1714,7 +1882,8 @@ position = 47.32858 -46.06387
 magnitude = 11.3
 vsx_id = ASASSN-V J030918.86-460349.9
 asassn_id = 438087626619
-
+color_string =  ASASSN-V J030918.86-460349.9 | 03:09:18.85 -46:03:50.0 (Gaia DR3)  | RRC (VSX)        | 0.204285000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.614+/-0.034 (K)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1724,7 +1893,8 @@ position = 48.89696 -16.78528
 magnitude = 14.52
 vsx_id = ASAS J031535-1647.0
 asassn_id = 489626716437
-
+color_string =  ASAS J031535-1647.0          | 03:15:35.25 -16:47:07.7 (Gaia DR3)  | RRC: (VSX)       | 0.351320000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.264+/-0.044 (F)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1734,7 +1904,8 @@ position = 50.905 15.66789
 magnitude = 9.67
 vsx_id = ASAS J032337+1540.0
 asassn_id = 498216424690
-
+color_string =  ASAS J032337+1540.0          | 03:23:37.19 +15:40:05.0 (Gaia DR3)  | RRC (VSX)        | 0.238477000000 (VSX) |  Gaia3var=NOT_AVAILABLE   SpType: F8 1952CoRut..32....1H BD+15 477  J-Ks=0.257+/-0.030 (F)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1744,7 +1915,8 @@ position = 48.0859 61.76854
 magnitude = 12.178
 vsx_id = WISE J031220.6+614606
 asassn_id = 60129999156
-
+color_string =  WISE J031220.6+614606        | 03:12:20.58 +61:46:07.1 (Gaia DR3)  | RRAB (VSX)       | 0.729272100000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.631+/-0.048 (K)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1754,7 +1926,8 @@ position = 49.57646 56.19903
 magnitude = 12.512
 vsx_id = WISE J031818.3+561156
 asassn_id = 60130637106
-
+color_string =  WISE J031818.3+561156        | 03:18:18.34 +56:11:55.8 (Gaia DR3)  | RRC (VSX)        | 0.336203400000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.941+/-0.075 (M)
+visual_inspection_comments = 
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1764,3 +1937,4 @@ position = 50.11553 52.48515
 magnitude = 15.0
 vsx_id = NSVS 4115680
 asassn_id = 661428926857
+color_string =  NSVS 4115680                 | 50.11553 52.48515 (user input)  | RRAB (VSX)       | 0.491790000000 (VSX) |  (position from user input)                                                  
