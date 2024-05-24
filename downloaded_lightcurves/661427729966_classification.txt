@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.61
+position = 53.44871 -39.62958
+magnitude = 14.8
+vsx_id = DN Eri
+asassn_id = 661427729966
+color_string =
+visual_inspection_comments =

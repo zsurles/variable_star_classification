@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.32
+position = 52.08404 -64.97724
+magnitude = 12.5
+vsx_id = SW Ret
+asassn_id = 644245421672
+color_string =
+visual_inspection_comments =

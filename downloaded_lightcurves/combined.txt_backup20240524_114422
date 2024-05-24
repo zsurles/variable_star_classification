@@ -1948,7 +1948,7 @@ position = 53.4778 62.28209
 magnitude = 13.518
 vsx_id = WISE J033354.6+621655
 asassn_id = 146029014734
-color_string =  WISE J033354.6+621655        | 03:33:54.68 +62:16:55.6 (Gaia DR3)  | RRAB (VSX)       | 0.526690500000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.674+/-0.051 (K)
+color_string =
 visual_inspection_comments =
 
 
@@ -1960,7 +1960,7 @@ position = 52.4361 77.06669
 magnitude = 14.57
 vsx_id = NSVS 433738
 asassn_id = 17180598704
-color_string =  NSVS 433738                  | 03:29:44.79 +77:03:59.5 (Gaia DR3)  | RR (VSX)         | 0.514466390000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.363+/-0.034 (G)
+color_string =
 visual_inspection_comments =
 
 
@@ -1972,7 +1972,7 @@ position = 53.15308 39.19286
 magnitude = 14.15
 vsx_id = CSS_J033236.8+391133
 asassn_id = 25770742117
-color_string =  CSS_J033236.8+391133         | 03:32:36.75 +39:11:34.2 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A3IV (LAMOST DR5)     J-Ks=0.469+/-0.047 (K)
+color_string =
 visual_inspection_comments =
 
 
@@ -1984,7 +1984,7 @@ position = 51.16082 -2.15906
 magnitude = 12.31
 vsx_id = ASAS J032439-0209.5
 asassn_id = 317828415312
-color_string =  ASAS J032439-0209.5          | 03:24:38.61 -02:09:32.8 (Gaia DR3)  | RRC (VSX)        | 0.412894000000 (VSX) |  Gaia3var=VARIABLE        SpType: A0 1970BOTT....5..297P [PD70] 47  J-Ks=0.319+/-0.033 (F)
+color_string =
 visual_inspection_comments =
 
 
@@ -1996,7 +1996,7 @@ position = 53.02067 -72.98397
 magnitude = 12.18
 vsx_id = ASAS J033205-7259.0
 asassn_id = 403727640027
-color_string =  ASAS J033205-7259.0          | 03:32:04.97 -72:59:02.3 (Gaia DR3)  | EC/RRC (VSX)     | 0.471390000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.256+/-0.037 (F)
+color_string =
 visual_inspection_comments =
 
 
@@ -2008,7 +2008,7 @@ position = 50.96392 -40.4055
 magnitude = 11.78
 vsx_id = ASAS J032351-4024.3
 asassn_id = 661427723977
-color_string =  ASAS J032351-4024.3          | 03:23:51.36 -40:24:19.8 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.552730000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.161+/-0.031 (F)
+color_string =
 visual_inspection_comments =
 
 
@@ -2020,7 +2020,7 @@ position = 53.44871 -39.62958
 magnitude = 14.8
 vsx_id = DN Eri
 asassn_id = 661427729966
-color_string =  DN Eri                       | 53.44871 -39.62958 (user input)  | RRC (GCVS)       | 0.3932027000 (GCVS)  |  (position from user input)                            J-Ks=0.632+/-0.039 (K)
+color_string =
 visual_inspection_comments =
 
 
@@ -2032,5 +2032,5 @@ position = 53.0054 -35.89976
 magnitude = 13.77
 vsx_id = NSVS 17598756
 asassn_id = 661427777091
-color_string =  NSVS 17598756                | 53.0054 -35.89976 (user input)  | RRAB (VSX)       | 0.441142000000 (VSX) |  (position from user input)                            J-Ks=0.350+/-0.035 (G)
+color_string =
 visual_inspection_comments =
