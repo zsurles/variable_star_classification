@@ -1363,7 +1363,7 @@ magnitude = 8.59
 vsx_id = ASAS J023821+2015.5
 asassn_id = 188979597804
 color_string =  ASAS J023821+2015.5          | 02:38:20.60 +20:15:33.6 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.367435000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.182+/-0.037 (F)
-visual_inspection_comments =  need TESS corrupted ASAS-SN data (saturated)
+visual_inspection_comments =  EW - W Ursae Majoris-type eclipsing variable according to TESS, corrupted ASAS-SN data (saturated)
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1385,7 +1385,7 @@ magnitude = 14.738
 vsx_id = CSS_J022907.7+023236
 asassn_id = 206159302910
 color_string =  CSS_J022907.7+023236         | 02:29:07.79 +02:32:37.3 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: M2 (LAMOST DR5)       J-Ks=1.100+/-0.035 (M)
-visual_inspection_comments =  need TESS
+visual_inspection_comments = L - Slow irregular variables according to TESS
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
