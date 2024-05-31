@@ -1902,7 +1902,7 @@ magnitude = 9.67
 vsx_id = ASAS J032337+1540.0
 asassn_id = 498216424690
 color_string =  ASAS J032337+1540.0          | 03:23:37.19 +15:40:05.0 (Gaia DR3)  | RRC (VSX)        | 0.238477000000 (VSX) |  Gaia3var=NOT_AVAILABLE   SpType: F8 1952CoRut..32....1H BD+15 477  J-Ks=0.257+/-0.030 (F)
-visual_inspection_comments = 
+visual_inspection_comments = need TESS, saturated ASAS-SN data
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1913,7 +1913,7 @@ magnitude = 12.178
 vsx_id = WISE J031220.6+614606
 asassn_id = 60129999156
 color_string =  WISE J031220.6+614606        | 03:12:20.58 +61:46:07.1 (Gaia DR3)  | RRAB (VSX)       | 0.729272100000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.631+/-0.048 (K)
-visual_inspection_comments = 
+visual_inspection_comments = EB
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
