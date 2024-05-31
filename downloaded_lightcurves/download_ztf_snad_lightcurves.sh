@@ -4,29 +4,29 @@ function download_json_lightcurve_data_from_ztf_snad {
  # Parse and check the input
  # RA
  if [ -z "$1" ];then
-  echo "ERROR in produce_csv_lightcurve_from_json_file(): expecting the RA in degrees a function argument"
+  echo "ERROR in download_json_lightcurve_data_from_ztf_snad(): expecting the RA in degrees a function argument"
   exit 1
  fi
  RA_DEG="$1"
  if ! echo "$RA_DEG" | awk '{if ($1 ~ /^[0-9]*\.?[0-9]+$/ && $1 >= 0.0 && $1 <= 360.0) exit 0; else exit 1}'; then
-  echo "RA_DEG does not contain a valid floating point number between 0.0 and 360.0"
+  echo "ERROR in download_json_lightcurve_data_from_ztf_snad(): RA_DEG does not contain a valid floating point number between 0.0 and 360.0"
   exit 1
  fi
  # Dec
  if [ -z "$2" ];then
-  echo "ERROR in produce_csv_lightcurve_from_json_file(): expecting the Dec in degrees a function argument"
+  echo "ERROR in download_json_lightcurve_data_from_ztf_snad(): expecting the Dec in degrees a function argument"
   exit 1
  fi
  DEC_DEG="$2"
  if ! echo "$DEC_DEG" | awk '{if ($1 ~ /^-?[0-9]*\.?[0-9]+$/ && $1 >= -90.0 && $1 <= 90.0) exit 0; else exit 1}'; then
-  echo "DEC_DEG does not contain a valid floating point number between -90.0 and 90.0"
+  echo "ERROR in download_json_lightcurve_data_from_ztf_snad(): DEC_DEG does not contain a valid floating point number between -90.0 and 90.0"
   exit 1
  fi
 
  # Download the data
  curl --silent "http://db.ztf.snad.space/api/v3/data/latest/circle/full/json?ra=$RA_DEG&dec=$DEC_DEG&radius_arcsec=1"
  if [ $? -ne 0 ];then
-  echo "ERROR running curl"
+  echo "ERROR in download_json_lightcurve_data_from_ztf_snad(): ERROR running curl"
   return 1
  fi
 }
@@ -46,6 +46,12 @@ function produce_csv_lightcurve_from_json_file {
   echo "ERROR in produce_csv_lightcurve_from_json_file(): the input file $INPUT_FILE_JSON is empty"
   exit 1
  fi 
+
+ N_JSON_KEYS=$(jq -r 'keys[]' "$INPUT_FILE_JSON" | wc -l)
+ if [ $N_JSON_KEYS -lt 1 ];then
+  echo "ERROR in produce_csv_lightcurve_from_json_file(): no JSON data found"
+  return 1
+ fi
  
  # Parse the json file and produce csv
  echo "oid,filter,mjd,mag,magerr,clrcoeff"
@@ -113,10 +119,19 @@ while IFS= read -r line; do
   # convert json to csv
   produce_csv_lightcurve_from_json_file "$TMP_ZTF_JSON_FILENAME" > "$OUTPUT_ZTF_CSV_FILENAME" 
   if [ $? -ne 0 ];then
-   echo "ERROR: somehting whent wrog while converting json ($TMP_ZTF_JSON_FILENAME) to csv ($OUTPUT_ZTF_CSV_FILENAME) file"
+   echo "WARNING: somehting whent wrog while converting json ($TMP_ZTF_JSON_FILENAME) to csv ($OUTPUT_ZTF_CSV_FILENAME) file - no ZTF data for this object?"
+   rm -f "$TMP_ZTF_JSON_FILENAME"
    continue
+  else
+   echo "Writing $OUTPUT_ZTF_CSV_FILENAME"
   fi
-  # remove the json file
+  # Check if the output file is empty
+  N_LINES=$(cat "$OUTPUT_ZTF_CSV_FILENAME" | wc -l)
+  if [ $N_LINES -lt 3 ];then
+   echo "$OUTPUT_ZTF_CSV_FILENAME has only $N_LINES lines in it - removing"
+   rm -f "$OUTPUT_ZTF_CSV_FILENAME"
+  fi
+  # Remove the json file
   rm -f "$TMP_ZTF_JSON_FILENAME"
  fi
 done < combined.txt

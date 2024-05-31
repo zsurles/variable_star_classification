@@ -1924,7 +1924,7 @@ magnitude = 12.512
 vsx_id = WISE J031818.3+561156
 asassn_id = 60130637106
 color_string =  WISE J031818.3+561156        | 03:18:18.34 +56:11:55.8 (Gaia DR3)  | RRC (VSX)        | 0.336203400000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.941+/-0.075 (M)
-visual_inspection_comments = 
+visual_inspection_comments = RS, too faint for ASAS-SN
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1935,7 +1935,7 @@ magnitude = 15.0
 vsx_id = NSVS 4115680
 asassn_id = 661428926857
 color_string =  NSVS 4115680                 | 50.11553 52.48515 (user input)  | RRAB (VSX)       | 0.491790000000 (VSX) |  (position from user input)                                                  
-visual_inspection_comments = 
+visual_inspection_comments = need TESS, not ZTF data, too faint for ASAS-SN
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
