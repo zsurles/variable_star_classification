@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 VAST_SCRIPT="/home/kirx/current_work/vast/util/search_databases_with_vizquery.sh"
 if [ -d "/Users/zoesurles/Desktop/vsc_vast/vast" ];then
@@ -12,7 +12,6 @@ while IFS= read -r line; do
     POSITION="${line/position =/}"
   fi
   if [[ "$line" == "color_string =" ]]; then
-    #NEW_COLOR_STRING=$(~/current_work/vast/util/search_databases_with_vizquery.sh $POSITION 2>&1 | grep '|')
     NEW_COLOR_STRING=$("$VAST_SCRIPT" $POSITION 2>&1 | grep '|')
     NEW_COLOR_STRING="${NEW_COLOR_STRING/object           | /}"
     echo "color_string = $NEW_COLOR_STRING"
