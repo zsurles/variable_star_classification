@@ -1847,7 +1847,7 @@ magnitude = 9.56
 vsx_id = SV Eri
 asassn_id = 326417655735
 color_string =  SV Eri                       | 03:11:52.12 -11:21:14.9 (Gaia DR3)  | RRAB (GCVS)      | 0.7137964000 (GCVS)  |  Gaia3var=VARIABLE        SpType: A5 1950ApJ...111..437C SV Eri  J-Ks=0.340+/-0.034 (G)
-visual_inspection_comments = 
+visual_inspection_comments = true RRAB, corrupted ASAS-SN data due to saturation
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1858,7 +1858,7 @@ magnitude = 12.57
 vsx_id = ASAS J032029+0833.1
 asassn_id = 335007481869
 color_string =  ASAS J032029+0833.1          | 03:20:28.73 +08:33:05.7 (Gaia DR3)  | EC/RRC/DSCT (VSX) | 0.448810000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.424+/-0.035 (G)
-visual_inspection_comments = 
+visual_inspection_comments = EW
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1869,7 +1869,7 @@ magnitude = 13.26
 vsx_id = ASAS J031506-1707.9
 asassn_id = 403727832879
 color_string =  ASAS J031506-1707.9          | 03:15:06.08 -17:07:56.7 (Gaia DR3)  | EC/RRC/ELL (VSX) | 0.947680000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.779+/-0.033 (K)
-visual_inspection_comments = 
+visual_inspection_comments = RS
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
@@ -1880,7 +1880,7 @@ magnitude = 11.3
 vsx_id = ASASSN-V J030918.86-460349.9
 asassn_id = 438087626619
 color_string =  ASASSN-V J030918.86-460349.9 | 03:09:18.85 -46:03:50.0 (Gaia DR3)  | RRC (VSX)        | 0.204285000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.614+/-0.034 (K)
-visual_inspection_comments = 
+visual_inspection_comments = EW, outliers in ASAS-SN data
 
 ######### Classification results #########
 flag = 1 (0 - classification success, 1 - suspicious period)
@@ -1891,7 +1891,7 @@ magnitude = 14.52
 vsx_id = ASAS J031535-1647.0
 asassn_id = 489626716437
 color_string =  ASAS J031535-1647.0          | 03:15:35.25 -16:47:07.7 (Gaia DR3)  | RRC: (VSX)       | 0.351320000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.264+/-0.044 (F)
-visual_inspection_comments = 
+visual_inspection_comments = need TESS, no obvious variability in ASAS-SN
 
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
