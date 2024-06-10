@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.84
+position = 60.42821 -67.03489
+magnitude = 14.7
+vsx_id = NSV 1445
+asassn_id = 566936523417
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 62.41813 62.45322
+magnitude = 11.1
+vsx_id = LP Cam
+asassn_id = 761032
+color_string =
+visual_inspection_comments =

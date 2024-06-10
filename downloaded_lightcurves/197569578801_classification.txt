@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 57.0826 20.33546
+magnitude = 13.852
+vsx_id = AI Tau
+asassn_id = 197569578801
+color_string =
+visual_inspection_comments =

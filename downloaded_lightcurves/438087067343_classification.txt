@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.75
+position = 61.24917 -44.95169
+magnitude = 12.8
+vsx_id = AN Hor
+asassn_id = 438087067343
+color_string =
+visual_inspection_comments =

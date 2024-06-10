@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.81
+position = 57.98025 -74.47633
+magnitude = 15.0
+vsx_id = AU Hyi
+asassn_id = 369368433539
+color_string =
+visual_inspection_comments =

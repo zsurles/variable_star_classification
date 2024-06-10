@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 60.86275 47.99769
+magnitude = 12.02
+vsx_id = FM Per
+asassn_id = 25770389822
+color_string =
+visual_inspection_comments =

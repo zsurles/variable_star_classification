@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 55.77934 -19.44009
+magnitude = 12.9
+vsx_id = LM Eri
+asassn_id = 489627100062
+color_string =
+visual_inspection_comments =

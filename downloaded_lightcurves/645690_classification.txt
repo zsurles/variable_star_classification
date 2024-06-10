@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 59.52254 81.23972
+magnitude = 12.19
+vsx_id = EZ Cep
+asassn_id = 645690
+color_string =
+visual_inspection_comments =
