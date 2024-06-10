@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.96
+position = 70.37846 -52.27694
+magnitude = 12.8
+vsx_id = AL Pic
+asassn_id = 463856808833
+color_string =
+visual_inspection_comments =

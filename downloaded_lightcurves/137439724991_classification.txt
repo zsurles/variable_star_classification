@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.52
+position = 72.66501 44.94267
+magnitude = 14.04
+vsx_id = ASASSN-V J045039.60+445633.8
+asassn_id = 137439724991
+color_string =
+visual_inspection_comments =

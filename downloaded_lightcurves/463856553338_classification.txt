@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 72.87357 -71.62684
+magnitude = 12.916
+vsx_id = LMC V0126
+asassn_id = 463856553338
+color_string =
+visual_inspection_comments =

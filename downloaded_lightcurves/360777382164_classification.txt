@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 65.73026 -16.27768
+magnitude = 15.254
+vsx_id = AI Eri
+asassn_id = 360777382164
+color_string =
+visual_inspection_comments =

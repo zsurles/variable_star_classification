@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.28
+position = 71.104 23.00658
+magnitude = 12.87
+vsx_id = ATO J071.1040+23.0066
+asassn_id = 171798931749
+color_string =
+visual_inspection_comments =

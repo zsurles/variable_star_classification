@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.41
+position = 72.43454 -15.74117
+magnitude = 9.184
+vsx_id = RX Eri
+asassn_id = 309237671667
+color_string =
+visual_inspection_comments =

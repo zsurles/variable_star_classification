@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 70.12555 -73.4383
+magnitude = 12.767
+vsx_id = SZ Men
+asassn_id = 584116465731
+color_string =
+visual_inspection_comments =

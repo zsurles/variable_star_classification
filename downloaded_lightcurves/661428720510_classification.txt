@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 74.13129 5.59233
+magnitude = 14.414
+vsx_id = GO Ori
+asassn_id = 661428720510
+color_string =
+visual_inspection_comments =

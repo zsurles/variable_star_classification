@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 68.67879 21.77269
+magnitude = 12.065
+vsx_id = BR Tau
+asassn_id = 274878182896
+color_string =
+visual_inspection_comments =
