@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 82.43606 -64.28674
+magnitude = 13.021
+vsx_id = RT Dor
+asassn_id = 652835899460
+color_string =
+visual_inspection_comments =

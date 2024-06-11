@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.97
+position = 77.48492 -71.64462
+magnitude = 13.089
+vsx_id = T Men
+asassn_id = 566936136613
+color_string =
+visual_inspection_comments =

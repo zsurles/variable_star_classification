@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 83.35988 62.48747
+magnitude = 12.51
+vsx_id = TY Cam
+asassn_id = 661428948214
+color_string =
+visual_inspection_comments =

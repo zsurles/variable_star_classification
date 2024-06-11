@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.72
+position = 75.90351 -0.99919
+magnitude = 14.5
+vsx_id = V1844 Ori
+asassn_id = 489627191300
+color_string =
+visual_inspection_comments =

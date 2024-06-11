@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.23
+position = 75.75543 -69.15046
+magnitude = 13.8
+vsx_id = LMC V0771
+asassn_id = 661427547588
+color_string =
+visual_inspection_comments =

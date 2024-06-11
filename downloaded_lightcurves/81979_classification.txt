@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.98
+position = 77.01146 -79.06406
+magnitude = 13.5
+vsx_id = TX Men
+asassn_id = 81979
+color_string =
+visual_inspection_comments =
