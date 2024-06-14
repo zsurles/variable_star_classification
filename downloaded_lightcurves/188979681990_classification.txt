@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.74
+position = 93.29679 20.01102
+magnitude = 11.33
+vsx_id = EPIC 202095353
+asassn_id = 188979681990
+color_string =
+visual_inspection_comments =

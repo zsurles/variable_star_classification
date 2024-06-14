@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.53
+position = 96.37384 53.4782
+magnitude = 15.3
+vsx_id = Tepliakov Var1
+asassn_id = 68720343704
+color_string =
+visual_inspection_comments =

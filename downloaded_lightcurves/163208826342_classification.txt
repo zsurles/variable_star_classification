@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.96
+position = 91.74204 25.40056
+magnitude = 12.25
+vsx_id = DT Gem
+asassn_id = 163208826342
+color_string =
+visual_inspection_comments =

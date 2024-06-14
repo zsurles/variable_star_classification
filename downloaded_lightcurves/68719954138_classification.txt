@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 98.49929 67.02525
+magnitude = 12.09
+vsx_id = RZ Cam
+asassn_id = 68719954138
+color_string =
+visual_inspection_comments =

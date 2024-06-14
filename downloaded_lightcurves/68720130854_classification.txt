@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 92.36384 49.22973
+magnitude = 15.31
+vsx_id = Timofeev 5
+asassn_id = 68720130854
+color_string =
+visual_inspection_comments =

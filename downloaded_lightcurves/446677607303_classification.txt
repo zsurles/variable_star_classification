@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 97.15817 -38.8075
+magnitude = 12.4
+vsx_id = BQ Col
+asassn_id = 446677607303
+color_string =
+visual_inspection_comments =

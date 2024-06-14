@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.29
+position = 94.2987 -73.48216
+magnitude = 11.2
+vsx_id = RV Men
+asassn_id = 584116499622
+color_string =
+visual_inspection_comments =

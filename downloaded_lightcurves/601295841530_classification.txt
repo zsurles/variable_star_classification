@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.31
+position = 93.50487 -61.47319
+magnitude = 9.29
+vsx_id = ST Pic
+asassn_id = 601295841530
+color_string =
+visual_inspection_comments =

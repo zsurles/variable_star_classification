@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.88
+position = 87.177 -16.45088
+magnitude = 13.02
+vsx_id = BN Lep
+asassn_id = 438086769921
+color_string =
+visual_inspection_comments =
