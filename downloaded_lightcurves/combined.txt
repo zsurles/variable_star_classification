@@ -2054,7 +2054,7 @@ magnitude = 13.4
 vsx_id = CzeV207
 asassn_id = 103080585405
 color_string =
-visual_inspection_comments = 
+visual_inspection_comments = constant
 
 
 ######### Classification results #########
