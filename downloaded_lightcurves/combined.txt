@@ -2042,7 +2042,7 @@ magnitude = 12.95
 vsx_id = NSVS 4173294
 asassn_id = 103079874877
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variables
 
 
 ######### Classification results #########
@@ -2054,7 +2054,7 @@ magnitude = 13.4
 vsx_id = CzeV207
 asassn_id = 103080585405
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = 
 
 
 ######### Classification results #########
