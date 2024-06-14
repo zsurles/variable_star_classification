@@ -2066,7 +2066,7 @@ magnitude = 14.78
 vsx_id = CSS_J041335.1+333116
 asassn_id = 111670303040
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = True RRC
 
 
 ######### Classification results #########
@@ -2078,7 +2078,7 @@ magnitude = 12.772
 vsx_id = WISE J035011.0+542509
 asassn_id = 120259122861
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = EB - Beta Lyrae-type Eclipsing
 
 
 ######### Classification results #########
@@ -2090,7 +2090,7 @@ magnitude = 8.76
 vsx_id = NSV 15805
 asassn_id = 120259496493
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = too bright - need TESS data
 
 
 ######### Classification results #########
@@ -2102,7 +2102,7 @@ magnitude = 14.403
 vsx_id = WISE J035513.8+574829
 asassn_id = 137439491948
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variables
 
 
 ######### Classification results #########
@@ -2114,7 +2114,7 @@ magnitude = 11.91
 vsx_id = ASAS J035357+0902.0
 asassn_id = 154618922407
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variables
 
 
 ######### Classification results #########
@@ -2126,7 +2126,7 @@ magnitude = 9.65
 vsx_id = ASAS J034319+0830.5
 asassn_id = 154619380171
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = corrupted data - need TESS data
 
 
 ######### Classification results #########
@@ -2138,7 +2138,7 @@ magnitude = 14.91
 vsx_id = CSS_J035947.5+365246
 asassn_id = 171799864220
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = need TESS data
 
 
 ######### Classification results #########
@@ -2150,7 +2150,7 @@ magnitude = 12.56
 vsx_id = ASAS J041124+0929.8
 asassn_id = 180389407730
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variables
 
 
 ######### Classification results #########
@@ -2162,7 +2162,7 @@ magnitude = 15.43
 vsx_id = CSS_J040331.2+243449
 asassn_id = 180389696078
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = RS - RS Canum Venaticorum-type systems
 
 
 ######### Classification results #########
@@ -2174,7 +2174,7 @@ magnitude = 14.22
 vsx_id = ASASSN-V J034540.12+082128.9
 asassn_id = 188979287132
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = true RRAB
 
 
 ######### Classification results #########
@@ -2186,7 +2186,7 @@ magnitude = 15.02
 vsx_id = CSS_J041421.7+361203
 asassn_id = 197569019757
 color_string =
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variables
 
 
 ######### Classification results #########
