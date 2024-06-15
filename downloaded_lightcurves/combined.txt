@@ -2390,7 +2390,7 @@ magnitude = 15.33
 vsx_id = ASASSN-V J035645.58+684536.3
 asassn_id = 42950895712
 color_string =  ASASSN-V J035645.58+684536.3 | 03:56:45.58 +68:45:36.3 (Gaia DR3)  | RRC (VSX)        | 0.200867000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.405+/-0.048 (G)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -2402,7 +2402,7 @@ magnitude = 14.48
 vsx_id = SSS_J034426.1-493932
 asassn_id = 481036468975
 color_string =  SSS_J034426.1-493932         | 03:44:26.06 -49:39:31.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.338+/-0.038 (G)
-visual_inspection_comments =
+visual_inspection_comments = true RRAB
 
 
 ######### Classification results #########
@@ -2414,7 +2414,7 @@ magnitude = 14.7
 vsx_id = NR Eri
 asassn_id = 489626903504
 color_string =  NR Eri                       | 03:52:56.94 -35:03:27.9 (Gaia DR3)  | RRC (GCVS)       | 0.3027600000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.214+/-0.063 (F)
-visual_inspection_comments =
+visual_inspection_comments = true RRC with a few outlier points
 
 
 ######### Classification results #########
@@ -2426,7 +2426,7 @@ magnitude = 15.23
 vsx_id = SSS_J040227.7-352908
 asassn_id = 498216742906
 color_string =  SSS_J040227.7-352908         | 04:02:27.84 -35:29:08.0 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.218+/-0.071 (F)
-visual_inspection_comments =
+visual_inspection_comments = true RRAB
 
 
 ######### Classification results #########
