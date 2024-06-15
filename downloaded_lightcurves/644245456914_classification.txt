@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 86.98901 -64.30809
+magnitude = 14.6
+vsx_id = UV Dor
+asassn_id = 644245456914
+color_string =
+visual_inspection_comments =

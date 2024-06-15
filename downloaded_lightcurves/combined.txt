@@ -2438,7 +2438,7 @@ magnitude = 11.61
 vsx_id = ASASSN-V J040851.07-740949.3
 asassn_id = 498217331424
 color_string =  ASASSN-V J040851.07-740949.3 | 04:08:51.17 -74:09:49.2 (Gaia DR3)  | RRC (VSX)        | 0.219768000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.239+/-0.033 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variables
 
 
 ######### Classification results #########
@@ -2450,7 +2450,7 @@ magnitude = 14.95
 vsx_id = ASASSN-V J035958.52+702240.5
 asassn_id = 51539731412
 color_string =  ASASSN-V J035958.52+702240.5 | 03:59:58.53 +70:22:40.5 (Gaia DR3)  | RRC (VSX)        | 0.441844000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.297+/-0.050 (F)
-visual_inspection_comments =
+visual_inspection_comments = EB - Beta Lyrae-type Eclipsing
 
 
 ######### Classification results #########
@@ -2462,7 +2462,7 @@ magnitude = 12.1
 vsx_id = ASAS J033634-0711.6
 asassn_id = 523986889284
 color_string =  ASAS J033634-0711.6          | 03:36:34.04 -07:11:35.6 (Gaia DR3)  | RRC (VSX)        | 0.307785000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.299+/-0.034 (F)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -2474,7 +2474,7 @@ magnitude = 14.7
 vsx_id = NSV 1445
 asassn_id = 566936523417
 color_string =  NSV 1445                     | 04:01:42.77 -67:02:05.5 (Gaia DR3)  | RR/EW (VSX)      |  (VSX)               |  Gaia3var=VARIABLE                                     J-Ks=0.431+/-0.033 (G)
-visual_inspection_comments =
+visual_inspection_comments = EB - Beta Lyrae-type Eclipsing
 
 
 ######### Classification results #########
@@ -2486,7 +2486,7 @@ magnitude = 9.67
 vsx_id = ASAS J033822-6259.1
 asassn_id = 584116297491
 color_string =  ASAS J033822-6259.1          | 03:38:21.45 -62:59:04.2 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.342568000000 (VSX) |  Gaia3var=VARIABLE        SpType: A6 + F3/5 1975MSS...C01....0H HD 23047  J-Ks=0.195+/-0.033 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS data, corrupted ASASSN data
 
 
 ######### Classification results #########
@@ -2498,7 +2498,7 @@ magnitude = 12.332
 vsx_id = WISE J035042.0+555803
 asassn_id = 60130593470
 color_string =  WISE J035042.0+555803        | 03:50:42.06 +55:58:03.5 (Gaia DR3)  | RRAB (VSX)       | 0.452317200000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.778+/-0.034 (K)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -2510,7 +2510,7 @@ magnitude = 13.85
 vsx_id = SSS_J041145.3-644020
 asassn_id = 618475900074
 color_string =  SSS_J041145.3-644020         | 04:11:45.54 -64:40:19.2 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.364+/-0.033 (G)
-visual_inspection_comments =
+visual_inspection_comments = true RRAB
 
 
 ######### Classification results #########
@@ -4226,4 +4226,1372 @@ magnitude = 13.1
 vsx_id = FM Aur
 asassn_id = 68720761137
 color_string =  FM Aur                       | 05:36:40.87 +31:56:11.6 (Gaia DR3)  | IS (GCVS)        |  (GCVS)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.542+/-0.040 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.98
+position = 91.12146 29.26183
+magnitude = 13.27
+vsx_id = PS1-3PI J060429.15+291542.5
+asassn_id = 103080198482
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.87
+position = 96.48771 51.87426
+magnitude = 14.83
+vsx_id = PS1-3PI J062557.05+515227.3
+asassn_id = 111669647492
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.77
+position = 90.12019 31.76243
+magnitude = 13.166
+vsx_id = WISE J060028.8+314544
+asassn_id = 120260164447
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.36
+position = 89.73157 38.24526
+magnitude = 13.33
+vsx_id = ASASSN-V J055855.56+381442.8
+asassn_id = 128849649579
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.35
+position = 92.19712 35.34675
+magnitude = 14.19
+vsx_id = ASASSN-V J060847.31+352048.3
+asassn_id = 146030271560
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.75
+position = 96.42529 8.49568
+magnitude = 13.38
+vsx_id = ASASSN-V J062542.07+082944.4
+asassn_id = 154619380358
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.8
+position = 89.91875 20.65608
+magnitude = 13.45
+vsx_id = CzeV1564
+asassn_id = 154619960168
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.96
+position = 91.74204 25.40056
+magnitude = 12.25
+vsx_id = DT Gem
+asassn_id = 163208826342
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.85
+position = 96.27401 21.11232
+magnitude = 12.94
+vsx_id = PS1-3PI J062505.76+210644.3
+asassn_id = 171799551855
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 1.0
+position = 94.25611 20.72332
+magnitude = 14.89
+vsx_id = PS1-3PI J061701.46+204323.9
+asassn_id = 180388810482
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.9
+position = 90.66131 20.24507
+magnitude = 13.8
+vsx_id = PS1-3PI J060238.71+201442.2
+asassn_id = 180389026379
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.72
+position = 90.16608 7.02625
+magnitude = 12.57
+vsx_id = ASAS J060040+0701.5
+asassn_id = 180389352130
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.83
+position = 98.03143 5.98401
+magnitude = 13.478
+vsx_id = WISE J063207.5+055902
+asassn_id = 188978867058
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.76
+position = 94.75497 9.44027
+magnitude = 12.61
+vsx_id = PS1-3PI J061901.19+092624.9
+asassn_id = 188978942812
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.82
+position = 90.96538 9.36837
+magnitude = 12.302
+vsx_id = WISE J060351.6+092206
+asassn_id = 188978966468
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.97
+position = 97.24625 8.33033
+magnitude = 13.7
+vsx_id = NSV 2975
+asassn_id = 188979287356
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.74
+position = 93.29679 20.01102
+magnitude = 11.33
+vsx_id = EPIC 202095353
+asassn_id = 188979681990
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.45
+position = 95.8459 19.32509
+magnitude = 13.42
+vsx_id = PS1-3PI J062323.01+191930.3
+asassn_id = 188979689746
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.28
+position = 96.51154 -30.25936
+magnitude = 12.62
+vsx_id = ASAS J062603-3015.5
+asassn_id = 197568788689
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.38
+position = 89.38975 20.33758
+magnitude = 10.74
+vsx_id = ASAS J055734+2020.2
+asassn_id = 197569593750
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.64
+position = 92.66554 20.42367
+magnitude = 13.34
+vsx_id = ASAS J061040+2025.4
+asassn_id = 197569600960
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.6
+position = 89.12744 43.80521
+magnitude = 11.924
+vsx_id = WISE J055630.5+434818
+asassn_id = 206158779133
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.4
+position = 87.16654 18.28858
+magnitude = 12.74
+vsx_id = ASAS J054840+1817.3
+asassn_id = 206159718386
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.31
+position = 90.24333 17.28517
+magnitude = 12.23
+vsx_id = ASAS J060058+1717.1
+asassn_id = 214748986801
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.74
+position = 89.14321 16.29792
+magnitude = 13.21
+vsx_id = ASAS J055635+1617.9
+asassn_id = 214749330205
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.72
+position = 86.93649 49.71975
+magnitude = 14.098
+vsx_id = WISE J054744.7+494311
+asassn_id = 214749476591
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.48
+position = 98.73823 -20.97506
+magnitude = 15.29
+vsx_id = PS1-3PI J063457.17-205830.2
+asassn_id = 240518432845
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.76
+position = 92.13504 11.45736
+magnitude = 13.14
+vsx_id = ASAS J060832+1127.5
+asassn_id = 240519011488
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.41
+position = 89.30437 13.49097
+magnitude = 10.74
+vsx_id = ASAS J055713+1329.5
+asassn_id = 249109324902
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.97
+position = 98.9154 -4.94018
+magnitude = 15.23
+vsx_id = [MVD2012] 1102
+asassn_id = 249109383599
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.36
+position = 97.44611 63.24244
+magnitude = 15.07
+vsx_id = PS1-3PI J062947.07+631432.8
+asassn_id = 25770079621
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.59
+position = 92.75308 4.97633
+magnitude = 12.18
+vsx_id = ASAS J061101+0458.6
+asassn_id = 266288192566
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.54
+position = 88.38675 17.86542
+magnitude = 10.49
+vsx_id = ASAS J055333+1751.9
+asassn_id = 266288496616
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.34
+position = 98.7432 12.62977
+magnitude = 14.32
+vsx_id = PS1-3PI J063458.36+123747.1
+asassn_id = 266289158831
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.84
+position = 94.51833 -13.98703
+magnitude = 11.29
+vsx_id = ASAS J061804-1359.2
+asassn_id = 274878440163
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.31
+position = 90.62587 -73.77989
+magnitude = 13.19
+vsx_id = ASAS J060230-7346.8
+asassn_id = 283468920099
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.75
+position = 93.70682 10.12812
+magnitude = 12.568
+vsx_id = WISE J061449.6+100741
+asassn_id = 292057812787
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.57
+position = 89.89663 -8.44481
+magnitude = 13.48
+vsx_id = CSS_J055935.1-082641
+asassn_id = 292058115652
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_O
+class_probability = 0.52
+position = 96.04708 -15.082
+magnitude = 11.49
+vsx_id = ASAS J062411-1504.9
+asassn_id = 300648008374
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_O
+class_probability = 0.71
+position = 96.35556 -2.69767
+magnitude = 15.36
+vsx_id = [MVD2012] 1099
+asassn_id = 300648212967
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.89
+position = 98.47917 -1.46878
+magnitude = 12.49
+vsx_id = ASAS J063355-0128.1
+asassn_id = 300648843123
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.97
+position = 89.30743 -14.0915
+magnitude = 14.632
+vsx_id = CSS_J055713.7-140529
+asassn_id = 309238303823
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.4
+position = 98.49179 -46.49908
+magnitude = 9.41
+vsx_id = ASAS J063358-4629.9
+asassn_id = 317828095412
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.42
+position = 93.73944 -2.17418
+magnitude = 15.47
+vsx_id = [MVD2012] 1093
+asassn_id = 317828418853
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_C
+class_probability = 0.38
+position = 95.16229 -28.57128
+magnitude = 11.92
+vsx_id = ASAS J062039-2834.3
+asassn_id = 335008647542
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.67
+position = 95.99558 65.08229
+magnitude = 14.49
+vsx_id = PS1-3PI J062358.93+650456.2
+asassn_id = 34360308704
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.97
+position = 92.29413 -3.1476
+magnitude = 14.972
+vsx_id = CSS_J060910.5-030851
+asassn_id = 360777458263
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.37
+position = 96.36227 -42.07851
+magnitude = 14.86
+vsx_id = SSS_J062526.9-420441
+asassn_id = 360778415171
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.6
+position = 97.68946 3.35833
+magnitude = 12.67
+vsx_id = ASAS J063045+0321.5
+asassn_id = 377957226175
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.6
+position = 95.88133 -28.82122
+magnitude = 11.3
+vsx_id = ASAS J062332-2849.2
+asassn_id = 377957569492
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.58
+position = 97.28663 -27.82533
+magnitude = 9.29
+vsx_id = ASAS J062909-2749.5
+asassn_id = 377957858376
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.68
+position = 88.52142 15.87947
+magnitude = 9.96
+vsx_id = ASAS J055405+1552.8
+asassn_id = 386547625158
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.85
+position = 98.14996 -21.98894
+magnitude = 11.45
+vsx_id = ASAS J063236-2159.3
+asassn_id = 386548197620
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.43
+position = 89.37867 -1.91803
+magnitude = 14.4
+vsx_id = V2773 Ori
+asassn_id = 403727093515
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.48
+position = 88.68249 -73.00681
+magnitude = 12.9
+vsx_id = ASASSN-V J055443.80-730024.5
+asassn_id = 403727642759
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.82
+position = 89.46585 -71.23707
+magnitude = 13.43
+vsx_id = ASASSN-V J055751.80-711413.5
+asassn_id = 403727753301
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.42
+position = 87.21376 -47.9527
+magnitude = 12.032
+vsx_id = WISE J054851.3-475709
+asassn_id = 412317050819
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.85
+position = 91.40417 -24.88972
+magnitude = 13.89
+vsx_id = ASAS J060537-2453.4
+asassn_id = 412317311507
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.27
+position = 86.8705 -45.24597
+magnitude = 9.831
+vsx_id = SS Pic
+asassn_id = 420907027855
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.89
+position = 89.45673 -27.83694
+magnitude = 14.99
+vsx_id = SSS_J055749.4-275011
+asassn_id = 429496804732
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.91
+position = 88.30176 -47.69801
+magnitude = 15.42
+vsx_id = ASASSN-V J055312.42-474152.8
+asassn_id = 429497397205
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 1.0
+position = 91.11191 29.19044
+magnitude = 13.89
+vsx_id = PS1-3PI J060426.85+291125.5
+asassn_id = 42949981103
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_O
+class_probability = 0.71
+position = 97.38712 -21.22986
+magnitude = 11.29
+vsx_id = ASAS J062933-2113.8
+asassn_id = 446677658802
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.98
+position = 89.12295 -26.16941
+magnitude = 12.81
+vsx_id = SSS_J055629.6-261006
+asassn_id = 455267256629
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.51
+position = 97.42442 -16.38308
+magnitude = 9.39
+vsx_id = ASAS J062942-1623.0
+asassn_id = 455267497125
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.68
+position = 91.33204 -8.23692
+magnitude = 12.32
+vsx_id = ASAS J060520-0814.2
+asassn_id = 472446951912
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.56
+position = 94.82033 -49.72242
+magnitude = 13.4
+vsx_id = ASAS J061917-4943.3
+asassn_id = 472447319828
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.49
+position = 91.87457 -27.08653
+magnitude = 13.43
+vsx_id = SSS_J060730.0-270511
+asassn_id = 472447514482
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.47
+position = 92.91546 -36.83794
+magnitude = 9.59
+vsx_id = ASAS J061140-3650.2
+asassn_id = 489626963078
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.61
+position = 98.79154 -21.20947
+magnitude = 12.21
+vsx_id = ASAS J063510-2112.6
+asassn_id = 489627217396
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.44
+position = 91.66134 -6.69842
+magnitude = 11.03
+vsx_id = ASASSN-V J060638.72-064154.3
+asassn_id = 498216972644
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.92
+position = 97.1618 -5.68753
+magnitude = 12.888
+vsx_id = WISE J062838.8-054115
+asassn_id = 506806168226
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.56
+position = 90.40925 -21.88478
+magnitude = 12.32
+vsx_id = ASAS J060138-2153.1
+asassn_id = 506806566164
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.43
+position = 98.43329 53.78014
+magnitude = 12.99
+vsx_id = CSS_J063343.9+534648
+asassn_id = 51539608966
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.73
+position = 92.39533 -21.33206
+magnitude = 10.74
+vsx_id = ASAS J060935-2119.9
+asassn_id = 515396543059
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.39
+position = 95.2591 -51.96738
+magnitude = 15.42
+vsx_id = ASASSN-V J062102.18-515802.6
+asassn_id = 523986240877
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.37
+position = 91.04717 -36.00511
+magnitude = 10.34
+vsx_id = ASAS J060411-3600.3
+asassn_id = 523986759119
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.79
+position = 93.91446 -18.35286
+magnitude = 12.97
+vsx_id = ASAS J061539-1821.2
+asassn_id = 584116052289
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.29
+position = 94.2987 -73.48216
+magnitude = 11.2
+vsx_id = RV Men
+asassn_id = 584116499622
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.55
+position = 95.82896 -32.54122
+magnitude = 12.08
+vsx_id = ASAS J062319-3232.5
+asassn_id = 592705539260
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.29
+position = 91.34167 -69.78344
+magnitude = 12.06
+vsx_id = ASAS J060521-6947.1
+asassn_id = 592706192850
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.97
+position = 94.28465 -36.74551
+magnitude = 14.5
+vsx_id = NSVS 17829506
+asassn_id = 592706540020
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.31
+position = 93.50487 -61.47319
+magnitude = 9.29
+vsx_id = ST Pic
+asassn_id = 601295841530
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.31
+position = 93.09154 -26.267
+magnitude = 12.68
+vsx_id = ASAS J061222-2616.0
+asassn_id = 601296031481
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.43
+position = 91.33267 -25.09381
+magnitude = 9.81
+vsx_id = ASAS J060520-2505.6
+asassn_id = 601296066243
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.4
+position = 98.23783 -49.75521
+magnitude = 14.01
+vsx_id = SSS_J063257.1-494518
+asassn_id = 601296117553
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.72
+position = 96.44943 -52.02954
+magnitude = 12.34
+vsx_id = ASASSN-V J062547.86-520146.3
+asassn_id = 601296234772
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.3
+position = 98.34396 -49.34231
+magnitude = 11.64
+vsx_id = ASAS J063323-4920.5
+asassn_id = 601296423413
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.99
+position = 89.44442 60.6965
+magnitude = 11.776
+vsx_id = WISE J055746.6+604147
+asassn_id = 60130152144
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.88
+position = 91.91354 -57.37691
+magnitude = 15.49
+vsx_id = ASASSN-V J060739.25-572236.9
+asassn_id = 609886221508
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.56
+position = 87.99406 -59.80367
+magnitude = 15.25
+vsx_id = ASASSN-V J055158.57-594813.2
+asassn_id = 627065942025
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.88
+position = 95.37788 -33.70719
+magnitude = 12.49
+vsx_id = ASAS J062131-3342.4
+asassn_id = 635655388746
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.52
+position = 94.62475 -74.63853
+magnitude = 10.76
+vsx_id = ASAS J061830-7438.3
+asassn_id = 661427536295
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.25
+position = 88.27324 -69.48371
+magnitude = 15.0
+vsx_id = UX Dor
+asassn_id = 661427546471
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.66
+position = 90.75431 -53.03951
+magnitude = 12.03
+vsx_id = ASASSN-V J060301.03-530222.2
+asassn_id = 661427651340
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.63
+position = 91.58463 -33.6005
+magnitude = 10.28
+vsx_id = ASAS J060620-3336.0
+asassn_id = 661427865301
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.58
+position = 93.37649 -20.32847
+magnitude = 15.15
+vsx_id = PS1-3PI J061330.35-201942.4
+asassn_id = 661428583947
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.22
+position = 96.66253 -12.45677
+magnitude = 12.657
+vsx_id = WISE J062639.0-122724
+asassn_id = 661428629412
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.63
+position = 92.472 -5.28425
+magnitude = 14.63
+vsx_id = CSS_J060953.2-051703
+asassn_id = 661428665380
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.26
+position = 97.1113 2.45623
+magnitude = 13.02
+vsx_id = NSVS 12489844
+asassn_id = 661428705761
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.52
+position = 92.38388 5.7645
+magnitude = 10.45
+vsx_id = ASAS J060932+0545.9
+asassn_id = 661428721285
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.56
+position = 92.88871 12.83067
+magnitude = 10.33
+vsx_id = ASAS J061133+1249.8
+asassn_id = 661428750497
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.46
+position = 89.35323 21.90291
+magnitude = 15.0
+vsx_id = PS1-3PI J055724.77+215410.4
+asassn_id = 661428788329
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.76
+position = 89.31332 53.53538
+magnitude = 15.32
+vsx_id = PS1-3PI J055715.20+533207.4
+asassn_id = 661428929142
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.44
+position = 89.068 56.34253
+magnitude = 13.89
+vsx_id = NEV286
+asassn_id = 661428935001
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.41
+position = 98.40308 56.82067
+magnitude = 13.9
+vsx_id = CSS_J063336.7+564914
+asassn_id = 661428936102
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.52
+position = 93.00125 -31.30458
+magnitude = 10.83
+vsx_id = ASAS J061200-3118.3
+asassn_id = 77310326312
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.71
+position = 98.08382 -78.30261
+magnitude = 13.67
+vsx_id = ASASSN-V J063220.12-781809.4
+asassn_id = 77310422041
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.44
+position = 90.03142 49.50208
+magnitude = 14.64
+vsx_id = NGC 2126 V19
+asassn_id = 77310735508
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.98
+position = 88.35429 79.75028
+magnitude = 13.75
+vsx_id = V0414 Cam
+asassn_id = 826919
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.92
+position = 90.42831 37.60134
+magnitude = 14.24
+vsx_id = ASASSN-V J060142.80+373604.7
+asassn_id = 8590749383
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.77
+position = 94.91065 59.61486
+magnitude = 13.552
+vsx_id = CSS_J061938.5+593653
+asassn_id = 8591312940
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.9
+position = 96.14642 37.51031
+magnitude = 14.71
+vsx_id = UCAC4 638-034945
+asassn_id = 94489925614
+color_string =
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.53
+position = 91.59631 48.14478
+magnitude = 12.587
+vsx_id = WISE J060623.1+480841
+asassn_id = 94490024177
+color_string =
 visual_inspection_comments =

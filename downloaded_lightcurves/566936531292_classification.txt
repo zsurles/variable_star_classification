@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 91.94049 -66.97746
+magnitude = 11.098
+vsx_id = VW Dor
+asassn_id = 566936531292
+color_string =
+visual_inspection_comments =
