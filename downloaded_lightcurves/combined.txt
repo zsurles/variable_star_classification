@@ -2690,7 +2690,7 @@ magnitude = 12.26
 vsx_id = V0355 Cam
 asassn_id = 111670220542
 color_string =  V0355 Cam                    | 04:28:46.17 +55:17:01.1 (Gaia DR3)  | RRC (GCVS)       | 0.2185200000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.371+/-0.027 (G)
-visual_inspection_comments  true RRC
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
