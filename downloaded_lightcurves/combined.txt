@@ -2570,7 +2570,7 @@ magnitude = 14.84
 vsx_id = CSS_J034408.0+273054
 asassn_id = 661428811176
 color_string =  CSS_J034408.0+273054         | 03:44:08.03 +27:30:55.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.192+/-0.054 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -2582,7 +2582,7 @@ magnitude = 15.17
 vsx_id = CSS_J041037.4+324038
 asassn_id = 661428831267
 color_string =  CSS_J041037.4+324038         | 04:10:37.42 +32:40:39.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: F0 (LAMOST DR5)       J-Ks=0.398+/-0.046 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variables, too faint for ASAS-SN
 
 
 ######### Classification results #########
@@ -2594,7 +2594,7 @@ magnitude = 13.362
 vsx_id = WISE J035624.9+560852
 asassn_id = 661428934597
 color_string =  WISE J035624.9+560852        | 03:56:25.00 +56:08:52.6 (Gaia DR3)  | RRAB (VSX)       | 0.956764300000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.998+/-0.047 (M)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable, too faint for ASAS-SN (funny long period)
 
 
 ######### Classification results #########
@@ -2606,7 +2606,7 @@ magnitude = 14.21
 vsx_id = PS1-3PI J040343.12+520645.6
 asassn_id = 68720075979
 color_string =  PS1-3PI J040343.12+520645.6  | 04:03:43.13 +52:06:45.6 (Gaia DR3)  | RRAB (VSX)       | 0.503857000000 (VSX) |  Gaia3var=VARIABLE        SpType: F7 (LAMOST DR5)      J-Ks=0.479+/-0.033 (K)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable
 
 
 ######### Classification results #########
@@ -2618,7 +2618,7 @@ magnitude = 15.45
 vsx_id = [MPS2009] V1
 asassn_id = 761603
 color_string =  [MPS2009] V1                 | 04:07:23.13 +62:24:14.0 (Gaia DR3)  | RRC (VSX)        | 0.299236200000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.576+/-0.030 (K)
-visual_inspection_comments =
+visual_inspection_comments = true RRC according to ZTF data, too faint for ASAS-SN
 
 
 ######### Classification results #########
@@ -2630,7 +2630,7 @@ magnitude = 12.218
 vsx_id = WISE J034723.9+524657
 asassn_id = 77309540405
 color_string =  WISE J034723.9+524657        | 03:47:23.98 +52:46:57.8 (Gaia DR3)  | RRC (VSX)        | 0.379109700000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.694+/-0.035 (K)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type eclipsing variable, too faint for ASAS-SN
 
 
 ######### Classification results #########
@@ -2642,7 +2642,7 @@ magnitude = 12.25
 vsx_id = ASASSN-V J035631.69+792825.6
 asassn_id = 804810
 color_string =  ASASSN-V J035631.69+792825.6 | 03:56:31.81 +79:28:25.5 (Gaia DR3)  | RRC (VSX)        | 0.216430000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.333+/-      (G)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -2654,7 +2654,7 @@ magnitude = 12.146
 vsx_id = WISE J035459.3+511952
 asassn_id = 8590326647
 color_string =  WISE J035459.3+511952        | 03:54:59.35 +51:19:52.4 (Gaia DR3)  | RRC (VSX)        | 0.414918100000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.504+/-0.036 (K)
-visual_inspection_comments =
+visual_inspection_comments = EA, too faint for ASAS-SN
 
 
 ######### Classification results #########
@@ -2666,7 +2666,7 @@ magnitude = 14.98
 vsx_id = GSC 04339-02181
 asassn_id = 8591207594
 color_string =  GSC 04339-02181              | 03:52:16.67 +74:32:31.5 (Gaia DR3)  | RRC (VSX)        | 0.271983000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.442+/-0.040 (G)
-visual_inspection_comments =
+visual_inspection_comments = need TESS, looks constant
 
 
 ######### Classification results #########
