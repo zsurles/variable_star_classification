@@ -2751,7 +2751,7 @@ magnitude = 14.51
 vsx_id = CSS_J041549.0+240503
 asassn_id = 154620149261
 color_string =  CSS_J041549.0+240503         | 04:15:49.11 +24:05:03.8 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.521+/-0.035 (K)
-visual_inspection_comments =
+visual_inspection_comments = true RRab
 
 
 ######### Classification results #########
