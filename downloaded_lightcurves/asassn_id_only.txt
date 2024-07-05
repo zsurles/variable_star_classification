@@ -1,5 +1,3 @@
-# contains only asassn_id numbers for stars that were accurately classified as RR type stars
-
 103079359131
 103079507136
 103079528195
