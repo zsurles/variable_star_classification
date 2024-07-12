@@ -3243,7 +3243,7 @@ magnitude = 14.41
 vsx_id = CSS_J042835.1+392302
 asassn_id = 661428856578
 color_string =  CSS_J042835.1+392302         | 67.1465 39.38411 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                                                  
-visual_inspection_comments = maybe EA or BY Draconis, need TESS
+visual_inspection_comments = maybe EW, need TESS
 
 
 ######### Classification results #########
@@ -3399,7 +3399,7 @@ magnitude = 15.101
 vsx_id = CSS_J052219.1-040941
 asassn_id = 249109257134
 color_string =  CSS_J052219.1-040941         | 05:22:19.21 -04:09:41.8 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.884+/-0.037 (M)
-visual_inspection_comments = need TESS
+visual_inspection_comments = RS Cvn
 
 
 ######### Classification results #########
@@ -3411,7 +3411,7 @@ magnitude = 13.15
 vsx_id = ASAS J051758+2239.1
 asassn_id = 257698466031
 color_string =  ASAS J051758+2239.1          | 05:17:58.51 +22:39:00.2 (Gaia DR3)  | EC/RRC (VSX)     | 0.586640000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.420+/-0.032 (G)
-visual_inspection_comments =
+visual_inspection_comments = 
 
 
 ######### Classification results #########
