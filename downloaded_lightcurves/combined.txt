@@ -2955,7 +2955,7 @@ magnitude = 11.25
 vsx_id = ASAS J041950-1559.1
 asassn_id = 335008175967
 color_string =  ASAS J041950-1559.1          | 04:19:50.07 -15:59:03.1 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.346849000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.289+/-0.033 (F)
-visual_inspection_comments = need TESS
+visual_inspection_comments = EW according to TESS
 
 
 ######### Classification results #########
@@ -2991,7 +2991,7 @@ magnitude = 11.07
 vsx_id = ASAS J044146-1809.7
 asassn_id = 369368371268
 color_string =  ASAS J044146-1809.7          | 04:41:45.55 -18:09:43.6 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.293995000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.139+/-0.038 (F)
-visual_inspection_comments = need TESS, corrupted ASAS-SN data
+visual_inspection_comments = EW according to TESS, corrupted ASAS-SN data
 
 
 ######### Classification results #########
