@@ -3231,7 +3231,7 @@ magnitude = 15.48
 vsx_id = CSS_J044638.3+305921
 asassn_id = 661428824160
 color_string =  CSS_J044638.3+305921         | 04:46:38.29 +30:59:22.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.758+/-0.041 (K)
-visual_inspection_comments = need TESS
+visual_inspection_comments = EW according to TESS (but is very faint, so hard to tell)
 
 
 ######### Classification results #########
@@ -3243,7 +3243,7 @@ magnitude = 14.41
 vsx_id = CSS_J042835.1+392302
 asassn_id = 661428856578
 color_string =  CSS_J042835.1+392302         | 67.1465 39.38411 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                                                  
-visual_inspection_comments = maybe EW, need TESS
+visual_inspection_comments = EW according to TESS
 
 
 ######### Classification results #########
@@ -3255,7 +3255,7 @@ magnitude = 13.96
 vsx_id = NSVS 4208095
 asassn_id = 661428889612
 color_string =  NSVS 4208095                 | 64.12098 44.73159 (user input)  | RRAB (VSX)       | 0.639500000000 (VSX) |  (position from user input)                                                  
-visual_inspection_comments = possibly constant, need TESS
+visual_inspection_comments = constant according to TESS
 
 
 ######### Classification results #########
@@ -3279,7 +3279,7 @@ magnitude = 14.63
 vsx_id = NSVS 491696
 asassn_id = 661428964531
 color_string =  NSVS 491696                  | 68.95677 80.24478 (user input)  | RRAB (VSX)       | 0.561432000000 (VSX) |  (position from user input)                            J-Ks=0.537+/-0.035 (K)
-visual_inspection_comments = possibly constant, need TESS
+visual_inspection_comments = constanta according to TESS
 
 
 ######### Classification results #########
@@ -3291,7 +3291,7 @@ magnitude = 14.2
 vsx_id = NSV 1823
 asassn_id = 111669775499
 color_string =  NSV 1823                     | 05:06:29.02 +40:33:58.0 (Gaia DR3)  | RR/EW (VSX)      |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.212+/-0.040 (F)
-visual_inspection_comments = need TESS
+visual_inspection_comments = EA according to TESS
 
 
 ######### Classification results #########
