@@ -3423,7 +3423,7 @@ magnitude = 12.3
 vsx_id = ASAS J051721+0012.5
 asassn_id = 257699003668
 color_string =  ASAS J051721+0012.5          | 05:17:21.68 +00:12:32.3 (Gaia DR3)  | EC/RRC/DSCT (VSX) | 0.404169000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.428+/-0.043 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
