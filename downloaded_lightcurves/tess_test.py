@@ -65,22 +65,6 @@ def calculate_tpf_centroid(tpf, initial_position, aperture_radius=1.5):
     y_centroid_sub, x_centroid_sub = centroid_com(sub_image)  # Calculate the centroid in the sub-image
     return x_centroid_sub, y_centroid_sub  # Return the centroid
 
-def round_tpf_position(tpf, initial_position, aperture_radius=1.5):
-    """
-    Round the initial position to the nearest integer values.
-
-    Parameters:
-    tpf (TargetPixelFile): The target pixel file object (not used in this function but kept for consistency).
-    initial_position (tuple): Initial guess for the position of the source (x, y).
-    aperture_radius (float): Radius of the circular aperture for the initial guess (not used in this function but kept for consistency).
-
-    Returns:
-    tuple: Rounded position (x_rounded, y_rounded).
-    """
-    x_rounded = int(round(initial_position[0]))  # Round x-coordinate to nearest integer
-    y_rounded = int(round(initial_position[1]))  # Round y-coordinate to nearest integer
-    return x_rounded, y_rounded  # Return rounded coordinates
-
 def shots_sourcextractor_style_background_estimate_for_1d_data(annulus_data_1d):
     """
     Estimate the background value and standard deviation for 1D annulus data.
@@ -231,7 +215,7 @@ for target_name, target_radec in target_list:
     search_lc = lk.search_tesscut(target_radec)  # Search TESSCut for the target
     print(search_lc)
 
-    lightcurves_rounded = {}  # Dictionary to store lightcurves with rounded centroids
+    lightcurves_input = {}  # Dictionary to store lightcurves with rounded centroids
     lightcurves_calculated = {}  # Dictionary to store lightcurves with calculated centroids
 
     for search_result in search_lc:
@@ -240,25 +224,24 @@ for target_name, target_radec in target_list:
             continue
 
         initial_x, initial_y = radec_to_pixel(tpf_target, target_radec)  # Convert RA/Dec to pixel coordinates
-        x_centroid_rounded, y_centroid_rounded = round_tpf_position(tpf_target, (initial_x, initial_y))  # Calculate rounded centroid
         x_centroid_calc, y_centroid_calc = calculate_tpf_centroid(tpf_target, (initial_x, initial_y))  # Calculate centroid
 
         for r in aperture_radii:
             for ann_inner, ann_outer in annulus_radii_pairs:
-                # Perform aperture photometry for rounded centroid
-                lc_bkg_subtracted_rounded, lc_raw_rounded, lc_bkg_per_pix_rounded = custom_aperture_photometry_to_lightcurve(
-                    tpf_target, (x_centroid_rounded, y_centroid_rounded), r, ann_inner, ann_outer)
+                # Perform aperture photometry placing the aperture at the source position derived from the input celestial coordinates
+                lc_bkg_subtracted_input, lc_raw_input, lc_bkg_per_pix_input = custom_aperture_photometry_to_lightcurve(
+                    tpf_target, (initial_x, initial_y), r, ann_inner, ann_outer)
                 
                 # Check if something went wrong during the lightcurve creation
                 # (like target too close to the frame edge)
-                if lc_bkg_subtracted_rounded is None:
+                if lc_bkg_subtracted_input is None:
                     continue
                 
                 key = (r, ann_inner, ann_outer, 'rounded')
-                if key not in lightcurves_rounded:
-                    lightcurves_rounded[key] = lc_bkg_subtracted_rounded
+                if key not in lightcurves_input:
+                    lightcurves_input[key] = lc_bkg_subtracted_input
                 else:
-                    lightcurves_rounded[key] = lightcurves_rounded[key].append(lc_bkg_subtracted_rounded)
+                    lightcurves_input[key] = lightcurves_input[key].append(lc_bkg_subtracted_input)
 
                 # Perform aperture photometry for calculated centroid
                 lc_bkg_subtracted_calc, lc_raw_calc, lc_bkg_per_pix_calc = custom_aperture_photometry_to_lightcurve(
@@ -293,7 +276,7 @@ for target_name, target_radec in target_list:
     best_description = ""  # Initialize description for the best lightcurve
 
     # Evaluate lightcurves with rounded centroids
-    for key, lc in lightcurves_rounded.items():
+    for key, lc in lightcurves_input.items():
         r, ann_inner, ann_outer, method = key
         lc = lc.remove_nans()  # Remove NaN values
         mad_value = mad(lc.flux)  # Calculate MAD value
