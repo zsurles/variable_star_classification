@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 110.38971 30.88319
+magnitude = 10.62
+vsx_id = RR Gem
+asassn_id = 137439099190
+color_string =
+visual_inspection_comments =

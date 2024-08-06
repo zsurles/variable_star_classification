@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 107.89592 40.77697
+magnitude = 11.08
+vsx_id = TZ Aur
+asassn_id = 60130091218
+color_string =
+visual_inspection_comments =

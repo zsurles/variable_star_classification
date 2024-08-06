@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 106.30225 -71.80361
+magnitude = 13.49
+vsx_id = AO Vol
+asassn_id = 446676902750
+color_string =
+visual_inspection_comments =

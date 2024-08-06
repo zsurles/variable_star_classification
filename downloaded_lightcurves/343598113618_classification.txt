@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.68
+position = 102.54 -5.41539
+magnitude = 13.846
+vsx_id = BEST-II lra2b_01172
+asassn_id = 343598113618
+color_string =
+visual_inspection_comments =

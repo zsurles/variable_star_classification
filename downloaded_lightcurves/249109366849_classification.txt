@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 106.17021 13.43681
+magnitude = 12.302
+vsx_id = GI Gem
+asassn_id = 249109366849
+color_string =
+visual_inspection_comments =

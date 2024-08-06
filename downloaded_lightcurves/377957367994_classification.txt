@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.51
+position = 102.34333 -4.13772
+magnitude = 12.596
+vsx_id = BEST-II lra2a_00649
+asassn_id = 377957367994
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.31
+position = 103.54413 -82.88572
+magnitude = 14.0
+vsx_id = UV Men
+asassn_id = 77310243785
+color_string =
+visual_inspection_comments =

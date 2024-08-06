@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 1.0
+position = 108.59183 -31.07385
+magnitude = 15.33
+vsx_id = [MVZ2009] 29821
+asassn_id = 661427984575
+color_string =
+visual_inspection_comments =

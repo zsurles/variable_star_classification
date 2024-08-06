@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.49
+position = 110.14817 -46.70836
+magnitude = 10.541
+vsx_id = HH Pup
+asassn_id = 412316975663
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.45
+position = 105.54313 -20.66214
+magnitude = 12.29
+vsx_id = ASAS J070210-2039.7
+asassn_id = 309238713639
+color_string =
+visual_inspection_comments =

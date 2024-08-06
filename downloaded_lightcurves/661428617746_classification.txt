@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.65
+position = 110.80587 -14.74893
+magnitude = 15.33
+vsx_id = PS1-3PI J072313.40-144456.1
+asassn_id = 661428617746
+color_string =
+visual_inspection_comments =
