@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 121.62879 -19.047
+magnitude = 13.3
+vsx_id = AL Pup
+asassn_id = 584116152951
+color_string =
+visual_inspection_comments =

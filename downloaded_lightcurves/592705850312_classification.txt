@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 128.21918 -70.07334
+magnitude = 13.0
+vsx_id = RV Vol
+asassn_id = 592705850312
+color_string =
+visual_inspection_comments =

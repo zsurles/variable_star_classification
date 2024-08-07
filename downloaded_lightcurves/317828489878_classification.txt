@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 131.34257 15.27476
+magnitude = 12.466
+vsx_id = CQ Cnc
+asassn_id = 317828489878
+color_string =
+visual_inspection_comments =

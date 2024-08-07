@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_OSARG_AGB
+class_probability = 0.46
+position = 128.45354 -32.45114
+magnitude = 11.4
+vsx_id = ASAS J083349-3227.1
+asassn_id = 592705541612
+color_string =
+visual_inspection_comments =

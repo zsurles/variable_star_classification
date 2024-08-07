@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.76
+position = 130.01008 27.72544
+magnitude = 11.9
+vsx_id = KV Cnc
+asassn_id = 85899364047
+color_string =
+visual_inspection_comments =

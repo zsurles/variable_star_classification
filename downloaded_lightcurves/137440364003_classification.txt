@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 117.66308 38.45381
+magnitude = 12.18
+vsx_id = RW Lyn
+asassn_id = 137440364003
+color_string =
+visual_inspection_comments =

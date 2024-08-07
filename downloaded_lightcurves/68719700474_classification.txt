@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.98
+position = 121.08987 48.34693
+magnitude = 13.277
+vsx_id = EY Lyn
+asassn_id = 68719700474
+color_string =
+visual_inspection_comments =

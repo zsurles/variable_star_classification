@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.95
+position = 121.91646 76.38028
+magnitude = 13.8
+vsx_id = HU Cam
+asassn_id = 17180971401
+color_string =
+visual_inspection_comments =

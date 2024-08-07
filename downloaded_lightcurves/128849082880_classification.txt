@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.94
+position = 127.12983 67.49636
+magnitude = 12.6
+vsx_id = OU UMa
+asassn_id = 128849082880
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 128.22992 13.19123
+magnitude = 10.931
+vsx_id = TT Cnc
+asassn_id = 472446567674
+color_string =
+visual_inspection_comments =

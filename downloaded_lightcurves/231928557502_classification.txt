@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 133.24042 23.79842
+magnitude = 11.795
+vsx_id = EZ Cnc
+asassn_id = 231928557502
+color_string =
+visual_inspection_comments =

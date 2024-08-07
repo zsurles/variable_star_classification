@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.68
+position = 132.76702 -15.08009
+magnitude = 14.43
+vsx_id = PS1-3PI J085104.08-150448.3
+asassn_id = 369367213871
+color_string =
+visual_inspection_comments =

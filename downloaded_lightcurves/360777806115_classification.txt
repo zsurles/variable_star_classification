@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 134.0618 11.62237
+magnitude = 13.82
+vsx_id = AM Cnc
+asassn_id = 360777806115
+color_string =
+visual_inspection_comments =

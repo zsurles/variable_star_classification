@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_O
+class_probability = 0.33
+position = 121.70542 -31.46853
+magnitude = 10.61
+vsx_id = ASAS J080649-3128.1
+asassn_id = 455266810484
+color_string =
+visual_inspection_comments =

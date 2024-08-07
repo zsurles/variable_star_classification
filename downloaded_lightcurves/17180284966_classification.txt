@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.52
+position = 111.86663 72.70347
+magnitude = 9.33
+vsx_id = EW Cam
+asassn_id = 17180284966
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.98
+position = 133.70138 -83.28256
+magnitude = 12.2
+vsx_id = DZ Oct
+asassn_id = 507200
+color_string =
+visual_inspection_comments =

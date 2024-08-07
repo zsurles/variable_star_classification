@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.58
+position = 130.98625 43.37019
+magnitude = 14.0
+vsx_id = LO Lyn
+asassn_id = 42949715241
+color_string =
+visual_inspection_comments =

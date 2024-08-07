@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 131.74563 29.82446
+magnitude = 14.404
+vsx_id = CSS_J084658.9+294928
+asassn_id = 661428820404
+color_string =
+visual_inspection_comments =

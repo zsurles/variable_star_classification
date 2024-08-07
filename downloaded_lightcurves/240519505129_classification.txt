@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.98
+position = 133.78252 3.65686
+magnitude = 15.34
+vsx_id = CW Hya
+asassn_id = 240519505129
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 118.43105 19.27332
+magnitude = 10.976
+vsx_id = SZ Gem
+asassn_id = 214749193597
+color_string =
+visual_inspection_comments =

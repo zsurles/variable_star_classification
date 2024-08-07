@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.5
+position = 126.81212 -79.27661
+magnitude = 13.71
+vsx_id = [OMM2016] C059573
+asassn_id = 48546
+color_string =
+visual_inspection_comments =

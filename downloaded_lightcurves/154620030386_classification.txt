@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 120.41024 23.19599
+magnitude = 15.11
+vsx_id = Loneos-RR 817
+asassn_id = 154620030386
+color_string =
+visual_inspection_comments =

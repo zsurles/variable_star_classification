@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.52
+position = 133.22662 -3.00467
+magnitude = 12.3
+vsx_id = V0571 Hya
+asassn_id = 377957663879
+color_string =
+visual_inspection_comments =

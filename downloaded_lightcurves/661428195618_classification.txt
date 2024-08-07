@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 112.59007 -28.93605
+magnitude = 15.12
+vsx_id = BESTII F20c_23029
+asassn_id = 661428195618
+color_string =
+visual_inspection_comments =

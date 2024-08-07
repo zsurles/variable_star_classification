@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.28
+position = 113.38221 47.80272
+magnitude = 11.24
+vsx_id = TV Lyn
+asassn_id = 68720463711
+color_string =
+visual_inspection_comments =

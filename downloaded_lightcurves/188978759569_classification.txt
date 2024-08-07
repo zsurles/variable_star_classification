@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.92
+position = 117.23775 5.63644
+magnitude = 11.586
+vsx_id = AL CMi
+asassn_id = 188978759569
+color_string =
+visual_inspection_comments =
