@@ -94,14 +94,19 @@ def custom_aperture_photometry_to_lightcurve(tpf, object_position, aperture_radi
     Returns:
     LightCurve object: LightCurve object with the flux values for each cadence.
     """
+    
+    # Check that the input object position is reasonable
+    if not np.all(np.isfinite(object_position)) :
+        print("The input pixel position is not a finite number! -- skipping sector " + str(tpf_target.sector) + ' custom_aperture_photometry_to_lightcurve()' )
+        return None, None, None
 
     # Check that the Targe Pixel File (cutout) is not too close to the frame edge
     if tpf_target.column < 44+annulus_outer_radius or tpf_target.column  > 2093-annulus_outer_radius :
-        print("Too close to frame edge: tpf_target.column= " + str(tpf_target.column) + ' -- skipping sector ' + str(tpf_target.sector))
+        print("Too close to frame edge: tpf_target.column= " + str(tpf_target.column) + ' -- skipping sector ' + str(tpf_target.sector) + ' custom_aperture_photometry_to_lightcurve()')
         return None, None, None
     
     if tpf_target.row < annulus_outer_radius or tpf_target.row > 2049-annulus_outer_radius :
-        print("Too close to frame edge: tpf_target.row= " + str(tpf_target.row) + ' -- skipping sector ' + str(tpf_target.sector))
+        print("Too close to frame edge: tpf_target.row= " + str(tpf_target.row) + ' -- skipping sector ' + str(tpf_target.sector) + ' custom_aperture_photometry_to_lightcurve()')
         return None, None, None
 
     flux_values = []
@@ -181,7 +186,7 @@ def convert_flux_to_mag(time, flux, flux_err):
 
 # Define target list
 target_list = [
-    ('GD 71', '05:52:27.5 +15:53:17')
+#    ('GD 71', '05:52:27.5 +15:53:17')
 #    ('274879224913', '64.52258 -75.78525')
 #    ('335008175967', '64.95854 -15.98431')
 #    ('369368371268', '70.43975 -18.16211')
@@ -200,6 +205,15 @@ target_list = [
 #('661428889612', '64.12098 44.73159'),
 #('661428964531', '68.95677 80.24478'),
 #('111669775499', '76.621 40.56614')
+#
+#('257699152135', '77.21642 -0.04306'),
+#('283468390453', '81.80858 8.78927'),
+#('300647737742', '79.31067 -11.69956'),
+#('300648818343', '79.2273 -1.44305'),
+#('317828178859', '78.92375 -42.33008'),
+#('317828288727', '76.40525 11.33753'),
+('317828483239', '79.84188 -18.54715'),
+('34360185365', '78.35631 79.7909')
 ]
 
 stored_lc_targets = []  # List to store target lightcurves
@@ -223,8 +237,26 @@ for target_name, target_radec in target_list:
         if tpf_target is None:
             continue
 
+        # Initial check that the Targe Pixel File (cutout) is not too close to the frame edge
+        if tpf_target.column < 44+10 or tpf_target.column  > 2093-10 :
+            print("Too close to frame edge: tpf_target.column= " + str(tpf_target.column) + ' -- skipping sector ' + str(tpf_target.sector) + ' (main script)')
+            continue
+        if tpf_target.row < 10 or tpf_target.row > 2049-10 :
+            print("Too close to frame edge: tpf_target.row= " + str(tpf_target.row) + ' -- skipping sector ' + str(tpf_target.sector) + ' (main script)')
+            continue
+
         initial_x, initial_y = radec_to_pixel(tpf_target, target_radec)  # Convert RA/Dec to pixel coordinates
+        # Check that the input object position is reasonable
+        if not np.all(np.isfinite( (initial_x, initial_y) )) :
+            print("The input pixel position is not a finite number! -- skipping sector " + str(tpf_target.sector) + ' (main script)' )
+            continue
+
         x_centroid_calc, y_centroid_calc = calculate_tpf_centroid(tpf_target, (initial_x, initial_y))  # Calculate centroid
+        # Check that the input object position is reasonable
+        if not np.all(np.isfinite( (x_centroid_calc, y_centroid_calc) )) :
+            print("The calculated pixel position is not a finite number! -- skipping sector " + str(tpf_target.sector) + ' (main script)' )
+            continue
+
 
         for r in aperture_radii:
             for ann_inner, ann_outer in annulus_radii_pairs:
