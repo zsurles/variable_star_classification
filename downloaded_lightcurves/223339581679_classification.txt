@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.85
+position = 163.31129 1.20039
+magnitude = 14.46
+vsx_id = MX Leo
+asassn_id = 223339581679
+color_string =
+visual_inspection_comments =

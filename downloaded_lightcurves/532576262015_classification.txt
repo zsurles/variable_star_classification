@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.5
+position = 160.77395 -50.49845
+magnitude = 11.516
+vsx_id = WISE J104305.7-502954
+asassn_id = 532576262015
+color_string =
+visual_inspection_comments =

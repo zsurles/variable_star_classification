@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.41
+position = 192.2125 -45.34456
+magnitude = 11.95
+vsx_id = UNSW-V 433
+asassn_id = 661427695245
+color_string =
+visual_inspection_comments =

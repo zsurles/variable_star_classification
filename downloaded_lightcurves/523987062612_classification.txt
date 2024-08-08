@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 163.26037 -49.90631
+magnitude = 10.68
+vsx_id = AF Vel
+asassn_id = 523987062612
+color_string =
+visual_inspection_comments =

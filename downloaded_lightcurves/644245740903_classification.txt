@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 164.93704 -64.16272
+magnitude = 12.845
+vsx_id = EE Car
+asassn_id = 644245740903
+color_string =
+visual_inspection_comments =

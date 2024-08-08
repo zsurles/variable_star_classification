@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 137.20738 -84.48681
+magnitude = 13.0
+vsx_id = EW Oct
+asassn_id = 908602
+color_string =
+visual_inspection_comments =

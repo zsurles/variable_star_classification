@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 154.75121 -2.22483
+magnitude = 12.5
+vsx_id = AU Sex
+asassn_id = 429497700391
+color_string =
+visual_inspection_comments =

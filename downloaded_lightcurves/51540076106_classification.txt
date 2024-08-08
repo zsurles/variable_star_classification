@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.41
+position = 143.16946 42.35233
+magnitude = 12.2
+vsx_id = V0373 UMa
+asassn_id = 51540076106
+color_string =
+visual_inspection_comments =

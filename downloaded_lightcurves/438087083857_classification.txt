@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.75
+position = 159.23029 -44.88575
+magnitude = 14.35
+vsx_id = Buskina V1
+asassn_id = 438087083857
+color_string =
+visual_inspection_comments =

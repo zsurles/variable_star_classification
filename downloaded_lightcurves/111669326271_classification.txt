@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.78
+position = 136.01892 43.21578
+magnitude = 13.38
+vsx_id = MW Lyn
+asassn_id = 111669326271
+color_string =
+visual_inspection_comments =

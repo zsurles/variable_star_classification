@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 187.84121 -19.001
+magnitude = 13.17
+vsx_id = XZ Crv
+asassn_id = 438086979112
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.33
+position = 152.28408 -55.91817
+magnitude = 8.987
+vsx_id = ASAS J100908-5555.1
+asassn_id = 635655603412
+color_string =
+visual_inspection_comments =

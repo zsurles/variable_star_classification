@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.43
+position = 143.42033 -63.91736
+magnitude = 13.67
+vsx_id = ASASSN-V J093340.88-635502.4
+asassn_id = 532576622282
+color_string =
+visual_inspection_comments =

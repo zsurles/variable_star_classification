@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_d
+class_probability = 0.86
+position = 193.4589 22.31099
+magnitude = 15.26
+vsx_id = AZ Com
+asassn_id = 163209608699
+color_string =
+visual_inspection_comments =

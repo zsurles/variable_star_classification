@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 173.45603 -13.4239
+magnitude = 15.3
+vsx_id = RZ Crt
+asassn_id = 326417936451
+color_string =
+visual_inspection_comments =

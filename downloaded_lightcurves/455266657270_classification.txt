@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 154.49204 -46.45047
+magnitude = 14.29
+vsx_id = NGC 3201 V026
+asassn_id = 455266657270
+color_string =
+visual_inspection_comments =

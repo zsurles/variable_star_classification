@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.51
+position = 153.6295 -55.50247
+magnitude = 13.12
+vsx_id = ASAS J101431-5530.2
+asassn_id = 601295683710
+color_string =
+visual_inspection_comments =

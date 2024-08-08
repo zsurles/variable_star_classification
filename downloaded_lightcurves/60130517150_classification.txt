@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.45
+position = 184.44429 69.51061
+magnitude = 9.94
+vsx_id = SW Dra
+asassn_id = 60130517150
+color_string =
+visual_inspection_comments =

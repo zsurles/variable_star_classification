@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 192.15699 18.1737
+magnitude = 15.297
+vsx_id = EH Com
+asassn_id = 352187630456
+color_string =
+visual_inspection_comments =

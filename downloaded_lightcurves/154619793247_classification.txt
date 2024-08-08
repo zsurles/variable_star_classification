@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 168.13192 -75.1065
+magnitude = 15.1
+vsx_id = PV Car
+asassn_id = 154619793247
+color_string =
+visual_inspection_comments =

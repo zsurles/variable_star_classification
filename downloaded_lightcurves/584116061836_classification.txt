@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 182.20396 -30.07236
+magnitude = 12.756
+vsx_id = EK Hya
+asassn_id = 584116061836
+color_string =
+visual_inspection_comments =

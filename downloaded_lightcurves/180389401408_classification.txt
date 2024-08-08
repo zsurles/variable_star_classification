@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 172.29659 9.53649
+magnitude = 13.911
+vsx_id = AS Leo
+asassn_id = 180389401408
+color_string =
+visual_inspection_comments =

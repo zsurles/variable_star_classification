@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 194.12846 29.89328
+magnitude = 14.48
+vsx_id = IP Com
+asassn_id = 77310531394
+color_string =
+visual_inspection_comments =

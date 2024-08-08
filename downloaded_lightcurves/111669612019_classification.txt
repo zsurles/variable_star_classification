@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.9
+position = 147.47883 51.73959
+magnitude = 13.11
+vsx_id = QY UMa
+asassn_id = 111669612019
+color_string =
+visual_inspection_comments =

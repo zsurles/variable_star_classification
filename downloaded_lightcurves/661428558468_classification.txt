@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.48
+position = 138.205 -21.82444
+magnitude = 9.34
+vsx_id = UNSW-V 409
+asassn_id = 661428558468
+color_string =
+visual_inspection_comments =

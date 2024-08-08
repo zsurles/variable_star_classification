@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.53
+position = 137.25037 -4.1735
+magnitude = 10.62
+vsx_id = V0575 Hya
+asassn_id = 249109269952
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.82
+position = 158.19121 -34.38556
+magnitude = 13.35
+vsx_id = CN Ant
+asassn_id = 498216674736
+color_string =
+visual_inspection_comments =

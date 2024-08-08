@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.91
+position = 171.55763 -14.06875
+magnitude = 12.3
+vsx_id = AI Crt
+asassn_id = 309238324036
+color_string =
+visual_inspection_comments =

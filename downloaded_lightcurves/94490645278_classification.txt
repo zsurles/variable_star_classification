@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 183.71082 33.10163
+magnitude = 14.693
+vsx_id = CK Com
+asassn_id = 94490645278
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.98
+position = 190.93075 16.95411
+magnitude = 15.4
+vsx_id = AR Com
+asassn_id = 377957722280
+color_string =
+visual_inspection_comments =

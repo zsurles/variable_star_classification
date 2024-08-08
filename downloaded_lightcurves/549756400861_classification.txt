@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.23
+position = 138.38779 -70.27564
+magnitude = 14.5
+vsx_id = LU Car
+asassn_id = 549756400861
+color_string =
+visual_inspection_comments =

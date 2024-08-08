@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.48
+position = 146.41979 -6.73328
+magnitude = 10.6
+vsx_id = RU Sex
+asassn_id = 498216962486
+color_string =
+visual_inspection_comments =

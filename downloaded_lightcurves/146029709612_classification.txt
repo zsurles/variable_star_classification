@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 141.92208 36.97286
+magnitude = 12.85
+vsx_id = VY LMi
+asassn_id = 146029709612
+color_string =
+visual_inspection_comments =

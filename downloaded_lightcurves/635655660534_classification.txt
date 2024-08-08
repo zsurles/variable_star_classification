@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.51
+position = 182.0184 -56.88361
+magnitude = 13.263
+vsx_id = WISE J120804.4-565300
+asassn_id = 635655660534
+color_string =
+visual_inspection_comments =

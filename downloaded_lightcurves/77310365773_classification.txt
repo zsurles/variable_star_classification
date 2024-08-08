@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.54
+position = 191.52608 -78.71767
+magnitude = 15.0
+vsx_id = AY Cha
+asassn_id = 77310365773
+color_string =
+visual_inspection_comments =

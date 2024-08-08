@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.32
+position = 194.21335 28.17641
+magnitude = 14.37
+vsx_id = LZ Com
+asassn_id = 163210028680
+color_string =
+visual_inspection_comments =

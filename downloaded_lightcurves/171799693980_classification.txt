@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.87
+position = 193.07787 28.33255
+magnitude = 14.3
+vsx_id = [KSK94] SA 57 1
+asassn_id = 171799693980
+color_string =
+visual_inspection_comments =

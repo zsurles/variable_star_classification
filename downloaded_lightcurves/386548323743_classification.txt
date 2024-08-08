@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.85
+position = 171.99738 13.36417
+magnitude = 11.8
+vsx_id = KX Leo
+asassn_id = 386548323743
+color_string =
+visual_inspection_comments =

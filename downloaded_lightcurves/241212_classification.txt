@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.33
+position = 166.46633 -80.14428
+magnitude = 14.4
+vsx_id = UW Cha
+asassn_id = 241212
+color_string =
+visual_inspection_comments =

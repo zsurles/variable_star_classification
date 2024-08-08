@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.53
+position = 172.45204 30.06733
+magnitude = 9.26
+vsx_id = TU UMa
+asassn_id = 42950543276
+color_string =
+visual_inspection_comments =

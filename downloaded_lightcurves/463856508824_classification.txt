@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.97
+position = 193.25637 -71.22356
+magnitude = 13.5
+vsx_id = ER Mus
+asassn_id = 463856508824
+color_string =
+visual_inspection_comments =

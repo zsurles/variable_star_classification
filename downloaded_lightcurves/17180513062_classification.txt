@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_d
+class_probability = 0.76
+position = 184.51395 28.64237
+magnitude = 14.98
+vsx_id = QX Com
+asassn_id = 17180513062
+color_string =
+visual_inspection_comments =

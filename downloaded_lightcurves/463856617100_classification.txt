@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.93
+position = 182.14612 -0.45675
+magnitude = 9.954
+vsx_id = UU Vir
+asassn_id = 463856617100
+color_string =
+visual_inspection_comments =

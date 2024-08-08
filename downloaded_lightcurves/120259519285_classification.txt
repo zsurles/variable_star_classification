@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.96
+position = 171.01771 42.94722
+magnitude = 14.4
+vsx_id = BR UMa
+asassn_id = 120259519285
+color_string =
+visual_inspection_comments =

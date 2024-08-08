@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.82
+position = 187.71017 -30.79219
+magnitude = 14.9
+vsx_id = BQ Hya
+asassn_id = 223338314905
+color_string =
+visual_inspection_comments =

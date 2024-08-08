@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.71
+position = 183.80521 -35.32647
+magnitude = 14.4
+vsx_id = Scherbakov 1
+asassn_id = 532576222599
+color_string =
+visual_inspection_comments =

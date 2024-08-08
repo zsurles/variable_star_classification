@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.83
+position = 179.77654 -60.30514
+magnitude = 12.0
+vsx_id = SW Cru
+asassn_id = 644246064118
+color_string =
+visual_inspection_comments =

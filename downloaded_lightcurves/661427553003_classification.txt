@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 142.12213 -67.4355
+magnitude = 14.0
+vsx_id = MP Car
+asassn_id = 661427553003
+color_string =
+visual_inspection_comments =

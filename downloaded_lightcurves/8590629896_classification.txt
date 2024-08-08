@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 154.88817 83.6035
+magnitude = 14.0
+vsx_id = V0513 Cam
+asassn_id = 8590629896
+color_string =
+visual_inspection_comments =

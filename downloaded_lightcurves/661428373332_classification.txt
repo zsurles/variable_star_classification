@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.98
+position = 146.27646 -26.76022
+magnitude = 15.0
+vsx_id = VY Ant
+asassn_id = 661428373332
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 139.77517 29.06547
+magnitude = 11.4
+vsx_id = RW Cnc
+asassn_id = 146030060174
+color_string =
+visual_inspection_comments =

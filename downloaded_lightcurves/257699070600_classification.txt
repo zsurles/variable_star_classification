@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 161.48167 -7.35997
+magnitude = 12.7
+vsx_id = BQ Sex
+asassn_id = 257699070600
+color_string =
+visual_inspection_comments =

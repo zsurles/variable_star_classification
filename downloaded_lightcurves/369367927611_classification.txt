@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_OSARG_AGB
+class_probability = 0.41
+position = 143.50075 -29.25669
+magnitude = 13.8
+vsx_id = AF Ant
+asassn_id = 369367927611
+color_string =
+visual_inspection_comments =

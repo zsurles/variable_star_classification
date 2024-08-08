@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.82
+position = 150.39536 25.49992
+magnitude = 14.7
+vsx_id = MN Leo
+asassn_id = 146029398027
+color_string =
+visual_inspection_comments =

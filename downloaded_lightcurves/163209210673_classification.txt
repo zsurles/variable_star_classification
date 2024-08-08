@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 187.08333 24.95536
+magnitude = 14.26
+vsx_id = CY Com
+asassn_id = 163209210673
+color_string =
+visual_inspection_comments =

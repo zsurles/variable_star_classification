@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.46
+position = 184.56675 16.15442
+magnitude = 10.22
+vsx_id = HY Com
+asassn_id = 197569676828
+color_string =
+visual_inspection_comments =

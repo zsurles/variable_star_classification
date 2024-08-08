@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 1.0
+position = 190.15979 22.36694
+magnitude = 13.7
+vsx_id = DR Com
+asassn_id = 171798728870
+color_string =
+visual_inspection_comments =

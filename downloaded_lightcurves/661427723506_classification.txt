@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 1.0
+position = 178.08671 -40.4885
+magnitude = 13.74
+vsx_id = KV Cen
+asassn_id = 661427723506
+color_string =
+visual_inspection_comments =

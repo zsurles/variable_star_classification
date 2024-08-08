@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 147.35412 -72.75064
+magnitude = 13.8
+vsx_id = V0691 Car
+asassn_id = 532576580061
+color_string =
+visual_inspection_comments =

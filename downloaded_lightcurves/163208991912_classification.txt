@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.87
+position = 178.025 -79.77328
+magnitude = 15.3
+vsx_id = AD Cha
+asassn_id = 163208991912
+color_string =
+visual_inspection_comments =

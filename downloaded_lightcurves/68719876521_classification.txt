@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.44
+position = 165.78696 37.79694
+magnitude = 13.6
+vsx_id = V0384 UMa
+asassn_id = 68719876521
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 149.27494 -39.29067
+magnitude = 11.717
+vsx_id = BN Ant
+asassn_id = 481036797148
+color_string =
+visual_inspection_comments =

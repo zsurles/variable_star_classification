@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 138.37875 -68.56194
+magnitude = 13.08
+vsx_id = LT Car
+asassn_id = 317828567960
+color_string =
+visual_inspection_comments =

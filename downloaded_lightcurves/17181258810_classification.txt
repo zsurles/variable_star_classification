@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 192.50258 31.14
+magnitude = 13.53
+vsx_id = TX Com
+asassn_id = 17181258810
+color_string =
+visual_inspection_comments =
