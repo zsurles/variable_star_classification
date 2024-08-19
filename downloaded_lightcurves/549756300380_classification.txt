@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.69
+position = 202.44837 -54.42636
+magnitude = 12.36
+vsx_id = ASASSN-V J132947.61-542534.9
+asassn_id = 549756300380
+color_string =
+visual_inspection_comments =

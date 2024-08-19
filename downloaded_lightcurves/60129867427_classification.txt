@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.48
+position = 195.87954 71.11222
+magnitude = 10.4
+vsx_id = OW Dra
+asassn_id = 60129867427
+color_string =
+visual_inspection_comments =

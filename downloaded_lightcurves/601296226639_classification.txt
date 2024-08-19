@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 207.88787 -52.10011
+magnitude = 15.3
+vsx_id = HI Cen
+asassn_id = 601296226639
+color_string =
+visual_inspection_comments =

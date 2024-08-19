@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 199.26433 36.11611
+magnitude = 14.0
+vsx_id = DZ CVn
+asassn_id = 51540734546
+color_string =
+visual_inspection_comments =

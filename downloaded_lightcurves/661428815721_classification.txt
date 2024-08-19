@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.86
+position = 205.50867 28.36947
+magnitude = 14.9
+vsx_id = KX CVn
+asassn_id = 661428815721
+color_string =
+visual_inspection_comments =

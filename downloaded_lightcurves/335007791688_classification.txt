@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 203.81726 -6.97294
+magnitude = 13.457
+vsx_id = WY Vir
+asassn_id = 335007791688
+color_string =
+visual_inspection_comments =

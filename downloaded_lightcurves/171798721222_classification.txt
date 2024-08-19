@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.99
+position = 200.14049 22.44839
+magnitude = 15.12
+vsx_id = FG Com
+asassn_id = 171798721222
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 201.56075 -78.46331
+magnitude = 14.1
+vsx_id = BS Cha
+asassn_id = 294805
+color_string =
+visual_inspection_comments =

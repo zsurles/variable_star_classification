@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 201.10808 -52.69572
+magnitude = 15.0
+vsx_id = DW Cen
+asassn_id = 575526134933
+color_string =
+visual_inspection_comments =

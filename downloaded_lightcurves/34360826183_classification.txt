@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 212.27338 47.82446
+magnitude = 12.6
+vsx_id = IM Boo
+asassn_id = 34360826183
+color_string =
+visual_inspection_comments =

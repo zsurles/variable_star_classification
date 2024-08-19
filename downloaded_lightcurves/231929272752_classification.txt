@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 208.32621 15.47583
+magnitude = 15.435
+vsx_id = AZ Boo
+asassn_id = 231929272752
+color_string =
+visual_inspection_comments =

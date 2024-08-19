@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 206.54392 -67.37047
+magnitude = 14.0
+vsx_id = AU Mus
+asassn_id = 661427553250
+color_string =
+visual_inspection_comments =

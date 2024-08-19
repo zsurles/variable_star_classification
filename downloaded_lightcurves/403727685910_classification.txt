@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 208.58363 -69.90069
+magnitude = 12.592
+vsx_id = RX Cir
+asassn_id = 403727685910
+color_string =
+visual_inspection_comments =

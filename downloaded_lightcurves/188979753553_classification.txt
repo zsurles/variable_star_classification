@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.97
+position = 207.91996 6.43094
+magnitude = 10.72
+vsx_id = BB Vir
+asassn_id = 188979753553
+color_string =
+visual_inspection_comments =

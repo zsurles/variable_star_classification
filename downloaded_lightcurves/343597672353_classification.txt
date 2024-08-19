@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 208.30367 17.21257
+magnitude = 13.6
+vsx_id = AY Boo
+asassn_id = 343597672353
+color_string =
+visual_inspection_comments =

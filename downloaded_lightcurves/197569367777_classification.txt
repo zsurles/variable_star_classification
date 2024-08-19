@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 205.15265 7.13871
+magnitude = 14.8
+vsx_id = UX Vir
+asassn_id = 197569367777
+color_string =
+visual_inspection_comments =

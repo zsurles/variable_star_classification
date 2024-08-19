@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 1.0
+position = 203.82245 20.51349
+magnitude = 14.2
+vsx_id = BU Com
+asassn_id = 197569269015
+color_string =
+visual_inspection_comments =

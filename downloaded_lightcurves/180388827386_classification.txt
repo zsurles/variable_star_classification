@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 199.46394 20.78076
+magnitude = 11.017
+vsx_id = ST Com
+asassn_id = 180388827386
+color_string =
+visual_inspection_comments =

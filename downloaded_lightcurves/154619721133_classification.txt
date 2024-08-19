@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.96
+position = 197.37368 27.01647
+magnitude = 14.01
+vsx_id = MQ Com
+asassn_id = 154619721133
+color_string =
+visual_inspection_comments =

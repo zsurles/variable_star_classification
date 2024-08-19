@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 201.8275 -54.90133
+magnitude = 15.0
+vsx_id = EF Cen
+asassn_id = 652835663605
+color_string =
+visual_inspection_comments =

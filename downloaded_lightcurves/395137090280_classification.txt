@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 211.03355 -9.99591
+magnitude = 15.337
+vsx_id = TV Vir
+asassn_id = 395137090280
+color_string =
+visual_inspection_comments =

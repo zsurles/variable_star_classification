@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.84
+position = 198.25675 31.02261
+magnitude = 15.0
+vsx_id = EW Com
+asassn_id = 171799564440
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 210.74172 25.53656
+magnitude = 14.1
+vsx_id = BH Boo
+asassn_id = 146029404578
+color_string =
+visual_inspection_comments =

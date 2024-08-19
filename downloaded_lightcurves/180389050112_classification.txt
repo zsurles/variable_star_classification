@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.84
+position = 202.04107 20.22626
+magnitude = 14.353
+vsx_id = BK Com
+asassn_id = 180389050112
+color_string =
+visual_inspection_comments =
