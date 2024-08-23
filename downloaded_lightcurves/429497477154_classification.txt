@@ -3,7 +3,7 @@
 ######### Classification results #########
 flag = 0 (0 - classification success, 1 - suspicious period)
 class = DSCT
-class_probability = 0.95
+class_probability = 0.96
 position = 208.88691 -44.33838
 magnitude = 15.44
 vsx_id = [FVM2015] 45
