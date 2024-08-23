@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.82
+position = 220.07308 -24.19103
+magnitude = 14.0
+vsx_id = 1SWASP J144017.54-241127.7
+asassn_id = 523986850258
+color_string =
+visual_inspection_comments =
