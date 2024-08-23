@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 221.85419 -44.65363
+magnitude = 14.1
+vsx_id = EI Lup
+asassn_id = 420907838952
+color_string =
+visual_inspection_comments =

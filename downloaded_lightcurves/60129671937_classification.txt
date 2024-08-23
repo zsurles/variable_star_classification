@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.94
+position = 225.19817 35.16428
+magnitude = 14.7
+vsx_id = NV Boo
+asassn_id = 60129671937
+color_string =
+visual_inspection_comments =

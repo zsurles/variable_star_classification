@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 223.81293 -6.29248
+magnitude = 14.136
+vsx_id = UX Lib
+asassn_id = 377958344920
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.46
+position = 230.60575 -40.92672
+magnitude = 8.814
+vsx_id = FW Lup
+asassn_id = 523987136823
+color_string =
+visual_inspection_comments =

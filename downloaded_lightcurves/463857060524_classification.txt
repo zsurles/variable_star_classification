@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.52
+position = 222.71612 -71.12003
+magnitude = 15.1
+vsx_id = UV Aps
+asassn_id = 463857060524
+color_string =
+visual_inspection_comments =

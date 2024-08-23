@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 229.81254 -0.49696
+magnitude = 13.977
+vsx_id = EZ Ser
+asassn_id = 343597933099
+color_string =
+visual_inspection_comments =

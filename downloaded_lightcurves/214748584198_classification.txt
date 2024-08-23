@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 228.75446 19.44311
+magnitude = 11.83
+vsx_id = BH Ser
+asassn_id = 214748584198
+color_string =
+visual_inspection_comments =

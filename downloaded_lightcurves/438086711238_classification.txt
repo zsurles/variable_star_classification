@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.97
+position = 222.2123 -2.56289
+magnitude = 14.1
+vsx_id = FV Lib
+asassn_id = 438086711238
+color_string =
+visual_inspection_comments =

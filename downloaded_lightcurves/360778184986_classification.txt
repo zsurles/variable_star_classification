@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.81
+position = 221.37087 -4.02106
+magnitude = 13.678
+vsx_id = CZ Vir
+asassn_id = 360778184986
+color_string =
+visual_inspection_comments =

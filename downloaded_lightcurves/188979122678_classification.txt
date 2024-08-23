@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 223.79695 28.04221
+magnitude = 14.49
+vsx_id = DF Boo
+asassn_id = 188979122678
+color_string =
+visual_inspection_comments =

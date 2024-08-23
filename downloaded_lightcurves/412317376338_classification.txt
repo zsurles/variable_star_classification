@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.55
+position = 229.5912 -8.46188
+magnitude = 11.23
+vsx_id = TV Lib
+asassn_id = 412317376338
+color_string =
+visual_inspection_comments =

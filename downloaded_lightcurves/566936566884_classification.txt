@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.67
+position = 229.31863 -71.4355
+magnitude = 15.0
+vsx_id = NSV 6997
+asassn_id = 566936566884
+color_string =
+visual_inspection_comments =

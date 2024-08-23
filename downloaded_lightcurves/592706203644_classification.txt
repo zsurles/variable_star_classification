@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 222.37463 -69.65442
+magnitude = 14.8
+vsx_id = AH Cir
+asassn_id = 592706203644
+color_string =
+visual_inspection_comments =

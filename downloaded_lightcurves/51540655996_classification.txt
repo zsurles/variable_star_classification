@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.66
+position = 230.59037 52.47872
+magnitude = 12.94
+vsx_id = CU Boo
+asassn_id = 51540655996
+color_string =
+visual_inspection_comments =

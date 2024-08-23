@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 221.21361 -4.67828
+magnitude = 13.569
+vsx_id = CY Vir
+asassn_id = 223338624774
+color_string =
+visual_inspection_comments =

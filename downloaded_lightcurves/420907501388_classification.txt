@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 222.64146 -38.47587
+magnitude = 14.16
+vsx_id = UNSW-V 543
+asassn_id = 420907501388
+color_string =
+visual_inspection_comments =
