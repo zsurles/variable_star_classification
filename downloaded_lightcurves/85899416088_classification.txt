@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 233.33488 43.74086
+magnitude = 14.46
+vsx_id = QR Boo
+asassn_id = 85899416088
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.38
+position = 232.50942 -38.00083
+magnitude = 13.5
+vsx_id = 1SWASP J153002.26-380003.0
+asassn_id = 489626310468
+color_string =
+visual_inspection_comments =

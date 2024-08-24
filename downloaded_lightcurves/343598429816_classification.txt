@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.27
+position = 238.20423 -8.74187
+magnitude = 15.0
+vsx_id = Loneos-RR 545
+asassn_id = 343598429816
+color_string =
+visual_inspection_comments =

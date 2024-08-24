@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 239.14558 -74.7125
+magnitude = 13.8
+vsx_id = AZ Aps
+asassn_id = 661427536189
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.53
+position = 232.75804 1.68381
+magnitude = 9.777
+vsx_id = VY Ser
+asassn_id = 403728030642
+color_string =
+visual_inspection_comments =

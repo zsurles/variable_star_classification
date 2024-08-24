@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 231.95531 -20.53041
+magnitude = 15.0
+vsx_id = SEKBO 110683.637
+asassn_id = 369367496892
+color_string =
+visual_inspection_comments =

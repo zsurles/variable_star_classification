@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 231.76392 -71.80442
+magnitude = 15.0
+vsx_id = LZ Aps
+asassn_id = 446676866930
+color_string =
+visual_inspection_comments =

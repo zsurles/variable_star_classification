@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 236.78404 -12.41325
+magnitude = 13.686
+vsx_id = DH Lib
+asassn_id = 300648874907
+color_string =
+visual_inspection_comments =

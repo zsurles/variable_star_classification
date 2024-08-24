@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.76
+position = 232.34496 20.78231
+magnitude = 13.25
+vsx_id = CSS_J152922.7+204656
+asassn_id = 180388829745
+color_string =
+visual_inspection_comments =

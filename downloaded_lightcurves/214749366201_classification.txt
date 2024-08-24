@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.96
+position = 233.37842 2.77719
+magnitude = 11.597
+vsx_id = AR Ser
+asassn_id = 214749366201
+color_string =
+visual_inspection_comments =

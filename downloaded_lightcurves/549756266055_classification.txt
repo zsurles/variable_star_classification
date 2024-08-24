@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.99
+position = 234.589 -33.15725
+magnitude = 15.0
+vsx_id = GV Lup
+asassn_id = 549756266055
+color_string =
+visual_inspection_comments =

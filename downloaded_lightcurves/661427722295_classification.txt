@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 238.97186 -40.69545
+magnitude = 11.6
+vsx_id = PQ Lup
+asassn_id = 661427722295
+color_string =
+visual_inspection_comments =

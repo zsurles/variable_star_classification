@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 1.0
+position = 235.73304 -16.52828
+magnitude = 14.1
+vsx_id = EL Lib
+asassn_id = 575526574052
+color_string =
+visual_inspection_comments =

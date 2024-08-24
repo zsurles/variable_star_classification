@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 238.80849 -13.31846
+magnitude = 14.0
+vsx_id = DU Lib
+asassn_id = 661428625324
+color_string =
+visual_inspection_comments =

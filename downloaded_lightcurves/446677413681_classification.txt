@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.88
+position = 238.42088 -19.18279
+magnitude = 15.49
+vsx_id = MLS_J155341.0-191058
+asassn_id = 446677413681
+color_string =
+visual_inspection_comments =

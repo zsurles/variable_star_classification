@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 233.58523 -18.11328
+magnitude = 14.62
+vsx_id = CE Lib
+asassn_id = 360777664276
+color_string =
+visual_inspection_comments =

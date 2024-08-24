@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 232.66346 35.78453
+magnitude = 10.49
+vsx_id = ST Boo
+asassn_id = 661428841298
+color_string =
+visual_inspection_comments =
