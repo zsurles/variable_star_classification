@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 250.73579 -67.55525
+magnitude = 15.1
+vsx_id = GT TrA
+asassn_id = 566935979743
+color_string =
+visual_inspection_comments =

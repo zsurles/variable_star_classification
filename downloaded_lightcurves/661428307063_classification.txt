@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.4
+position = 273.33817 -27.65217
+magnitude = 15.293
+vsx_id = [CAG2000] vd20f618
+asassn_id = 661428307063
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_F
+class_probability = 0.36
+position = 256.90511 -21.09053
+magnitude = 15.36
+vsx_id = PS1-3PI J170737.22-210525.9
+asassn_id = 661428573194
+color_string =
+visual_inspection_comments =

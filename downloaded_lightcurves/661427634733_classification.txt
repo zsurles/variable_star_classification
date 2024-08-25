@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.78
+position = 254.89354 -55.45969
+magnitude = 15.0
+vsx_id = V0431 Ara
+asassn_id = 661427634733
+color_string =
+visual_inspection_comments =

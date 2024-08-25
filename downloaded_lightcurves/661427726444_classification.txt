@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.42
+position = 272.82572 -40.04272
+magnitude = 14.7
+vsx_id = V0341 CrA
+asassn_id = 661427726444
+color_string =
+visual_inspection_comments =

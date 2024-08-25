@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.43
+position = 252.36703 13.26072
+magnitude = 14.157
+vsx_id = CSS_J164928.0+131538
+asassn_id = 472446582535
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.39
+position = 265.50704 -46.56203
+magnitude = 10.7
+vsx_id = V1011 Ara
+asassn_id = 317828065512
+color_string =
+visual_inspection_comments =

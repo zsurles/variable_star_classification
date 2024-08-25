@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.26
+position = 261.84496 -66.29836
+magnitude = 14.2
+vsx_id = V0527 Ara
+asassn_id = 644245762064
+color_string =
+visual_inspection_comments =

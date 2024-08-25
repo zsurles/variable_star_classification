@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.71
+position = 274.94188 -22.83675
+magnitude = 14.652
+vsx_id = OGLE bul_sc10_i_82
+asassn_id = 661428524877
+color_string =
+visual_inspection_comments =

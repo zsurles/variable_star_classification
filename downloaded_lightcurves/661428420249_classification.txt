@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.84
+position = 274.47713 -25.72897
+magnitude = 15.499
+vsx_id = MACHO 159.26395.214
+asassn_id = 661428420249
+color_string =
+visual_inspection_comments =

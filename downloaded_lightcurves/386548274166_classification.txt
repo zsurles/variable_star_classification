@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_O
+class_probability = 0.49
+position = 254.20029 -29.39369
+magnitude = 15.1
+vsx_id = LP Oph
+asassn_id = 386548274166
+color_string =
+visual_inspection_comments =

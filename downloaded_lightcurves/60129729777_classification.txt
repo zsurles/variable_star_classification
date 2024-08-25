@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 253.85333 39.92634
+magnitude = 14.32
+vsx_id = TSVSC1 TN-N132311200-71-67-2
+asassn_id = 60129729777
+color_string =
+visual_inspection_comments =

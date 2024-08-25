@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.38
+position = 268.1495 -35.62533
+magnitude = 15.245
+vsx_id = OGLE-BLG-RRLYR-05569
+asassn_id = 661427784549
+color_string =
+visual_inspection_comments =

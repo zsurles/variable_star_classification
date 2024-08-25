@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_O
+class_probability = 0.77
+position = 254.54504 -30.7045
+magnitude = 15.3
+vsx_id = HV Sco
+asassn_id = 206158847231
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.295
+position = 273.76804 -26.08939
+magnitude = 15.372
+vsx_id = MACHO 162.25220.3501
+asassn_id = 661428404756
+color_string =
+visual_inspection_comments =

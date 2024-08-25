@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.97
+position = 255.10212 80.61078
+magnitude = 12.77
+vsx_id = AF UMi
+asassn_id = 34360178396
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 273.64504 -46.30494
+magnitude = 15.0
+vsx_id = KX Tel
+asassn_id = 412317439666
+color_string =
+visual_inspection_comments =

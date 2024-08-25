@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 273.75842 -29.45925
+magnitude = 15.088
+vsx_id = [CAG2000] vd15f572
+asassn_id = 661428136118
+color_string =
+visual_inspection_comments =

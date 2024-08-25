@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 274.90913 -51.49783
+magnitude = 13.26
+vsx_id = CY Tel
+asassn_id = 523986069220
+color_string =
+visual_inspection_comments =

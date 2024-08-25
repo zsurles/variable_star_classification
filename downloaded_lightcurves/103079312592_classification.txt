@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.4
+position = 267.9082 49.3883
+magnitude = 12.62
+vsx_id = ROTSE1 J175137.96+492317.8
+asassn_id = 103079312592
+color_string =
+visual_inspection_comments =

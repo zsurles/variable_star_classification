@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.19
+position = 274.9944 -30.94111
+magnitude = 15.484
+vsx_id = [CAG2000] vd3f439
+asassn_id = 661427993299
+color_string =
+visual_inspection_comments =

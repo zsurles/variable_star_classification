@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.5
+position = 264.43267 -34.16875
+magnitude = 14.805
+vsx_id = OGLE-BLG-RRLYR-38518
+asassn_id = 661427838085
+color_string =
+visual_inspection_comments =

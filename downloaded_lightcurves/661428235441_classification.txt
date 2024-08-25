@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.56
+position = 275.20869 -28.50676
+magnitude = 15.378
+vsx_id = [CAG2000] vd2f399
+asassn_id = 661428235441
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.77
+position = 275.36967 -53.52003
+magnitude = 15.27
+vsx_id = DE Tel
+asassn_id = 584116639976
+color_string =
+visual_inspection_comments =

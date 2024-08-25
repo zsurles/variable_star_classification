@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.34
+position = 273.68333 -32.58136
+magnitude = 15.354
+vsx_id = OGLE-BLG-RRLYR-35200
+asassn_id = 661427914373
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_F
+class_probability = 0.51
+position = 268.24171 -56.66533
+magnitude = 14.2
+vsx_id = OV Ara
+asassn_id = 652835643997
+color_string =
+visual_inspection_comments =

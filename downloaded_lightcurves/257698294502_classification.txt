@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 255.29104 -75.94761
+magnitude = 13.3
+vsx_id = CW Aps
+asassn_id = 257698294502
+color_string =
+visual_inspection_comments =

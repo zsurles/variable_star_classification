@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.55
+position = 255.23208 -58.34325
+magnitude = 12.14
+vsx_id = UNSW-V 227
+asassn_id = 661427618154
+color_string =
+visual_inspection_comments =

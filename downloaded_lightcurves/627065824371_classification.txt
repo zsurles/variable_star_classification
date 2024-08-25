@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.87
+position = 271.55479 -57.23317
+magnitude = 14.03
+vsx_id = CM Pav
+asassn_id = 627065824371
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 273.428 -52.73183
+magnitude = 14.8
+vsx_id = CG Tel
+asassn_id = 438087165034
+color_string =
+visual_inspection_comments =

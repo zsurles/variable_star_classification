@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.31
+position = 271.48344 -39.73835
+magnitude = 14.7
+vsx_id = OS CrA
+asassn_id = 661427729077
+color_string =
+visual_inspection_comments =

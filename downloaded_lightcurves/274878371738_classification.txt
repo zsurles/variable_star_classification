@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 259.65787 -81.7215
+magnitude = 14.8
+vsx_id = DK Aps
+asassn_id = 274878371738
+color_string =
+visual_inspection_comments =

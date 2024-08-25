@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.94
+position = 263.34621 26.72788
+magnitude = 14.54
+vsx_id = TAOS 151-09
+asassn_id = 661428808424
+color_string =
+visual_inspection_comments =

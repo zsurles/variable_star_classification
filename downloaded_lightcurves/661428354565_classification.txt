@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.22
+position = 271.62458 -27.02969
+magnitude = 15.467
+vsx_id = MACHO 101.21566.460
+asassn_id = 661428354565
+color_string =
+visual_inspection_comments =

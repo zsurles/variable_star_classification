@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 267.87592 -61.10978
+magnitude = 13.82
+vsx_id = UW Pav
+asassn_id = 584116527546
+color_string =
+visual_inspection_comments =

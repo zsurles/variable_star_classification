@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 255.63517 -71.74703
+magnitude = 14.4
+vsx_id = FQ Aps
+asassn_id = 446676878707
+color_string =
+visual_inspection_comments =

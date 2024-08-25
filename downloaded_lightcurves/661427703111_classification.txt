@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 265.0655 -44.01014
+magnitude = 15.4
+vsx_id = V0526 Sco
+asassn_id = 661427703111
+color_string =
+visual_inspection_comments =

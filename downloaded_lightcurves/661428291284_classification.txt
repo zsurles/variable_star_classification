@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.21
+position = 273.98569 -27.87287
+magnitude = 15.2
+vsx_id = V2325 Sgr
+asassn_id = 661428291284
+color_string =
+visual_inspection_comments =

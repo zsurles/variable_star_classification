@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.43
+position = 272.57221 -39.70286
+magnitude = 14.9
+vsx_id = Gaia DR2 6726058015542346496
+asassn_id = 661427729338
+color_string =
+visual_inspection_comments =

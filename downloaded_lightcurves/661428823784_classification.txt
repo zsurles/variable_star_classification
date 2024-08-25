@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_O
+class_probability = 0.42
+position = 268.43903 30.86931
+magnitude = 11.17
+vsx_id = ROTSE1 J175345.36+305209.5
+asassn_id = 661428823784
+color_string =
+visual_inspection_comments =

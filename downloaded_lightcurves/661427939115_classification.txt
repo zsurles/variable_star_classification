@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.22
+position = 274.33379 -32.021
+magnitude = 15.2
+vsx_id = V2895 Sgr
+asassn_id = 661427939115
+color_string =
+visual_inspection_comments =

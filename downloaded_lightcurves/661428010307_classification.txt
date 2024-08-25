@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.5
+position = 272.51554 -30.71064
+magnitude = 14.974
+vsx_id = OGLE-BLG-RRLYR-14801
+asassn_id = 661428010307
+color_string =
+visual_inspection_comments =

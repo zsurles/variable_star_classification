@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.31
+position = 273.85975 -33.71864
+magnitude = 14.032
+vsx_id = OGLE-BLG-RRLYR-35356
+asassn_id = 661427859232
+color_string =
+visual_inspection_comments =

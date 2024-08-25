@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.46
+position = 267.9125 4.53544
+magnitude = 13.7
+vsx_id = V3130 Oph
+asassn_id = 360778005158
+color_string =
+visual_inspection_comments =

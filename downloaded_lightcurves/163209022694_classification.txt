@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 263.7915 -79.33072
+magnitude = 14.8
+vsx_id = EG Aps
+asassn_id = 163209022694
+color_string =
+visual_inspection_comments =

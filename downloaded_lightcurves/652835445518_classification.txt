@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.51
+position = 262.82133 -60.846
+magnitude = 14.4
+vsx_id = NV Ara
+asassn_id = 652835445518
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.67
+position = 249.30692 -17.86478
+magnitude = 15.36
+vsx_id = SEKBO 122780.2475
+asassn_id = 472447034411
+color_string =
+visual_inspection_comments =

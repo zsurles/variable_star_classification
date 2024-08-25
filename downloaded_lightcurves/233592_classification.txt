@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 251.26442 -80.54586
+magnitude = 14.5
+vsx_id = CI Aps
+asassn_id = 233592
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.32
+position = 264.125 -76.89394
+magnitude = 15.3
+vsx_id = KY Aps
+asassn_id = 214748449192
+color_string =
+visual_inspection_comments =

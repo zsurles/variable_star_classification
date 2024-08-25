@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.37
+position = 272.80575 -29.71003
+magnitude = 11.3
+vsx_id = HAT 622-57809
+asassn_id = 575526326581
+color_string =
+visual_inspection_comments =

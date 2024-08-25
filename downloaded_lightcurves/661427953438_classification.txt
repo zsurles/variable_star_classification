@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.51
+position = 272.97233 -31.69531
+magnitude = 15.479
+vsx_id = [CAG2000] vd2f695
+asassn_id = 661427953438
+color_string =
+visual_inspection_comments =

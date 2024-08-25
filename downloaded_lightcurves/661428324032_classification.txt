@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 252.45267 -27.44458
+magnitude = 13.76
+vsx_id = BG Sco
+asassn_id = 661428324032
+color_string =
+visual_inspection_comments =

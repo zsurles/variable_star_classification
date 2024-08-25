@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 1.0
+position = 268.3575 -0.77353
+magnitude = 14.1
+vsx_id = FASTT 1088
+asassn_id = 661428689169
+color_string =
+visual_inspection_comments =

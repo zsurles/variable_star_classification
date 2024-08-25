@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.99
+position = 256.884 -74.67406
+magnitude = 14.6
+vsx_id = MQ Aps
+asassn_id = 326418528208
+color_string =
+visual_inspection_comments =

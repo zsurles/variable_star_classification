@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 250.66107 39.87923
+magnitude = 13.502
+vsx_id = V0448 Her
+asassn_id = 197568752094
+color_string =
+visual_inspection_comments =

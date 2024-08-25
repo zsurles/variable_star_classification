@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.52
+position = 256.1107 32.32931
+magnitude = 13.0
+vsx_id = TYC 2594-1673-1
+asassn_id = 94489782150
+color_string =
+visual_inspection_comments =

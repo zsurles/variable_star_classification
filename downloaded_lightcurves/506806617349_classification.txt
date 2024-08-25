@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.4
+position = 251.43371 -28.21367
+magnitude = 12.2
+vsx_id = AB Sco
+asassn_id = 506806617349
+color_string =
+visual_inspection_comments =

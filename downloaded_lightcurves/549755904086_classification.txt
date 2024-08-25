@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 274.03158 -49.18022
+magnitude = 15.0
+vsx_id = LL Tel
+asassn_id = 549755904086
+color_string =
+visual_inspection_comments =

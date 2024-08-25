@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 274.17062 -52.71481
+magnitude = 14.9
+vsx_id = CQ Tel
+asassn_id = 661427653568
+color_string =
+visual_inspection_comments =

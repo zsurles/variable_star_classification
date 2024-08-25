@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.57
+position = 268.61562 -34.80647
+magnitude = 15.456
+vsx_id = OGLE-BLG-RRLYR-06860
+asassn_id = 661427811708
+color_string =
+visual_inspection_comments =

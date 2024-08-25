@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 273.18662 38.80054
+magnitude = 15.09
+vsx_id = QQ Her
+asassn_id = 77309766585
+color_string =
+visual_inspection_comments =

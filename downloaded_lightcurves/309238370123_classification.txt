@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_d
+class_probability = 0.46
+position = 269.07625 -1.17203
+magnitude = 15.06
+vsx_id = FASTT 1105
+asassn_id = 309238370123
+color_string =
+visual_inspection_comments =

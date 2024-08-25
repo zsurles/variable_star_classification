@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 258.15963 -61.7315
+magnitude = 13.0
+vsx_id = CR Ara
+asassn_id = 652835145592
+color_string =
+visual_inspection_comments =

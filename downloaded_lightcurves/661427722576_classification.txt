@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.41
+position = 272.79987 -40.64786
+magnitude = 14.8
+vsx_id = V0340 CrA
+asassn_id = 661427722576
+color_string =
+visual_inspection_comments =

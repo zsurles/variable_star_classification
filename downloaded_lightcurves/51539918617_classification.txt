@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.35
+position = 265.39423 41.18325
+magnitude = 12.86
+vsx_id = ROTSE1 J174134.61+411059.7
+asassn_id = 51539918617
+color_string =
+visual_inspection_comments =
