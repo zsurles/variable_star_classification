@@ -18602,3 +18602,1275 @@ vsx_id = ROTSE1 J150256.37+320917.8
 asassn_id = 85900077954
 color_string =  ROTSE1 J150256.37+320917.8   | 15:02:56.35 +32:09:18.2 (Gaia DR3)  | RRC (VSX)        | 0.222748990000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.400+/-0.029 (G)
 visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.88
+position = 232.53117 47.18817
+magnitude = 14.32
+vsx_id = CSS_J153007.4+471117
+asassn_id = 103079418228
+color_string =  CSS_J153007.4+471117         | 15:30:07.37 +47:11:17.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.328+/-0.034 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.67
+position = 237.44928 45.6352
+magnitude = 13.98
+vsx_id = CSS_J154947.8+453807
+asassn_id = 103079706294
+color_string =  CSS_J154947.8+453807         | 15:49:47.83 +45:38:06.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: F0 (LAMOST DR5)       J-Ks=0.313+/-0.036 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.49
+position = 236.60892 44.31311
+magnitude = 12.49
+vsx_id = V0338 Boo
+asassn_id = 103080606909
+color_string =  V0338 Boo                    | 15:46:26.14 +44:18:46.9 (Gaia DR3)  | RRD (VSX)        | 0.494047000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.213+/-0.032 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.51
+position = 238.50007 57.71596
+magnitude = 14.27
+vsx_id = PS1-3PI J155400.01+574257.4
+asassn_id = 137439469008
+color_string =  PS1-3PI J155400.01+574257.4  | 15:54:00.02 +57:42:57.5 (Gaia DR3)  | RRC (VSX)        | 0.334141000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.237+/-0.051 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.57
+position = 237.15086 25.59749
+magnitude = 13.21
+vsx_id = ROTSE1 J154836.20+253550.9
+asassn_id = 146029418033
+color_string =  ROTSE1 J154836.20+253550.9   | 15:48:36.24 +25:35:50.9 (Gaia DR3)  | RRC (VSX)        | 0.553752010000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.633+/-0.036 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.52
+position = 232.7012 -78.81602
+magnitude = 11.068
+vsx_id = WISE J153048.2-784857
+asassn_id = 163209064324
+color_string =  WISE J153048.2-784857        | 15:30:48.28 -78:48:57.8 (Gaia DR3)  | RRAB (VSX)       | 0.858601100000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.687+/-0.031 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.35
+position = 237.88787 21.71518
+magnitude = 15.19
+vsx_id = CSS_J155133.0+214254
+asassn_id = 163209462446
+color_string =  CSS_J155133.0+214254         | 15:51:33.09 +21:42:54.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.200+/-0.044 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.76
+position = 232.34496 20.78231
+magnitude = 13.25
+vsx_id = CSS_J152922.7+204656
+asassn_id = 180388829745
+color_string =  CSS_J152922.7+204656         | 15:29:22.76 +20:46:55.9 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A7V (LAMOST DR5)      J-Ks=0.235+/-0.038 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.27
+position = 234.39389 3.44727
+magnitude = 15.035
+vsx_id = MG1 785591
+asassn_id = 206159390782
+color_string =  MG1 785591                   | 15:37:34.55 +03:26:49.8 (Gaia DR3)  | RRAB (VSX)       | 0.599303400000 (VSX) |  Gaia3var=VARIABLE        SpType: F0 (LAMOST DR5)      J-Ks=0.250+/-0.047 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.49
+position = 235.02884 -46.60609
+magnitude = 14.03
+vsx_id = ASASSN-V J154006.92-463621.9
+asassn_id = 214748529484
+color_string =  ASASSN-V J154006.92-463621.9 | 15:40:06.92 -46:36:21.9 (Gaia DR3)  | RRC (VSX)        | 0.194815000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.511+/-0.033 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.39
+position = 233.72625 4.02042
+magnitude = 15.0
+vsx_id = CSS_J153454.3+040113
+asassn_id = 231928432446
+color_string =  CSS_J153454.3+040113         | 15:34:54.28 +04:01:13.3 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: F0 (LAMOST DR5)       J-Ks=0.268+/-0.068 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.47
+position = 233.32666 3.6279
+magnitude = 15.4
+vsx_id = MG1 782014
+asassn_id = 240519479686
+color_string =  MG1 782014                   | 15:33:18.39 +03:37:40.4 (Gaia DR3)  | RRAB (VSX)       | 0.639470000000 (VSX) |  Gaia3var=VARIABLE        SpType: F0 (LAMOST DR5)      J-Ks=0.454+/-0.116 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.41
+position = 239.91667 4.29331
+magnitude = 14.22
+vsx_id = CSS_J155940.0+041735
+asassn_id = 249108896813
+color_string =  CSS_J155940.0+041735         | 15:59:40.01 +04:17:35.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A2V (LAMOST DR5)      J-Ks=0.315+/-0.048 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.45
+position = 233.09924 -31.13468
+magnitude = 14.74
+vsx_id = SSS_J153223.7-310804
+asassn_id = 266288992078
+color_string =  SSS_J153223.7-310804         | 15:32:23.81 -31:08:04.8 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.480+/-0.041 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.94
+position = 234.03871 -75.07297
+magnitude = 14.3
+vsx_id = AI Aps
+asassn_id = 283468082441
+color_string =  AI Aps                       | 15:36:09.21 -75:04:22.9 (Gaia DR3)  | RRAB (GCVS)      | 0.5541500000 (GCVS)  |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.438+/-0.064 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.52
+position = 237.47703 -12.67385
+magnitude = 14.35
+vsx_id = PS1-3PI J154954.48-124025.8
+asassn_id = 292058100347
+color_string =  PS1-3PI J154954.48-124025.8  | 15:49:54.48 -12:40:26.0 (Gaia DR3)  | RRC (VSX)        | 0.334075000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.183+/-0.045 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.49
+position = 236.59475 -12.00233
+magnitude = 14.44
+vsx_id = NSV 7240
+asassn_id = 292059069246
+color_string =  NSV 7240                     | 15:46:22.73 -12:00:08.4 (Gaia DR3)  | RRAB (VSX)       | 0.580345000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.392+/-0.049 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.53
+position = 236.59273 -11.08275
+magnitude = 15.34
+vsx_id = PS1-3PI J154622.25-110457.8
+asassn_id = 300647821234
+color_string =  PS1-3PI J154622.25-110457.8  | 15:46:22.25 -11:04:58.0 (Gaia DR3)  | RRC (VSX)        | 0.317622000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.347+/-0.059 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.5
+position = 239.87655 -8.09027
+magnitude = 15.377
+vsx_id = CSS_J155930.3-080524
+asassn_id = 309238113594
+color_string =  CSS_J155930.3-080524         | 15:59:30.36 -08:05:25.0 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.260+/-0.069 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.76
+position = 231.56025 -8.65814
+magnitude = 11.53
+vsx_id = ASAS J152614-0839.5
+asassn_id = 309238638295
+color_string =  ASAS J152614-0839.5          | 15:26:14.43 -08:39:29.5 (Gaia DR3)  | EC/RRC/DSCT/DSCTr/ESD (VSX) | 0.407582000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.312+/-0.030 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.65
+position = 233.17545 -47.46253
+magnitude = 12.025
+vsx_id = WISE J153242.1-472745
+asassn_id = 317828201165
+color_string =  WISE J153242.1-472745        | 15:32:42.10 -47:27:45.2 (Gaia DR3)  | RR (VSX)         | 0.421358000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.371+/-0.032 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.81
+position = 237.26957 -37.65507
+magnitude = 12.509
+vsx_id = WISE J154904.6-373918
+asassn_id = 326418551117
+color_string =  WISE J154904.6-373918        | 15:49:04.69 -37:39:18.3 (Gaia DR3)  | RRC (VSX)        | 0.352986000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.385+/-0.035 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.3
+position = 236.44759 -7.85293
+magnitude = 13.86
+vsx_id = NSVS 16266351
+asassn_id = 335007953518
+color_string =  NSVS 16266351                | 15:45:47.42 -07:51:10.8 (Gaia DR3)  | RRAB (VSX)       | 0.782445100000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.309+/-0.041 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.48
+position = 233.06171 8.57392
+magnitude = 14.7
+vsx_id = CSS_J153214.8+083426
+asassn_id = 335008385436
+color_string =  CSS_J153214.8+083426         | 15:32:14.83 +08:34:25.8 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.282+/-0.058 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.46
+position = 238.09592 -8.17081
+magnitude = 12.07
+vsx_id = ASAS J155223-0810.3
+asassn_id = 343597425271
+color_string =  ASAS J155223-0810.3          | 15:52:23.02 -08:10:15.1 (Gaia DR3)  | RRC/EC (VSX)     | 0.268362000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.266+/-0.040 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.27
+position = 238.20423 -8.74187
+magnitude = 15.0
+vsx_id = Loneos-RR 545
+asassn_id = 343598429816
+color_string =  Loneos-RR 545                | 15:52:49.03 -08:44:30.9 (Gaia DR3)  | RRAB (VSX)       | 0.514029000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.366+/-0.055 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.43
+position = 233.73054 3.15416
+magnitude = 12.854
+vsx_id = ASAS J153455+0309.3
+asassn_id = 343598570935
+color_string =  ASAS J153455+0309.3          | 15:34:55.31 +03:09:14.8 (Gaia DR3)  | RRAB (VSX)       | 0.596412100000 (VSX) |  Gaia3var=VARIABLE        SpType: F0 (LAMOST DR5)      J-Ks=0.282+/-0.035 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.31
+position = 235.95774 -24.40406
+magnitude = 15.29
+vsx_id = SSS_J154349.7-242416
+asassn_id = 352188199540
+color_string =  SSS_J154349.7-242416         | 15:43:49.85 -24:24:14.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.304+/-0.079 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.5
+position = 238.42489 -16.73494
+magnitude = 13.83
+vsx_id = ASASSN-V J155341.97-164405.8
+asassn_id = 360777358826
+color_string =  ASASSN-V J155341.97-164405.8 | 15:53:41.96 -16:44:05.9 (Gaia DR3)  | RRAB (VSX)       | 0.998845000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.527+/-0.038 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.6
+position = 236.10521 -0.22039
+magnitude = 14.0
+vsx_id = V0466 Ser
+asassn_id = 369367405259
+color_string =  V0466 Ser                    | 15:44:25.23 -00:13:13.3 (Gaia DR3)  | RRC (GCVS)       | 0.3822420000 (GCVS)  |  Gaia3var=VARIABLE        SpType: F0 (LAMOST DR5)      J-Ks=0.191+/-0.041 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.49
+position = 239.41481 -19.41866
+magnitude = 14.167
+vsx_id = CSS_J155739.5-192507
+asassn_id = 386547317736
+color_string =  CSS_J155739.5-192507         | 15:57:39.57 -19:25:07.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.544+/-0.068 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.44
+position = 240.29186 -7.62313
+magnitude = 13.959
+vsx_id = CSS_J160110.0-073723
+asassn_id = 403727901752
+color_string =  CSS_J160110.0-073723         | 16:01:10.03 -07:37:23.5 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.345+/-0.038 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.53
+position = 232.75804 1.68381
+magnitude = 9.777
+vsx_id = VY Ser
+asassn_id = 403728030642
+color_string =  VY Ser                       | 232.75804 1.68381 (user input)  | RRAB (GCVS)      | 0.7140938400 (GCVS)  |  (position from user input)   SpType: A7 1946ApJ...103..371M VY Ser  J-Ks=0.393+/-0.032 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.42
+position = 235.98225 -8.51
+magnitude = 15.41
+vsx_id = CSS_J154355.7-083036
+asassn_id = 412317365980
+color_string =  CSS_J154355.7-083036         | 15:43:55.70 -08:30:34.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.309+/-0.085 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.58
+position = 235.45123 -46.38676
+magnitude = 14.11
+vsx_id = ASASSN-V J154148.30-462312.4
+asassn_id = 412317419752
+color_string =  ASASSN-V J154148.30-462312.4 | 15:41:48.20 -46:23:12.8 (Gaia DR3)  | RRC (VSX)        | 0.197304000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.592+/-0.040 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.6
+position = 237.79478 -41.8921
+magnitude = 14.27
+vsx_id = ASASSN-V J155110.75-415331.6
+asassn_id = 412317559161
+color_string =  ASASSN-V J155110.75-415331.6 | 15:51:10.74 -41:53:31.6 (Gaia DR3)  | RRC (VSX)        | 0.403180000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.317+/-0.034 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.59
+position = 240.02274 -45.72456
+magnitude = 14.73
+vsx_id = ASASSN-V J160005.46-454328.4
+asassn_id = 420906908497
+color_string =  ASASSN-V J160005.46-454328.4 | 16:00:05.45 -45:43:28.5 (Gaia DR3)  | RRC (VSX)        | 0.246334000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.554+/-0.081 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.33
+position = 231.28542 -46.47711
+magnitude = 10.08
+vsx_id = ASAS J152508-4628.6
+asassn_id = 420907050794
+color_string =  ASAS J152508-4628.6          | 15:25:08.48 -46:28:37.9 (Gaia DR3)  | ESD/RRC/EC (VSX) | 0.624058000000 (VSX) |  Gaia3var=VARIABLE        SpType: A5 1939cfsc.book.....S CPD-46 7409  J-Ks=0.260+/-0.033 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.51
+position = 233.69017 -2.21378
+magnitude = 12.77
+vsx_id = ASAS J153446-0212.8
+asassn_id = 429497189622
+color_string =  ASAS J153446-0212.8          | 15:34:45.63 -02:12:49.5 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.435790000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.281+/-0.033 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.22
+position = 232.81488 -47.57692
+magnitude = 11.85
+vsx_id = ASAS J153115-4734.6
+asassn_id = 429497306979
+color_string =  ASAS J153115-4734.6          | 15:31:15.54 -47:34:37.0 (Gaia DR3)  | EC/RRC/DSCT/ESD (VSX) | 0.450708000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.234+/-0.034 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.32
+position = 231.47933 -47.50092
+magnitude = 12.48
+vsx_id = ASAS J152555-4730.1
+asassn_id = 429497327651
+color_string =  ASAS J152555-4730.1          | 15:25:55.03 -47:30:03.2 (Gaia DR3)  | EC/RRC (VSX)     | 0.434224000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.410+/-0.029 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.64
+position = 240.20786 -19.46681
+magnitude = 13.38
+vsx_id = SSS_J160049.9-192801
+asassn_id = 429497658015
+color_string =  SSS_J160049.9-192801         | 16:00:49.88 -19:28:00.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.983+/-0.032 (M)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.7
+position = 238.86758 -18.45117
+magnitude = 12.42
+vsx_id = ASAS J155528-1827.0
+asassn_id = 438086938187
+color_string =  ASAS J155528-1827.0          | 15:55:28.22 -18:27:04.2 (Gaia DR3)  | RRAB (VSX)       | 0.583260000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.462+/-0.030 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.65
+position = 234.51413 -47.78158
+magnitude = 10.94
+vsx_id = ASASSN-V J153803.39-474653.7
+asassn_id = 446676823723
+color_string =  ASASSN-V J153803.39-474653.7 | 15:38:03.39 -47:46:53.8 (Gaia DR3)  | RRC (VSX)        | 0.202970000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.248+/-0.029 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.41
+position = 234.10706 -45.88694
+magnitude = 12.76
+vsx_id = ASASSN-V J153625.70-455313.0
+asassn_id = 446677133492
+color_string =  ASASSN-V J153625.70-455313.0 | 15:36:25.69 -45:53:13.1 (Gaia DR3)  | RRC: (VSX)       | 0.443000000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.280+/-0.040 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.88
+position = 238.42088 -19.18279
+magnitude = 15.49
+vsx_id = MLS_J155341.0-191058
+asassn_id = 446677413681
+color_string =  MLS_J155341.0-191058         | 15:53:41.01 -19:10:58.0 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.788+/-0.042 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.5
+position = 232.41917 15.042
+magnitude = 9.5
+vsx_id = ASAS J152941+1502.5
+asassn_id = 463857313032
+color_string =  ASAS J152941+1502.5          | 15:29:40.58 +15:02:31.1 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.407430000000 (VSX) |  Gaia3var=VARIABLE        SpType: A5 1952CoRut..32....1H BD+15 2873  J-Ks=0.250+/-0.027 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.87
+position = 234.30967 -23.96981
+magnitude = 14.4
+vsx_id = NSV 7157
+asassn_id = 472446542705
+color_string =  NSV 7157                     | 15:37:14.31 -23:58:11.5 (Gaia DR3)  | RR/E (VSX)       |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.419+/-0.038 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 1.0
+position = 232.78899 -33.84392
+magnitude = 13.68
+vsx_id = SSS_J153109.3-335037
+asassn_id = 472446815532
+color_string =  SSS_J153109.3-335037         | 15:31:09.35 -33:50:38.2 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.416+/-0.033 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.3
+position = 238.13013 -26.56472
+magnitude = 12.14
+vsx_id = ASAS J155231-2633.9
+asassn_id = 481037412706
+color_string =  ASAS J155231-2633.9          | 15:52:31.20 -26:33:53.5 (Gaia DR3)  | RRAB/ESD/ED (VSX) | 0.766164000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.807+/-0.032 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.38
+position = 232.50942 -38.00083
+magnitude = 13.5
+vsx_id = 1SWASP J153002.26-380003.0
+asassn_id = 489626310468
+color_string =  1SWASP J153002.26-380003.0   | 15:30:02.29 -38:00:03.4 (Gaia DR3)  | RRAB (VSX)       | 0.875361800000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.431+/-0.045 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.41
+position = 239.93957 -8.52195
+magnitude = 15.31
+vsx_id = CSS_J155945.4-083119
+asassn_id = 489626810760
+color_string =  CSS_J155945.4-083119         | 15:59:45.49 -08:31:19.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.450+/-0.091 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.86
+position = 232.96276 -35.07561
+magnitude = 14.75
+vsx_id = SSS_J153151.0-350433
+asassn_id = 489626907560
+color_string =  SSS_J153151.0-350433         | 15:31:51.06 -35:04:32.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.879+/-0.037 (M)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.93
+position = 237.55173 -48.71862
+magnitude = 11.361
+vsx_id = WISE J155012.4-484307
+asassn_id = 498217105489
+color_string =  WISE J155012.4-484307        | 15:50:12.41 -48:43:06.8 (Gaia DR3)  | RRAB (VSX)       | 0.682126000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.753+/-0.035 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.55
+position = 237.94415 -6.90619
+magnitude = 14.41
+vsx_id = CSS_J155146.5-065422
+asassn_id = 506806991859
+color_string =  CSS_J155146.5-065422         | 15:51:46.59 -06:54:22.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.524+/-0.062 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.37
+position = 231.59554 -24.20447
+magnitude = 15.42
+vsx_id = SEKBO 121406.350
+asassn_id = 523986848619
+color_string =  SEKBO 121406.350             | 15:26:22.92 -24:12:15.7 (Gaia DR3)  | RR: (VSX)        |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.434+/-0.072 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.47
+position = 238.40375 -28.36117
+magnitude = 11.5
+vsx_id = ASASSN-V J155336.90-282140.2
+asassn_id = 532576457618
+color_string =  ASASSN-V J155336.90-282140.2 | 15:53:36.90 -28:21:40.3 (Gaia DR3)  | RRC (VSX)        | 0.327020000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.255+/-0.032 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.38
+position = 234.79948 3.92348
+magnitude = 12.6
+vsx_id = V0458 Ser
+asassn_id = 532576517980
+color_string =  V0458 Ser                    | 15:39:11.87 +03:55:24.2 (Gaia DR3)  | RRAB (GCVS)      | 0.4634480000 (GCVS)  |  Gaia3var=VARIABLE        SpType: A3IV (LAMOST DR5)    J-Ks=0.118+/-0.035 (A)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.91
+position = 232.98226 -32.66715
+magnitude = 14.14
+vsx_id = SSS_J153155.7-324002
+asassn_id = 532576798375
+color_string =  SSS_J153155.7-324002         | 15:31:55.82 -32:40:00.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.626+/-0.035 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.54
+position = 235.16772 -37.70156
+magnitude = 14.37
+vsx_id = ASASSN-V J154040.25-374205.6
+asassn_id = 549756133935
+color_string =  ASASSN-V J154040.25-374205.6 | 15:40:40.25 -37:42:05.7 (Gaia DR3)  | RRC (VSX)        | 0.220761000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.494+/-0.031 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.99
+position = 234.589 -33.15725
+magnitude = 15.0
+vsx_id = GV Lup
+asassn_id = 549756266055
+color_string =  GV Lup                       | 15:38:21.36 -33:09:26.1 (Gaia DR3)  | RR: (GCVS)       |  (GCVS)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.666+/-0.037 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.59
+position = 233.69564 -45.40253
+magnitude = 14.58
+vsx_id = ASASSN-V J153446.95-452409.1
+asassn_id = 549756353234
+color_string =  ASASSN-V J153446.95-452409.1 | 15:34:46.95 -45:24:09.1 (Gaia DR3)  | RRC (VSX)        | 0.180586000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.836+/-0.032 (M)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.37
+position = 236.8847 -66.57937
+magnitude = 12.68
+vsx_id = ASASSN-V J154732.33-663445.7
+asassn_id = 549756514664
+color_string =  ASASSN-V J154732.33-663445.7 | 15:47:32.34 -66:34:45.8 (Gaia DR3)  | RRC (VSX)        | 0.220540000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.674+/-0.038 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.46
+position = 232.96327 -72.30723
+magnitude = 13.72
+vsx_id = ASASSN-V J153151.18-721826.0
+asassn_id = 558345998930
+color_string =  ASASSN-V J153151.18-721826.0 | 15:31:51.18 -72:18:26.1 (Gaia DR3)  | RRC (VSX)        | 0.217767000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.280+/-0.068 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.33
+position = 232.33079 -27.70873
+magnitude = 15.11
+vsx_id = SSS_J152919.3-274231
+asassn_id = 558346894274
+color_string =  SSS_J152919.3-274231         | 15:29:19.40 -27:42:31.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.404+/-0.091 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.53
+position = 238.76305 -26.26369
+magnitude = 14.84
+vsx_id = SSS_J155502.9-261551
+asassn_id = 566935999257
+color_string =  SSS_J155502.9-261551         | 15:55:03.12 -26:15:49.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.439+/-0.048 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.88
+position = 232.6267 -25.91011
+magnitude = 13.75
+vsx_id = ASASSN-V J153030.41-255436.4
+asassn_id = 566936681178
+color_string =  ASASSN-V J153030.41-255436.4 | 15:30:30.40 -25:54:36.5 (Gaia DR3)  | RRC (VSX)        | 0.183717000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.993+/-0.031 (M)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 1.0
+position = 235.73304 -16.52828
+magnitude = 14.1
+vsx_id = EL Lib
+asassn_id = 575526574052
+color_string =  EL Lib                       | 15:42:55.98 -16:31:41.8 (Gaia DR3)  | RR (GCVS)        |  (GCVS)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.657+/-0.031 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.77
+position = 232.53305 -33.50207
+magnitude = 13.39
+vsx_id = SSS_J153007.9-333007
+asassn_id = 584116186765
+color_string =  SSS_J153007.9-333007         | 15:30:07.94 -33:30:07.5 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.426+/-0.039 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.97
+position = 238.78379 -32.62608
+magnitude = 13.7
+vsx_id = 1SWASP J155508.11-323733.9
+asassn_id = 601295906389
+color_string =  1SWASP J155508.11-323733.9   | 15:55:08.08 -32:37:34.5 (Gaia DR3)  | RRAB (VSX)       | 0.332216830000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.341+/-0.040 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.83
+position = 237.71109 -34.76487
+magnitude = 12.083
+vsx_id = WISE J155050.6-344553
+asassn_id = 609885379041
+color_string =  WISE J155050.6-344553        | 15:50:50.66 -34:45:53.6 (Gaia DR3)  | RRC (VSX)        | 0.366754900000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.341+/-0.033 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.72
+position = 235.78567 -63.06677
+magnitude = 11.834
+vsx_id = WISE J154308.5-630400
+asassn_id = 609886350740
+color_string =  WISE J154308.5-630400        | 15:43:08.56 -63:04:00.5 (Gaia DR3)  | RRC (VSX)        | 0.348646700000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.283+/-0.037 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.69
+position = 238.36738 -33.17636
+magnitude = 12.14
+vsx_id = ASAS J155328-3310.6
+asassn_id = 618475474062
+color_string =  ASAS J155328-3310.6          | 15:53:28.18 -33:10:35.0 (Gaia DR3)  | EC/RRC (VSX)     | 0.441557000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.363+/-0.031 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.4
+position = 239.72827 -26.62231
+magnitude = 14.79
+vsx_id = SSS_J155854.8-263720
+asassn_id = 627065553987
+color_string =  SSS_J155854.8-263720         | 15:58:54.76 -26:37:19.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.431+/-0.047 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.42
+position = 237.19188 -33.727
+magnitude = 10.54
+vsx_id = ASAS J154846-3343.6
+asassn_id = 627065740687
+color_string =  ASAS J154846-3343.6          | 15:48:46.04 -33:43:37.6 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.281753000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.390+/-0.032 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.95
+position = 231.89217 -67.98018
+magnitude = 12.16
+vsx_id = ASASSN-V J152734.12-675848.6
+asassn_id = 635655880507
+color_string =  ASASSN-V J152734.12-675848.6 | 15:27:33.88 -67:58:49.0 (Gaia DR3)  | RRC (VSX)        | 0.198170000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.217+/-0.032 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.89
+position = 240.14979 -59.29353
+magnitude = 11.93
+vsx_id = ASAS J160036-5917.6
+asassn_id = 644245225499
+color_string =  ASAS J160036-5917.6          | 16:00:35.92 -59:17:36.9 (Gaia DR3)  | EC/RRC (VSX)     | 0.472744000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.317+/-0.030 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.95
+position = 237.29842 -58.89354
+magnitude = 13.94
+vsx_id = ASASSN-V J154911.62-585336.7
+asassn_id = 644245565944
+color_string =  ASASSN-V J154911.62-585336.7 | 15:49:11.62 -58:53:36.8 (Gaia DR3)  | RRC (VSX)        | 0.204888000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.363+/-0.040 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.66
+position = 233.81326 -60.8492
+magnitude = 11.04
+vsx_id = ASASSN-V J153515.18-605057.1
+asassn_id = 652835455446
+color_string =  ASASSN-V J153515.18-605057.1 | 15:35:15.15 -60:50:57.3 (Gaia DR3)  | RRC (VSX)        | 0.188997000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.316+/-0.037 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.31
+position = 237.55627 -67.96835
+magnitude = 14.13
+vsx_id = ASASSN-V J155013.51-675806.0
+asassn_id = 661427551312
+color_string =  ASASSN-V J155013.51-675806.0 | 15:50:13.50 -67:58:06.2 (Gaia DR3)  | RRC (VSX)        | 0.223443000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.414+/-0.050 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.51
+position = 231.81242 -62.60719
+magnitude = 12.578
+vsx_id = WISE J152714.9-623625
+asassn_id = 661427580352
+color_string =  WISE J152714.9-623625        | 15:27:14.97 -62:36:26.0 (Gaia DR3)  | RRC (VSX)        | 0.415027400000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.408+/-0.036 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.27
+position = 240.45102 -62.33974
+magnitude = 14.45
+vsx_id = ASASSN-V J160148.24-622023.1
+asassn_id = 661427582264
+color_string =  ASASSN-V J160148.24-622023.1 | 16:01:48.24 -62:20:23.2 (Gaia DR3)  | RRAB (VSX)       | 0.526943000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.487+/-0.058 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.65
+position = 233.16098 -59.78734
+magnitude = 14.25
+vsx_id = ASASSN-V J153238.64-594714.4
+asassn_id = 661427608322
+color_string =  ASASSN-V J153238.64-594714.4 | 15:32:38.61 -59:47:14.5 (Gaia DR3)  | RRC (VSX)        | 0.196943000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.575+/-0.040 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.68
+position = 238.9594 -58.30044
+magnitude = 13.46
+vsx_id = ASASSN-V J155550.26-581801.6
+asassn_id = 661427618441
+color_string =  ASASSN-V J155550.26-581801.6 | 15:55:50.25 -58:18:01.6 (Gaia DR3)  | RRC (VSX)        | 0.215101000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.818+/-0.033 (M)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.56
+position = 239.96689 -57.83809
+magnitude = 15.24
+vsx_id = ASASSN-V J155952.05-575017.1
+asassn_id = 661427621445
+color_string =  ASASSN-V J155952.05-575017.1 | 15:59:52.03 -57:50:17.3 (Gaia DR3)  | RRC (VSX)        | 0.187741000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.613+/-0.063 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.27
+position = 233.87646 -56.37517
+magnitude = 11.278
+vsx_id = WISE J153530.3-562230
+asassn_id = 661427629933
+color_string =  WISE J153530.3-562230        | 15:35:30.36 -56:22:30.8 (Gaia DR3)  | RRAB (VSX)       | 0.710390500000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=1.689+/-0.050 (Very red! L if it's a dwarf)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.67
+position = 233.51561 -53.19647
+magnitude = 14.96
+vsx_id = ASASSN-V J153403.75-531147.3
+asassn_id = 661427650234
+color_string =  ASASSN-V J153403.75-531147.3 | 15:34:03.74 -53:11:47.3 (Gaia DR3)  | RRC (VSX)        | 0.210511000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.402+/-0.055 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.27
+position = 237.59636 -50.10136
+magnitude = 15.09
+vsx_id = ASASSN-V J155023.13-500604.9
+asassn_id = 661427668904
+color_string =  ASASSN-V J155023.13-500604.9 | 15:50:23.12 -50:06:05.0 (Gaia DR3)  | RRC (VSX)        | 0.194948000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=12.698+/-      (unrealisitic color!)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 1.0
+position = 236.93724 -49.04906
+magnitude = 14.07
+vsx_id = ASASSN-V J154744.94-490256.6
+asassn_id = 661427674680
+color_string =  ASASSN-V J154744.94-490256.6 | 15:47:44.93 -49:02:56.7 (Gaia DR3)  | RRC (VSX)        | 0.197218000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                                      
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.99
+position = 235.008 -47.80863
+magnitude = 13.99
+vsx_id = ASASSN-V J154001.92-474831.1
+asassn_id = 661427681162
+color_string =  ASASSN-V J154001.92-474831.1 | 235.008 -47.80863 (user input)  | RRC (VSX)        | 0.182945000000 (VSX) |  (position from user input)                                                  
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.61
+position = 234.28018 -46.73339
+magnitude = 10.95
+vsx_id = ASASSN-V J153707.24-464400.2
+asassn_id = 661427687081
+color_string =  ASASSN-V J153707.24-464400.2 | 15:37:07.24 -46:44:00.2 (Gaia DR3)  | RRC (VSX)        | 0.397586000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                                      
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.85
+position = 237.47094 -45.19885
+magnitude = 14.95
+vsx_id = ASASSN-V J154953.02-451155.9
+asassn_id = 661427696048
+color_string =  ASASSN-V J154953.02-451155.9 | 15:49:53.01 -45:11:55.9 (Gaia DR3)  | RRC (VSX)        | 0.203854000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                                      
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.29
+position = 238.19496 -44.74899
+magnitude = 13.74
+vsx_id = ASASSN-V J155246.79-444456.4
+asassn_id = 661427698668
+color_string =  ASASSN-V J155246.79-444456.4 | 15:52:46.79 -44:44:56.5 (Gaia DR3)  | RRC (VSX)        | 0.435815000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.404+/-0.042 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_O
+class_probability = 0.26
+position = 237.10362 -38.385
+magnitude = 13.0
+vsx_id = 1SWASP J154824.87-382306.0
+asassn_id = 661427738979
+color_string =  1SWASP J154824.87-382306.0   | 15:48:24.86 -38:23:06.4 (Gaia DR3)  | RRAB (VSX)       | 0.594905790000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.729+/-0.031 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.85
+position = 232.39338 -37.01678
+magnitude = 14.38
+vsx_id = ASASSN-V J152934.41-370100.4
+asassn_id = 661427754026
+color_string =  ASASSN-V J152934.41-370100.4 | 15:29:34.40 -37:01:00.4 (Gaia DR3)  | RRC (VSX)        | 0.186305000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.590+/-0.041 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.94
+position = 240.0065 -36.75142
+magnitude = 15.1
+vsx_id = 1SWASP J160001.56-364505.1
+asassn_id = 661427758510
+color_string =  1SWASP J160001.56-364505.1   | 16:00:01.54 -36:45:05.7 (Gaia DR3)  | RRAB (VSX)       | 0.542475220000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.716+/-0.038 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.46
+position = 237.70029 -35.97947
+magnitude = 12.22
+vsx_id = ASAS J155048-3558.7
+asassn_id = 661427774909
+color_string =  ASAS J155048-3558.7          | 15:50:48.06 -35:58:46.3 (Gaia DR3)  | ESD/RRAB/EC (VSX) | 1.344084000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.423+/-0.033 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.4
+position = 231.47494 -32.77955
+magnitude = 15.01
+vsx_id = SSS_J152554.0-324647
+asassn_id = 661427905750
+color_string =  SSS_J152554.0-324647         | 15:25:53.99 -32:46:46.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.387+/-0.082 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.32
+position = 238.85565 -32.06901
+magnitude = 14.38
+vsx_id = SSS_J155525.4-320408
+asassn_id = 661427937044
+color_string =  SSS_J155525.4-320408         | 238.85565 -32.06901 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                            J-Ks=0.345+/-0.040 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.27
+position = 236.88254 -30.22821
+magnitude = 14.14
+vsx_id = ASASSN-V J154731.81-301341.6
+asassn_id = 661428050337
+color_string =  ASASSN-V J154731.81-301341.6 | 15:47:31.81 -30:13:41.7 (Gaia DR3)  | RRC (VSX)        | 0.460524000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.198+/-0.048 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.46
+position = 239.72631 -29.85545
+magnitude = 15.34
+vsx_id = SSS_J155854.3-295120
+asassn_id = 661428088642
+color_string =  SSS_J155854.3-295120         | 239.72631 -29.85545 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                            J-Ks=0.537+/-0.064 (K)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.29
+position = 240.17575 -22.25839
+magnitude = 14.27
+vsx_id = SSS_J160042.2-221530
+asassn_id = 661428547123
+color_string =  SSS_J160042.2-221530         | 240.17575 -22.25839 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                                                  
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.79
+position = 232.0095 -15.66922
+magnitude = 14.3
+vsx_id = 1SWASP J152802.15-154005.2
+asassn_id = 661428612860
+color_string =  1SWASP J152802.15-154005.2   | 15:28:02.26 -15:40:09.2 (Gaia DR3)  | RRAB (VSX)       | 0.738481280000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.370+/-0.064 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.48
+position = 237.61983 0.07044
+magnitude = 14.76
+vsx_id = CSS_J155028.7+000413
+asassn_id = 661428693958
+color_string =  CSS_J155028.7+000413         | 15:50:28.79 +00:04:13.0 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.250+/-0.066 (F)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.25
+position = 235.12625 2.50993
+magnitude = 15.21
+vsx_id = CSS_J154030.2+023035
+asassn_id = 661428706007
+color_string =  CSS_J154030.2+023035         | 15:40:30.30 +02:30:35.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: A5V (LAMOST DR5)      J-Ks=0.351+/-0.073 (G)
+visual_inspection_comments =
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.48
+position = 238.74396 42.76958
+magnitude = 10.97
+vsx_id = V1141 Her
+asassn_id = 661428877966
+color_string =  V1141 Her                    | 15:54:58.55 +42:46:10.1 (Gaia DR3)  | RRC (GCVS)       | 0.3171520000 (GCVS)  |  Gaia3var=VARIABLE        SpType: A3IV (LAMOST DR5)    J-Ks=0.086+/-0.025 (A)
+visual_inspection_comments =
