@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.92
+position = 245.86154 -26.49669
+magnitude = 12.7
+vsx_id = NGC 6121 V009
+asassn_id = 661428386999
+color_string =
+visual_inspection_comments =

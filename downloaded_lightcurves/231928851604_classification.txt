@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 244.64307 27.47034
+magnitude = 13.4
+vsx_id = CT CrB
+asassn_id = 231928851604
+color_string =
+visual_inspection_comments =

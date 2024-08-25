@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.27
+position = 244.13854 -59.14828
+magnitude = 15.1
+vsx_id = DF Nor
+asassn_id = 661427612748
+color_string =
+visual_inspection_comments =

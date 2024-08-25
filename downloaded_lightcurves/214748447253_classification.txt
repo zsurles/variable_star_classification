@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.62
+position = 243.03842 -76.87017
+magnitude = 13.2
+vsx_id = HO Aps
+asassn_id = 214748447253
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 245.92975 -26.45461
+magnitude = 12.58
+vsx_id = Cl* NGC 6121 SAW V27
+asassn_id = 438087259247
+color_string =
+visual_inspection_comments =

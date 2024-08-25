@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.5
+position = 242.4505 -17.75875
+magnitude = 14.46
+vsx_id = SEKBO 111558.569
+asassn_id = 283468451796
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 1.0
+position = 241.50883 -17.30322
+magnitude = 15.21
+vsx_id = SEKBO 111560.1344
+asassn_id = 360777826089
+color_string =
+visual_inspection_comments =

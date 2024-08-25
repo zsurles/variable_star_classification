@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.89
+position = 245.62902 -46.24295
+magnitude = 14.38
+vsx_id = ASASSN-V J162230.96-461434.6
+asassn_id = 455266554680
+color_string =
+visual_inspection_comments =

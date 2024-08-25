@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_O
+class_probability = 0.34
+position = 242.60808 -58.95817
+magnitude = 14.4
+vsx_id = BZ Nor
+asassn_id = 661425088655
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.33
+position = 244.13637 57.74536
+magnitude = 12.58
+vsx_id = WISE J161632.7+574443
+asassn_id = 137439479022
+color_string =
+visual_inspection_comments =

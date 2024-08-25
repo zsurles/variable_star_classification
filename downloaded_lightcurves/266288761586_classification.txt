@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_O
+class_probability = 0.32
+position = 244.0224 -30.6332
+magnitude = 10.405
+vsx_id = WISE J161605.3-303759
+asassn_id = 266288761586
+color_string =
+visual_inspection_comments =

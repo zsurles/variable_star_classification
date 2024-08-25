@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.32
+position = 245.017 45.21667
+magnitude = 9.2
+vsx_id = V0893 Her
+asassn_id = 94490116835
+color_string =
+visual_inspection_comments =
