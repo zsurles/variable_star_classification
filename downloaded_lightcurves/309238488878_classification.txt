@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.85
+position = 319.66367 6.20442
+magnitude = 11.0
+vsx_id = VW Equ
+asassn_id = 309238488878
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 337.17967 -0.85419
+magnitude = 14.917
+vsx_id = GU Aqr
+asassn_id = 515396463065
+color_string =
+visual_inspection_comments =

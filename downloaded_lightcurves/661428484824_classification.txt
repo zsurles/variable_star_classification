@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.37
+position = 279.05496 -23.89639
+magnitude = 13.428
+vsx_id = NGC 6656 KT-37
+asassn_id = 661428484824
+color_string =
+visual_inspection_comments =

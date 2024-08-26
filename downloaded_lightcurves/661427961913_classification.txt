@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.16
+position = 280.22004 -31.51467
+magnitude = 14.5
+vsx_id = V2607 Sgr
+asassn_id = 661427961913
+color_string =
+visual_inspection_comments =

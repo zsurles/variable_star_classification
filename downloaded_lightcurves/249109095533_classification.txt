@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.41
+position = 282.73004 -2.00139
+magnitude = 12.9
+vsx_id = HN Aql
+asassn_id = 249109095533
+color_string =
+visual_inspection_comments =

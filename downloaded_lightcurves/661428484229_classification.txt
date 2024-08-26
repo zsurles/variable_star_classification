@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.7
+position = 279.09592 -23.91156
+magnitude = 13.334
+vsx_id = NGC 6656 V023
+asassn_id = 661428484229
+color_string =
+visual_inspection_comments =

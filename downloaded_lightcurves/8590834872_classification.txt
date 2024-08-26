@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.98
+position = 290.94392 33.66822
+magnitude = 13.7
+vsx_id = NZ Lyr
+asassn_id = 8590834872
+color_string =
+visual_inspection_comments =

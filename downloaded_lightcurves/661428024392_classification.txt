@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 283.82696 -30.53039
+magnitude = 15.075
+vsx_id = NGC 6715 V119
+asassn_id = 661428024392
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.96
+position = 283.0675 -10.89267
+magnitude = 14.1
+vsx_id = KV Sct
+asassn_id = 292058402324
+color_string =
+visual_inspection_comments =

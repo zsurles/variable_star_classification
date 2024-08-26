@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.4
+position = 333.40213 -41.97095
+magnitude = 15.43
+vsx_id = TU Gru
+asassn_id = 231928271007
+color_string =
+visual_inspection_comments =

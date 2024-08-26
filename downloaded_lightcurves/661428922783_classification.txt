@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.92
+position = 343.60721 50.97094
+magnitude = 12.28
+vsx_id = USNO-A2.0 1350-17527739
+asassn_id = 661428922783
+color_string =
+visual_inspection_comments =

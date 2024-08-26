@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_d
+class_probability = 0.71
+position = 321.83821 -19.13308
+magnitude = 12.9
+vsx_id = CR Cap
+asassn_id = 463857560586
+color_string =
+visual_inspection_comments =

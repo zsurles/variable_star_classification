@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 315.02779 -40.56964
+magnitude = 12.898
+vsx_id = YZ Mic
+asassn_id = 541165895169
+color_string =
+visual_inspection_comments =

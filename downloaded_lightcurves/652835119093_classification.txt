@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.42
+position = 275.56162 -54.14089
+magnitude = 14.8
+vsx_id = V0421 Tel
+asassn_id = 652835119093
+color_string =
+visual_inspection_comments =

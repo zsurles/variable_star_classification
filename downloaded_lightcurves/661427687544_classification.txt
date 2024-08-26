@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.3
+position = 285.55117 -46.65336
+magnitude = 8.7
+vsx_id = MT Tel
+asassn_id = 661427687544
+color_string =
+visual_inspection_comments =

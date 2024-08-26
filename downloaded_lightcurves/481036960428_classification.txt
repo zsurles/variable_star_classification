@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.88
+position = 312.21204 -40.64931
+magnitude = 13.44
+vsx_id = DY Mic
+asassn_id = 481036960428
+color_string =
+visual_inspection_comments =

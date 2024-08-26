@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 290.21706 -70.99679
+magnitude = 14.83
+vsx_id = EH Pav
+asassn_id = 463857064080
+color_string =
+visual_inspection_comments =

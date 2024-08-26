@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.67
+position = 291.03886 23.58895
+magnitude = 12.402
+vsx_id = WISE J192409.3+233520
+asassn_id = 206159269648
+color_string =
+visual_inspection_comments =

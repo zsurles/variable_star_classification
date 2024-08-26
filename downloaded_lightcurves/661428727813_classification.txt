@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.95
+position = 291.48296 7.19853
+magnitude = 14.0
+vsx_id = V0972 Aql
+asassn_id = 661428727813
+color_string =
+visual_inspection_comments =

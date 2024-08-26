@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.29
+position = 298.79892 0.22192
+magnitude = 13.6
+vsx_id = V0717 Aql
+asassn_id = 257698994724
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.9
+position = 317.25696 32.00533
+magnitude = 15.3
+vsx_id = V2202 Cyg
+asassn_id = 85900680573
+color_string =
+visual_inspection_comments =

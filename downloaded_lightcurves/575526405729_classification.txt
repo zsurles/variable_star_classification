@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.89
+position = 317.00567 -39.469
+magnitude = 13.8
+vsx_id = AI Mic
+asassn_id = 575526405729
+color_string =
+visual_inspection_comments =

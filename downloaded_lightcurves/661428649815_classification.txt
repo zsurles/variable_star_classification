@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.26
+position = 283.94346 -7.87275
+magnitude = 14.7
+vsx_id = CX Sct
+asassn_id = 661428649815
+color_string =
+visual_inspection_comments =

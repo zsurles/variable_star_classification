@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 338.45925 -50.20652
+magnitude = 15.43
+vsx_id = VZ Gru
+asassn_id = 429497511134
+color_string =
+visual_inspection_comments =

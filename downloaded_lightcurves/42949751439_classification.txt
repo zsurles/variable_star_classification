@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.76
+position = 283.00053 39.34474
+magnitude = 13.382
+vsx_id = WISE J185200.1+392041
+asassn_id = 42949751439
+color_string =
+visual_inspection_comments =

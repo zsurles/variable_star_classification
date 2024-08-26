@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.57
+position = 287.61117 42.56028
+magnitude = 13.018
+vsx_id = KIC 7021124
+asassn_id = 661428876668
+color_string =
+visual_inspection_comments =

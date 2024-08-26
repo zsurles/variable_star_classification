@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.97
+position = 335.29333 39.72019
+magnitude = 11.5
+vsx_id = CQ Lac
+asassn_id = 128849875677
+color_string =
+visual_inspection_comments =

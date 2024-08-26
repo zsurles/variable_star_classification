@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.97
+position = 322.44387 12.16872
+magnitude = 14.8
+vsx_id = NGC 7078 SAW V2
+asassn_id = 661428747895
+color_string =
+visual_inspection_comments =

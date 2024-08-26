@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.48
+position = 346.74433 -43.91069
+magnitude = 12.1
+vsx_id = BO Gru
+asassn_id = 618475933029
+color_string =
+visual_inspection_comments =

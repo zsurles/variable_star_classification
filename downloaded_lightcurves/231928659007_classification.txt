@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 313.62864 -42.87516
+magnitude = 13.4
+vsx_id = WY Mic
+asassn_id = 231928659007
+color_string =
+visual_inspection_comments =

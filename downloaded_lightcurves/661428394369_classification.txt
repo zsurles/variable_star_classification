@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 281.27271 -26.32472
+magnitude = 14.5
+vsx_id = MZ Sgr
+asassn_id = 661428394369
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 305.02801 8.09499
+magnitude = 14.137
+vsx_id = V2021 Aql
+asassn_id = 197569316687
+color_string =
+visual_inspection_comments =

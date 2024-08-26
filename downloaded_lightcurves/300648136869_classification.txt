@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 282.11113 -13.96319
+magnitude = 12.226
+vsx_id = AF Sct
+asassn_id = 300648136869
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 312.86908 69.29189
+magnitude = 14.1
+vsx_id = FM Cep
+asassn_id = 60130460244
+color_string =
+visual_inspection_comments =

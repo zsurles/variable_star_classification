@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.97
+position = 275.95186 -54.5571
+magnitude = 15.35
+vsx_id = DM Tel
+asassn_id = 661427640196
+color_string =
+visual_inspection_comments =

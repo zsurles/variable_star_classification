@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.98
+position = 280.22187 36.64658
+magnitude = 13.9
+vsx_id = V0469 Lyr
+asassn_id = 128849093979
+color_string =
+visual_inspection_comments =

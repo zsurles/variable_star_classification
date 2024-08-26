@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 302.01867 -56.37728
+magnitude = 15.0
+vsx_id = HW Tel
+asassn_id = 566935830820
+color_string =
+visual_inspection_comments =

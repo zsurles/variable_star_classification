@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 315.4689 -40.79572
+magnitude = 13.7
+vsx_id = AE Mic
+asassn_id = 395137684571
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.98
+position = 299.09904 33.41025
+magnitude = 15.43
+vsx_id = UCAC4 618-094244
+asassn_id = 111670314545
+color_string =
+visual_inspection_comments =

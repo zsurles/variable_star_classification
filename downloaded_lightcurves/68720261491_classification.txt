@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.3
+position = 287.42754 64.85892
+magnitude = 9.59
+vsx_id = XZ Dra
+asassn_id = 68720261491
+color_string =
+visual_inspection_comments =

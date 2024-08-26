@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.86
+position = 316.0462 -17.44913
+magnitude = 13.1
+vsx_id = VW Cap
+asassn_id = 309238523699
+color_string =
+visual_inspection_comments =

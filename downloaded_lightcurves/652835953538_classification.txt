@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 336.07433 -65.6841
+magnitude = 13.45
+vsx_id = EO Tuc
+asassn_id = 652835953538
+color_string =
+visual_inspection_comments =

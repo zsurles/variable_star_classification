@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 279.706 23.49
+magnitude = 13.9
+vsx_id = CK Her
+asassn_id = 274878131393
+color_string =
+visual_inspection_comments =

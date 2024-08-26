@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 314.95674 -59.26878
+magnitude = 14.0
+vsx_id = AH Ind
+asassn_id = 627065954805
+color_string =
+visual_inspection_comments =

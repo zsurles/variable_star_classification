@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.74
+position = 306.309 -56.27666
+magnitude = 15.19
+vsx_id = IW Tel
+asassn_id = 635656047888
+color_string =
+visual_inspection_comments =

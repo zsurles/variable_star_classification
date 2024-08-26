@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 320.10439 10.56689
+magnitude = 15.1
+vsx_id = ST Equ
+asassn_id = 257698853603
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.86
+position = 316.92087 -58.73575
+magnitude = 13.3
+vsx_id = DL Ind
+asassn_id = 609886246766
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 352.38881 -72.5444
+magnitude = 12.184
+vsx_id = BK Tuc
+asassn_id = 532576609423
+color_string =
+visual_inspection_comments =

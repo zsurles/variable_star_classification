@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.89
+position = 307.09337 17.04139
+magnitude = 15.38
+vsx_id = VESPA_V31
+asassn_id = 171799053346
+color_string =
+visual_inspection_comments =

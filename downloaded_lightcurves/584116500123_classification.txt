@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.95
+position = 352.88838 -73.32203
+magnitude = 15.0
+vsx_id = BL Tuc
+asassn_id = 584116500123
+color_string =
+visual_inspection_comments =

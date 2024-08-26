@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.29
+position = 278.75579 -52.84449
+magnitude = 15.39
+vsx_id = EY Tel
+asassn_id = 661427652692
+color_string =
+visual_inspection_comments =

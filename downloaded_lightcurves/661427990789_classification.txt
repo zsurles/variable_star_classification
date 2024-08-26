@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.9
+position = 285.705 -30.97561
+magnitude = 14.266
+vsx_id = 1SWASP J190249.35-305828.3
+asassn_id = 661427990789
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 306.76084 -69.24171
+magnitude = 14.93
+vsx_id = IO Pav
+asassn_id = 549756147609
+color_string =
+visual_inspection_comments =

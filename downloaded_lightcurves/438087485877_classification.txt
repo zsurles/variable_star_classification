@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 283.08887 -37.34411
+magnitude = 13.4
+vsx_id = UW CrA
+asassn_id = 438087485877
+color_string =
+visual_inspection_comments =

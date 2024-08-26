@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.34
+position = 334.07389 -41.67703
+magnitude = 15.29
+vsx_id = TX Gru
+asassn_id = 472446476980
+color_string =
+visual_inspection_comments =

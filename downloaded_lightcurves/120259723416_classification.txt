@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 331.52908 50.23661
+magnitude = 15.0
+vsx_id = HY Lac
+asassn_id = 120259723416
+color_string =
+visual_inspection_comments =

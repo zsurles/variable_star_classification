@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 309.91254 3.8745
+magnitude = 13.69
+vsx_id = PZ Del
+asassn_id = 661428712604
+color_string =
+visual_inspection_comments =

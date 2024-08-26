@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_C
+class_probability = 0.58
+position = 288.71281 -17.72754
+magnitude = 12.83
+vsx_id = PS1-3PI J191451.07-174339.1
+asassn_id = 661428601767
+color_string =
+visual_inspection_comments =

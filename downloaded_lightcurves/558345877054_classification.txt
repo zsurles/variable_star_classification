@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 354.75363 -64.75864
+magnitude = 13.9
+vsx_id = EV Tuc
+asassn_id = 558345877054
+color_string =
+visual_inspection_comments =

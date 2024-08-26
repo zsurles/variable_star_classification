@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.93
+position = 296.14012 15.55808
+magnitude = 14.0
+vsx_id = NN Aql
+asassn_id = 274878882702
+color_string =
+visual_inspection_comments =

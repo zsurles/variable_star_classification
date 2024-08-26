@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.98
+position = 308.36542 4.65236
+magnitude = 14.06
+vsx_id = PU Del
+asassn_id = 438087806185
+color_string =
+visual_inspection_comments =
