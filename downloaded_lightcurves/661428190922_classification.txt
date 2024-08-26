@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.34
+position = 279.01758 -28.98053
+magnitude = 15.46
+vsx_id = MACHO 145.34147.20
+asassn_id = 661428190922
+color_string =
+visual_inspection_comments =

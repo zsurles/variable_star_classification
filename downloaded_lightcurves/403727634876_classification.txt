@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 303.15944 -72.92021
+magnitude = 15.15
+vsx_id = GY Pav
+asassn_id = 403727634876
+color_string =
+visual_inspection_comments =

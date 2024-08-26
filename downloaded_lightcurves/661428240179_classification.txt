@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.39
+position = 277.65 -28.45861
+magnitude = 15.1
+vsx_id = MACHO 139.31815.1453
+asassn_id = 661428240179
+color_string =
+visual_inspection_comments =

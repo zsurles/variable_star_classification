@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 299.70629 -75.48417
+magnitude = 13.5
+vsx_id = AC Oct
+asassn_id = 283468016731
+color_string =
+visual_inspection_comments =

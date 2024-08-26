@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_F
+class_probability = 0.45
+position = 290.92654 32.13222
+magnitude = 15.0
+vsx_id = V0441 Lyr
+asassn_id = 85900071630
+color_string =
+visual_inspection_comments =

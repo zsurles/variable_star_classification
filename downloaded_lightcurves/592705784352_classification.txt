@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.51
+position = 343.99512 -27.16595
+magnitude = 12.7
+vsx_id = AP PsA
+asassn_id = 592705784352
+color_string =
+visual_inspection_comments =

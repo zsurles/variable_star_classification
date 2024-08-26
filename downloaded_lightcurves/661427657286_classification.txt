@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.57
+position = 275.90471 -52.108
+magnitude = 14.7
+vsx_id = DN Tel
+asassn_id = 661427657286
+color_string =
+visual_inspection_comments =

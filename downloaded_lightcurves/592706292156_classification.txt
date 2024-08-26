@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 277.40517 -53.59539
+magnitude = 14.8
+vsx_id = EI Tel
+asassn_id = 592706292156
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_ESD
+class_probability = 0.71
+position = 281.43208 -6.39583
+magnitude = 13.2
+vsx_id = NSV 11307
+asassn_id = 231929107044
+color_string =
+visual_inspection_comments =

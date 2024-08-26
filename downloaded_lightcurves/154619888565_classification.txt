@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 308.27572 -38.77778
+magnitude = 13.55
+vsx_id = SX Mic
+asassn_id = 154619888565
+color_string =
+visual_inspection_comments =

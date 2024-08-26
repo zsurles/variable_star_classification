@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 305.17275 15.25417
+magnitude = 12.9
+vsx_id = RV Del
+asassn_id = 231929346957
+color_string =
+visual_inspection_comments =

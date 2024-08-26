@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 291.98358 24.34736
+magnitude = 10.308
+vsx_id = BN Vul
+asassn_id = 180389075463
+color_string =
+visual_inspection_comments =

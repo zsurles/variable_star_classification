@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.71
+position = 310.10083 -13.06614
+magnitude = 13.1
+vsx_id = WZ Aqr
+asassn_id = 274878473235
+color_string =
+visual_inspection_comments =

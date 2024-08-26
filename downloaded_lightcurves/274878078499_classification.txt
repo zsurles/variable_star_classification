@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.97
+position = 357.09078 -14.14017
+magnitude = 13.87
+vsx_id = HP Aqr
+asassn_id = 274878078499
+color_string =
+visual_inspection_comments =

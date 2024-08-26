@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.94
+position = 329.70983 28.05581
+magnitude = 14.58
+vsx_id = LU Peg
+asassn_id = 188979147260
+color_string =
+visual_inspection_comments =

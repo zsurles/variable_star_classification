@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.72
+position = 337.98453 -12.35549
+magnitude = 13.65
+vsx_id = Loneos-RR 508
+asassn_id = 661428629832
+color_string =
+visual_inspection_comments =

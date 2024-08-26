@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.73
+position = 291.14469 -10.23685
+magnitude = 15.25
+vsx_id = PS1-3PI J192434.71-101412.6
+asassn_id = 283469173382
+color_string =
+visual_inspection_comments =

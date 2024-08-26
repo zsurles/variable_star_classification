@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.89
+position = 282.18254 -31.32444
+magnitude = 15.313
+vsx_id = OGLE-BLG-RRLYR-37195
+asassn_id = 661427970972
+color_string =
+visual_inspection_comments =

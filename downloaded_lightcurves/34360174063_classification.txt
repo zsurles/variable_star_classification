@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 293.3365 80.92858
+magnitude = 12.08
+vsx_id = WY Dra
+asassn_id = 34360174063
+color_string =
+visual_inspection_comments =

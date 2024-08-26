@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 307.60919 -48.24963
+magnitude = 12.878
+vsx_id = SW Ind
+asassn_id = 472446848971
+color_string =
+visual_inspection_comments =

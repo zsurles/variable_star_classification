@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.38
+position = 302.83958 -7.51885
+magnitude = 14.7
+vsx_id = PS1-3PI J201121.49-073107.8
+asassn_id = 523986402514
+color_string =
+visual_inspection_comments =

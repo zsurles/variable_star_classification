@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 313.30244 -52.38991
+magnitude = 15.21
+vsx_id = USNO-B1.0 0376-1079637
+asassn_id = 609885820265
+color_string =
+visual_inspection_comments =

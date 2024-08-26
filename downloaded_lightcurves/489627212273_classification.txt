@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 324.75845 -21.21273
+magnitude = 11.9
+vsx_id = DL Cap
+asassn_id = 489627212273
+color_string =
+visual_inspection_comments =

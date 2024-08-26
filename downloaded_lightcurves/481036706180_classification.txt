@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.4
+position = 277.56892 -52.20822
+magnitude = 13.8
+vsx_id = V0373 Tel
+asassn_id = 481036706180
+color_string =
+visual_inspection_comments =

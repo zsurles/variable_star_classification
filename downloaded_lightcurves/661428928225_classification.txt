@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.81
+position = 331.03787 53.09953
+magnitude = 14.6
+vsx_id = HO Lac
+asassn_id = 661428928225
+color_string =
+visual_inspection_comments =

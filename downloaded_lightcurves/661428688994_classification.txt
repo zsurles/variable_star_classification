@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 0.53
+position = 323.33971 -0.80086
+magnitude = 15.48
+vsx_id = V0434 Aqr
+asassn_id = 661428688994
+color_string =
+visual_inspection_comments =

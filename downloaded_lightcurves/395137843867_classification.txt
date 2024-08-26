@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 318.82438 0.07636
+magnitude = 10.438
+vsx_id = SW Aqr
+asassn_id = 395137843867
+color_string =
+visual_inspection_comments =

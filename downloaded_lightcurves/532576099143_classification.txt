@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = CEPH_Other
+class_probability = 0.37
+position = 277.491 -53.30725
+magnitude = 14.5
+vsx_id = EM Tel
+asassn_id = 532576099143
+color_string =
+visual_inspection_comments =

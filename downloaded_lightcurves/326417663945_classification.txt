@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 308.10167 -11.42136
+magnitude = 13.23
+vsx_id = CZ Cap
+asassn_id = 326417663945
+color_string =
+visual_inspection_comments =

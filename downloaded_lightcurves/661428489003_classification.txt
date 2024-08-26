@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.96
+position = 279.06731 -23.78753
+magnitude = 14.04
+vsx_id = NGC 6656 V018
+asassn_id = 661428489003
+color_string =
+visual_inspection_comments =

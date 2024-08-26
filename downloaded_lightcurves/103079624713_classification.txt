@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.69
+position = 315.96475 39.07053
+magnitude = 12.73
+vsx_id = GSC 03168-00934
+asassn_id = 103079624713
+color_string =
+visual_inspection_comments =

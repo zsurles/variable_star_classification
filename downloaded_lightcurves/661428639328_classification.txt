@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_e
+class_probability = 0.6
+position = 283.12142 -10.20972
+magnitude = 14.13
+vsx_id = LN Sct
+asassn_id = 661428639328
+color_string =
+visual_inspection_comments =

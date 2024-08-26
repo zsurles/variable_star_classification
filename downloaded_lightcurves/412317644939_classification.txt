@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 321.31975 -41.61208
+magnitude = 14.73
+vsx_id = EH Mic
+asassn_id = 412317644939
+color_string =
+visual_inspection_comments =

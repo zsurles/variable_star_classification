@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = EB_ED
+class_probability = 1.0
+position = 281.94379 -6.34142
+magnitude = 14.1
+vsx_id = GR Sct
+asassn_id = 661428657788
+color_string =
+visual_inspection_comments =

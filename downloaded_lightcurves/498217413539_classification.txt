@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.41
+position = 298.81121 -55.07511
+magnitude = 14.54
+vsx_id = HR Tel
+asassn_id = 498217413539
+color_string =
+visual_inspection_comments =

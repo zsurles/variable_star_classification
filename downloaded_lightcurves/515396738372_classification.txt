@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 277.30767 -50.35208
+magnitude = 13.0
+vsx_id = EK Tel
+asassn_id = 515396738372
+color_string =
+visual_inspection_comments =

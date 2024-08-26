@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 305.81275 17.49061
+magnitude = 13.5
+vsx_id = CG Del
+asassn_id = 283467931075
+color_string =
+visual_inspection_comments =

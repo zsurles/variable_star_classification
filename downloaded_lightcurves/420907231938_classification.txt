@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_c
+class_probability = 0.33
+position = 322.55025 -44.25569
+magnitude = 13.78
+vsx_id = EQ Gru
+asassn_id = 420907231938
+color_string =
+visual_inspection_comments =

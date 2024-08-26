@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.9
+position = 340.43817 37.12111
+magnitude = 12.8
+vsx_id = V0473 Lac
+asassn_id = 34360678932
+color_string =
+visual_inspection_comments =

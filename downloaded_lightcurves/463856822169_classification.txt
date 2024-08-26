@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 310.42648 -44.30551
+magnitude = 14.27
+vsx_id = UV Mic
+asassn_id = 463856822169
+color_string =
+visual_inspection_comments =

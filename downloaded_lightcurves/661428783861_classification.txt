@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = EB_EC
+class_probability = 0.21
+position = 301.74721 20.86978
+magnitude = 15.0
+vsx_id = GW Sge
+asassn_id = 661428783861
+color_string =
+visual_inspection_comments =

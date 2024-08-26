@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 342.46867 45.60739
+magnitude = 14.03
+vsx_id = MarSEC_V3
+asassn_id = 103079676591
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.69
+position = 281.17062 6.31333
+magnitude = 14.391
+vsx_id = BEST lrcbx-645
+asassn_id = 352187711797
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.24
+position = 276.73132 -32.97887
+magnitude = 13.72
+vsx_id = VVV J182655.52-325844.0
+asassn_id = 661427896321
+color_string =
+visual_inspection_comments =

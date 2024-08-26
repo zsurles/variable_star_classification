@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = DSCT
+class_probability = 0.97
+position = 327.92746 61.0748
+magnitude = 15.357
+vsx_id = USNO-A2.0 1500-08484277
+asassn_id = 94490728057
+color_string =
+visual_inspection_comments =

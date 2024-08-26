@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 358.67355 -33.48128
+magnitude = 12.498
+vsx_id = TW Scl
+asassn_id = 592706363929
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = LPV_Mira_AGB_O
+class_probability = 0.29
+position = 319.77467 -33.91886
+magnitude = 9.04
+vsx_id = AW Mic
+asassn_id = 532576919216
+color_string =
+visual_inspection_comments =

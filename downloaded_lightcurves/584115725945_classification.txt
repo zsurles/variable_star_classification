@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 283.60679 -38.43222
+magnitude = 12.47
+vsx_id = CV CrA
+asassn_id = 584115725945
+color_string =
+visual_inspection_comments =

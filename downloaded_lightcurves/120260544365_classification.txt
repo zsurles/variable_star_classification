@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 306.749 26.19958
+magnitude = 15.0
+vsx_id = EG Vul
+asassn_id = 120260544365
+color_string =
+visual_inspection_comments =

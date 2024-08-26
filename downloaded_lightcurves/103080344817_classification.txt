@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = LPV_SRV_AGB_C
+class_probability = 0.32
+position = 336.0539 48.84005
+magnitude = 11.357
+vsx_id = WISE J222412.9+485024
+asassn_id = 103080344817
+color_string =
+visual_inspection_comments =

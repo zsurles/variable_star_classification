@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = T2CEPH
+class_probability = 0.48
+position = 307.88071 -74.60611
+magnitude = 13.3
+vsx_id = AI Oct
+asassn_id = 429496865287
+color_string =
+visual_inspection_comments =

@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.96
+position = 283.79513 -9.99728
+magnitude = 14.5
+vsx_id = CU Sct
+asassn_id = 661428640295
+color_string =
+visual_inspection_comments =

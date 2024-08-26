@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.48
+position = 359.73579 -44.67078
+magnitude = 14.3
+vsx_id = DV Phe
+asassn_id = 420907761095
+color_string =
+visual_inspection_comments =

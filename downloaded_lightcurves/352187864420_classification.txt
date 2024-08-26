@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 1 (0 - classification success, 1 - suspicious period)
+class = NonVar
+class_probability = 0.46
+position = 280.48583 -10.95583
+magnitude = 14.3
+vsx_id = FX Sct
+asassn_id = 352187864420
+color_string =
+visual_inspection_comments =

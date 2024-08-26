@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = CEPH_1O
+class_probability = 0.3
+position = 331.81429 -27.39575
+magnitude = 12.8
+vsx_id = AR PsA
+asassn_id = 584115898769
+color_string =
+visual_inspection_comments =

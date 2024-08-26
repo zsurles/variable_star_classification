@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 342.9185 -27.85403
+magnitude = 12.713
+vsx_id = SZ PsA
+asassn_id = 429496798221
+color_string =
+visual_inspection_comments =

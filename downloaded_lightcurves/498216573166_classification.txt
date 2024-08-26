@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.99
+position = 309.21794 -39.20164
+magnitude = 14.18
+vsx_id = SZ Mic
+asassn_id = 498216573166
+color_string =
+visual_inspection_comments =

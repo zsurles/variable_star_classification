@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 0.9
+position = 285.93275 -85.56983
+magnitude = 14.5
+vsx_id = VW Oct
+asassn_id = 17181187491
+color_string =
+visual_inspection_comments =

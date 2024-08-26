@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 331.08925 -45.41817
+magnitude = 13.5
+vsx_id = SX Gru
+asassn_id = 455267347565
+color_string =
+visual_inspection_comments =

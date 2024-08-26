@@ -1,0 +1,12 @@
+
+
+######### Classification results #########
+flag = 0 (0 - classification success, 1 - suspicious period)
+class = RRL_ab
+class_probability = 1.0
+position = 350.696 -30.11935
+magnitude = 11.649
+vsx_id = UZ Scl
+asassn_id = 523986438109
+color_string =
+visual_inspection_comments =
