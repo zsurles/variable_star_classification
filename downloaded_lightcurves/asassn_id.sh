@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 for i in *_classification.txt; do 
     if grep -q 'class = RR' "$i"; then                                                     
         asassn_id=$(basename "$i" _classification.txt)
