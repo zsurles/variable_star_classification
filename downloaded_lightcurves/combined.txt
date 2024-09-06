@@ -3817,7 +3817,7 @@ magnitude = 15.35
 vsx_id = SSS_J052326.0-615352
 asassn_id = 652835348222
 color_string =  SSS_J052326.0-615352         | 05:23:26.10 -61:53:52.5 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: C 2001A&A...369..932K [KDM2001] 3707  J-Ks=1.481+/-0.034 (Very red! L if it's a dwarf)
-visual_inspection_comments = eclipsing binary?
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -3841,7 +3841,7 @@ magnitude = 14.635
 vsx_id = SZ Dor
 asassn_id = 661427548636
 color_string =  SZ Dor                       | 05:06:50.38 -68:49:37.0 (Gaia DR3)  | RRAB (GCVS)      | 0.6881990000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.215+/-0.041 (F)
-visual_inspection_comments = corrupted data, likely RRab, check TESS
+visual_inspection_comments = true RRab, corrupted data
 
 
 ######### Classification results #########
@@ -3877,7 +3877,7 @@ magnitude = 11.66
 vsx_id = ASAS J051824+2033.7
 asassn_id = 661428782451
 color_string =  ASAS J051824+2033.7          | 05:18:24.18 +20:33:41.1 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.947170000000 (VSX) |  Gaia3var=VARIABLE        SpType: A1IV (LAMOST DR5)    J-Ks=0.288+/-0.027 (F)
-visual_inspection_comments = RRC or EW
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -3889,7 +3889,7 @@ magnitude = 14.04
 vsx_id = V0606 Cam
 asassn_id = 661428947928
 color_string =  V0606 Cam                    | 05:21:39.09 +62:20:18.5 (Gaia DR3)  | RR (GCVS)        | 0.4653240000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.568+/-0.035 (K)
-visual_inspection_comments = not sure, bump at the top
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -3901,7 +3901,7 @@ magnitude = 13.76
 vsx_id = PS1-3PI J053023.55+533025.5
 asassn_id = 68720345330
 color_string =  PS1-3PI J053023.55+533025.5  | 05:30:23.57 +53:30:25.5 (Gaia DR3)  | RRC (VSX)        | 0.400828000000 (VSX) |  Gaia3var=VARIABLE        SpType: A2IV (LAMOST DR5)    J-Ks=0.230+/-0.028 (F)
-visual_inspection_comments = eclipsing binary of some kind
+visual_inspection_comments = EA
 
 
 ######### Classification results #########
@@ -3961,7 +3961,7 @@ magnitude = 11.1
 vsx_id = ASAS J053306+0534.7
 asassn_id = 197569433146
 color_string =  ASAS J053306+0534.7          | 05:33:05.54 +05:34:40.9 (Gaia DR3)  | EC/RRC/DSCT (VSX) | 0.437995000000 (VSX) |  Gaia3var=VARIABLE        SpType: F6 (LAMOST DR5)      J-Ks=0.329+/-0.032 (G)
-visual_inspection_comments = RRC ?? - check
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
