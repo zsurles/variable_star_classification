@@ -24,6 +24,9 @@ def main():
     # Load J band extinction map
     combined19_J= mwdust.Combined19(filter='2MASS J')
     
+    # Load K band extinction map
+    combined19_K= mwdust.Combined19(filter='2MASS Ks')
+    
     # Create a SkyCoord object with equatorial coordinates (ICRS) and distance
     equatorial_coords = SkyCoord(ra=ra, dec=dec, distance=distance, frame='icrs')
 
@@ -33,11 +36,15 @@ def main():
     # Compute J band extinction
     combined19_J_result= combined19_J(equatorial_coords.galactic.l.value,equatorial_coords.galactic.b.value,galactic_coords.distance.value/1000)
 
+    # Compute K band extinction
+    combined19_K_result= combined19_K(equatorial_coords.galactic.l.value,equatorial_coords.galactic.b.value,galactic_coords.distance.value/1000)
+
     # Print the result
     print(f"Galactic Longitude (l): {galactic_coords.l:.6f}")
     print(f"Galactic Latitude (b): {galactic_coords.b:.6f}")
     print(f"Distance: {galactic_coords.distance:.6f}")
-    print(f"J band extinction at: {galactic_coords.distance:.6f} {combined19_J_result[0]:.6f}")
+    print(f"J band extinction at: {combined19_J_result[0]:.3f}")
+    print(f"K band extinction at: {combined19_K_result[0]:.3f}")
 
 if __name__ == "__main__":
     main()
