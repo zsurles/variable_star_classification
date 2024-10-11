@@ -38,14 +38,26 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # http://vizier.cds.unistra.fr/viz-bin/VizieR?-source=I/352&-to=3
  # lib/vizquery -site=vizier.cds.unistra.fr -mime=text -source=I/352 -out.max=1 -out.form=mini   -sort=_r -c='278.12175 -33.74589' -c.rs=1.5 -out=rgeo,b_rgeo,B_rgeo 2>&1 | grep -A3 'rgeo (pc)' | grep '\.'
  BailerJones_DISTANCE=$($LIB_VIZQUERY -site=vizier.cds.unistra.fr -mime=text -source=I/352 -out.max=1 -out.form=mini   -sort=_r -c="$VSXRA $VSXDec" -c.rs=1.5 -out=rgeo,b_rgeo,B_rgeo 2>&1 | grep -A3 'rgeo (pc)' | grep '\.')
+ DISTANCE=$(echo "$BailerJones_DISTANCE" | awk '{print $1}')
 
  # Infrared colors from 2MASS catalog
  # https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=II/246/out&-out.max=50&-out.form=HTML%20Table&-out.add=_r&-out.add=_RAJ,_DEJ&-sort=_r&-oc.form=sexa
  # lib/vizquery -site=vizier.cds.unistra.fr -mime=text -source=II/246 -out.max=1 -out.form=mini   -sort=_r -c='278.12175 -33.74589' -c.rs=1.5 -out=2MASS,Jmag,e_Jmag,Hmag,e_Hmag,Kmag,e_Kmag  2>&1 | grep -A3 '2MASS  ' | grep '\.'
  TWOMASS_INFO=$($LIB_VIZQUERY -site=vizier.cds.unistra.fr -mime=text -source=II/246 -out.max=1 -out.form=mini   -sort=_r -c="$VSXRA $VSXDec" -c.rs=1.5 -out=2MASS,Jmag,e_Jmag,Hmag,e_Hmag,Kmag,e_Kmag  2>&1 | grep -A3 '2MASS  ' | grep '\.')
+ JMAG=$(echo "$TWOMASS_INFO" | awk '{print $2}')
+ HMAG=$(echo "$TWOMASS_INFO" | awk '{print $4}')
+ KMAG=$(echo "$TWOMASS_INFO" | awk '{print $6}')
  
+ # Get extinction information
+ #EXTINCTION_SCRIPT_OUTPUT=$(./get_dust.py "$VSXRA" "$VSXDec" "$DISTANCE")
+ #A_JMAG=$(echo "$EXTINCTION_SCRIPT_OUTPUT" | grep )
+
+ # Get ASASSN ID from VSX name
+ ASASSN_ID=$(grep "  $VSXName" asassn_vsx_id.txt | awk '{print $1}')
+  
  # Print results
- echo "$GAIA_DR3_INFO  $BailerJones_DISTANCE  $TWOMASS_INFO   $VSXType $VSXRA $VSXDec $VSXMag $VSXName"
+ echo "$ASASSN_ID   $GAIA_DR3_INFO  $BailerJones_DISTANCE  $TWOMASS_INFO   $VSXType $VSXRA $VSXDec $VSXMag $VSXName"
+
  
 done 
 
