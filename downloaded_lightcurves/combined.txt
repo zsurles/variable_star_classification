@@ -4165,7 +4165,7 @@ magnitude = 12.752
 vsx_id = ASAS J053948-4052.7
 asassn_id = 523987126381
 color_string =  ASAS J053948-4052.7          | 05:39:47.63 -40:52:41.3 (Gaia DR3)  | EC/RRC (VSX)     | 0.475437000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.260+/-0.033 (F)
-visual_inspection_comments = need TESS
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -4201,7 +4201,7 @@ magnitude = 14.23
 vsx_id = CSS_J053458.2-132625
 asassn_id = 661428624685
 color_string =  CSS_J053458.2-132625         | 05:34:58.29 -13:26:25.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.468+/-0.036 (K)
-visual_inspection_comments = need TESS
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -4225,7 +4225,7 @@ magnitude = 13.1
 vsx_id = FM Aur
 asassn_id = 68720761137
 color_string =  FM Aur                       | 05:36:40.87 +31:56:11.6 (Gaia DR3)  | IS (GCVS)        |  (GCVS)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.542+/-0.040 (K)
-visual_inspection_comments = possibly constant, need TESS
+visual_inspection_comments = possibly constant
 
 
 ######### Classification results #########
@@ -4237,7 +4237,7 @@ magnitude = 13.27
 vsx_id = PS1-3PI J060429.15+291542.5
 asassn_id = 103080198482
 color_string =  PS1-3PI J060429.15+291542.5  | 06:04:29.16 +29:15:42.5 (Gaia DR3)  | RRC (VSX)        | 0.336408000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.415+/-0.030 (G)
-visual_inspection_comments = need TESS
+visual_inspection_comments = constant
 
 
 ######### Classification results #########
@@ -4273,7 +4273,7 @@ magnitude = 13.33
 vsx_id = ASASSN-V J055855.56+381442.8
 asassn_id = 128849649579
 color_string =  ASASSN-V J055855.56+381442.8 | 05:58:55.58 +38:14:42.7 (Gaia DR3)  | RRAB (VSX)       | 0.899749000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.544+/-0.028 (K)
-visual_inspection_comments =
+visual_inspection_comments = true RRab
 
 
 ######### Classification results #########
@@ -4285,7 +4285,7 @@ magnitude = 14.19
 vsx_id = ASASSN-V J060847.31+352048.3
 asassn_id = 146030271560
 color_string =  ASASSN-V J060847.31+352048.3 | 06:08:47.31 +35:20:48.3 (Gaia DR3)  | RRC (VSX)        | 0.216846000000 (VSX) |  Gaia3var=VARIABLE        SpType: F5 (LAMOST DR5)      J-Ks=0.378+/-0.046 (G)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -4297,7 +4297,7 @@ magnitude = 13.38
 vsx_id = ASASSN-V J062542.07+082944.4
 asassn_id = 154619380358
 color_string =  ASASSN-V J062542.07+082944.4 | 06:25:42.07 +08:29:44.5 (Gaia DR3)  | RRAB (VSX)       | 0.727830000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.465+/-0.031 (K)
-visual_inspection_comments =
+visual_inspection_comments = RRab??? check
 
 
 ######### Classification results #########
@@ -4309,7 +4309,7 @@ magnitude = 13.45
 vsx_id = CzeV1564
 asassn_id = 154619960168
 color_string =  CzeV1564 RR                  | 05:59:40.50 +20:39:21.9 (Gaia DR3)  | 0.170758000000 (VSX) |  (VSX)               |  Gaia3var=VARIABLE                                     J-Ks=0.486+/-0.033 (K)
-visual_inspection_comments =
+visual_inspection_comments = true RRab
 
 
 ######### Classification results #########
@@ -4321,7 +4321,7 @@ magnitude = 12.25
 vsx_id = DT Gem
 asassn_id = 163208826342
 color_string =  DT Gem                       | 06:06:58.09 +25:24:01.9 (Gaia DR3)  | RRC (GCVS)       | 0.6112879000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.428+/-0.028 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRab? check
 
 
 ######### Classification results #########
@@ -4333,7 +4333,7 @@ magnitude = 12.94
 vsx_id = PS1-3PI J062505.76+210644.3
 asassn_id = 171799551855
 color_string =  PS1-3PI J062505.76+210644.3  | 06:25:05.75 +21:06:44.3 (Gaia DR3)  | RRC (VSX)        | 0.449261000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.314+/-0.033 (F)
-visual_inspection_comments =
+visual_inspection_comments = possibly constant, confirm with TESS
 
 
 ######### Classification results #########
@@ -4345,7 +4345,7 @@ magnitude = 14.89
 vsx_id = PS1-3PI J061701.46+204323.9
 asassn_id = 180388810482
 color_string =  PS1-3PI J061701.46+204323.9  | 06:17:01.47 +20:43:24.0 (Gaia DR3)  | RRAB (VSX)       | 0.560769000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.299+/-0.045 (F)
-visual_inspection_comments =
+visual_inspection_comments = EA - Algol (Beta Persei)-type eclipsing
 
 
 ######### Classification results #########
@@ -4357,7 +4357,7 @@ magnitude = 13.8
 vsx_id = PS1-3PI J060238.71+201442.2
 asassn_id = 180389026379
 color_string =  PS1-3PI J060238.71+201442.2  | 06:02:38.72 +20:14:42.2 (Gaia DR3)  | RRAB (VSX)       | 0.560761000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.418+/-0.032 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4369,7 +4369,7 @@ magnitude = 12.57
 vsx_id = ASAS J060040+0701.5
 asassn_id = 180389352130
 color_string =  ASAS J060040+0701.5          | 06:00:39.87 +07:01:34.6 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.522524000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.237+/-0.032 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4381,7 +4381,7 @@ magnitude = 13.478
 vsx_id = WISE J063207.5+055902
 asassn_id = 188978867058
 color_string =  WISE J063207.5+055902        | 06:32:07.54 +05:59:02.4 (Gaia DR3)  | RRC (VSX)        | 0.371364900000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.681+/-0.053 (K)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4393,7 +4393,7 @@ magnitude = 12.61
 vsx_id = PS1-3PI J061901.19+092624.9
 asassn_id = 188978942812
 color_string =  PS1-3PI J061901.19+092624.9  | 06:19:01.18 +09:26:24.8 (Gaia DR3)  | RRC (VSX)        | 0.417119000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.280+/-0.032 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4405,7 +4405,7 @@ magnitude = 12.302
 vsx_id = WISE J060351.6+092206
 asassn_id = 188978966468
 color_string =  WISE J060351.6+092206        | 06:03:51.69 +09:22:06.2 (Gaia DR3)  | RRC (VSX)        | 0.369311500000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.320+/-0.038 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4417,7 +4417,7 @@ magnitude = 13.7
 vsx_id = NSV 2975
 asassn_id = 188979287356
 color_string =  NSV 2975                     | 06:28:59.10 +08:19:49.3 (Gaia DR3)  | RR: (VSX)        |  (VSX)               |  Gaia3var=VARIABLE                                     J-Ks=0.700+/-0.030 (K)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4429,7 +4429,7 @@ magnitude = 11.33
 vsx_id = EPIC 202095353
 asassn_id = 188979681990
 color_string =  EPIC 202095353               | 06:13:11.24 +20:00:39.7 (Gaia DR3)  | RRC (VSX)        | 0.230504000000 (VSX) |  Gaia3var=VARIABLE        SpType: A3IV (LAMOST DR5)    J-Ks=0.190+/-0.029 (F)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -4441,7 +4441,7 @@ magnitude = 13.42
 vsx_id = PS1-3PI J062323.01+191930.3
 asassn_id = 188979689746
 color_string =  PS1-3PI J062323.01+191930.3  | 06:23:23.02 +19:19:30.3 (Gaia DR3)  | RRC (VSX)        | 0.358414000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.254+/-0.035 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4453,7 +4453,7 @@ magnitude = 12.62
 vsx_id = ASAS J062603-3015.5
 asassn_id = 197568788689
 color_string =  ASAS J062603-3015.5          | 06:26:02.78 -30:15:33.7 (Gaia DR3)  | EC/RRC/DSCT (VSX) | 0.444078000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.269+/-0.035 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4465,7 +4465,7 @@ magnitude = 10.74
 vsx_id = ASAS J055734+2020.2
 asassn_id = 197569593750
 color_string =  ASAS J055734+2020.2          | 05:57:33.54 +20:20:15.2 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.295076000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.235+/-0.028 (F)
-visual_inspection_comments =
+visual_inspection_comments = possibly RRC, need TESS
 
 
 ######### Classification results #########
@@ -4477,7 +4477,7 @@ magnitude = 13.34
 vsx_id = ASAS J061040+2025.4
 asassn_id = 197569600960
 color_string =  ASAS J061040+2025.4          | 06:10:39.73 +20:25:25.1 (Gaia DR3)  | RRC (VSX)        | 0.262481000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.285+/-0.030 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4489,7 +4489,7 @@ magnitude = 11.924
 vsx_id = WISE J055630.5+434818
 asassn_id = 206158779133
 color_string =  WISE J055630.5+434818        | 05:56:30.58 +43:48:18.7 (Gaia DR3)  | RRC (VSX)        | 0.418255900000 (VSX) |  Gaia3var=VARIABLE        SpType: A5V (LAMOST DR5)     J-Ks=0.306+/-0.032 (F)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -4501,7 +4501,7 @@ magnitude = 12.74
 vsx_id = ASAS J054840+1817.3
 asassn_id = 206159718386
 color_string =  ASAS J054840+1817.3          | 05:48:39.98 +18:17:18.8 (Gaia DR3)  | RRC/EC (VSX)     | 0.387248000000 (VSX) |  Gaia3var=NOT_AVAILABLE   SpType: F3 (LAMOST DR5)      J-Ks=0.287+/-0.035 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4513,7 +4513,7 @@ magnitude = 12.23
 vsx_id = ASAS J060058+1717.1
 asassn_id = 214748986801
 color_string =  ASAS J060058+1717.1          | 06:00:58.39 +17:17:06.6 (Gaia DR3)  | EC/RRC (VSX)     | 0.438105000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.292+/-0.033 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4525,7 +4525,7 @@ magnitude = 13.21
 vsx_id = ASAS J055635+1617.9
 asassn_id = 214749330205
 color_string =  ASAS J055635+1617.9          | 05:56:34.37 +16:17:52.5 (Gaia DR3)  | RRAB/EC (VSX)    | 0.547980000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.482+/-0.028 (K)
-visual_inspection_comments =
+visual_inspection_comments = RRab? check
 
 
 ######### Classification results #########
@@ -4537,7 +4537,7 @@ magnitude = 14.098
 vsx_id = WISE J054744.7+494311
 asassn_id = 214749476591
 color_string =  WISE J054744.7+494311        | 05:47:44.76 +49:43:11.0 (Gaia DR3)  | RR (VSX)         | 0.447447900000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.232+/-0.066 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4549,7 +4549,7 @@ magnitude = 15.29
 vsx_id = PS1-3PI J063457.17-205830.2
 asassn_id = 240518432845
 color_string =  PS1-3PI J063457.17-205830.2  | 06:34:57.17 -20:58:30.1 (Gaia DR3)  | RRC (VSX)        | 0.394067000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.252+/-0.071 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4561,7 +4561,7 @@ magnitude = 13.14
 vsx_id = ASAS J060832+1127.5
 asassn_id = 240519011488
 color_string =  ASAS J060832+1127.5          | 06:08:32.41 +11:27:26.4 (Gaia DR3)  | ESD/RRC/EC (VSX) | 0.577078000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.244+/-0.034 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4573,7 +4573,7 @@ magnitude = 10.74
 vsx_id = ASAS J055713+1329.5
 asassn_id = 249109324902
 color_string =  ASAS J055713+1329.5          | 05:57:13.05 +13:29:27.4 (Gaia DR3)  | ESD/RRC/EC (VSX) | 0.794620000000 (VSX) |  Gaia3var=NOT_AVAILABLE   SpType: A3 1931AnHar.100...61C HD 249581  J-Ks=0.137+/-0.026 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4585,7 +4585,7 @@ magnitude = 15.23
 vsx_id = [MVD2012] 1102
 asassn_id = 249109383599
 color_string =  [MVD2012] 1102               | 06:35:39.68 -04:56:24.7 (Gaia DR3)  | RRAB (VSX)       | 0.639896000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.582+/-0.047 (K)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -4597,7 +4597,7 @@ magnitude = 15.07
 vsx_id = PS1-3PI J062947.07+631432.8
 asassn_id = 25770079621
 color_string =  PS1-3PI J062947.07+631432.8  | 06:29:47.08 +63:14:32.7 (Gaia DR3)  | RRC (VSX)        | 0.396046000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.224+/-0.064 (F)
-visual_inspection_comments =
+visual_inspection_comments = true RRab
 
 
 ######### Classification results #########
@@ -4609,7 +4609,7 @@ magnitude = 12.18
 vsx_id = ASAS J061101+0458.6
 asassn_id = 266288192566
 color_string =  ASAS J061101+0458.6          | 06:11:00.73 +04:58:34.8 (Gaia DR3)  | EC/RRC (VSX)     | 0.490314000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.299+/-0.038 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4621,7 +4621,7 @@ magnitude = 10.49
 vsx_id = ASAS J055333+1751.9
 asassn_id = 266288496616
 color_string =  ASAS J055333+1751.9          | 05:53:32.82 +17:51:55.4 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.674910000000 (VSX) |  Gaia3var=VARIABLE        SpType: A3 1931AnHar.100...61C HD 248845  J-Ks=0.167+/-0.038 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4633,7 +4633,7 @@ magnitude = 14.32
 vsx_id = PS1-3PI J063458.36+123747.1
 asassn_id = 266289158831
 color_string =  PS1-3PI J063458.36+123747.1  | 06:34:58.37 +12:37:47.2 (Gaia DR3)  | RRC (VSX)        | 0.272331000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.269+/-0.035 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4645,7 +4645,7 @@ magnitude = 11.29
 vsx_id = ASAS J061804-1359.2
 asassn_id = 274878440163
 color_string =  ASAS J061804-1359.2          | 06:18:04.40 -13:59:13.2 (Gaia DR3)  | EC/RRC/DSCT/ESD (VSX) | 0.400870000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.315+/-0.031 (F)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -4657,7 +4657,7 @@ magnitude = 13.19
 vsx_id = ASAS J060230-7346.8
 asassn_id = 283468920099
 color_string =  ASAS J060230-7346.8          | 06:02:30.21 -73:46:47.6 (Gaia DR3)  | EC/RRC/DSCT/ESD (VSX) | 0.430014000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.322+/-0.032 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4669,7 +4669,7 @@ magnitude = 12.568
 vsx_id = WISE J061449.6+100741
 asassn_id = 292057812787
 color_string =  WISE J061449.6+100741        | 06:14:49.62 +10:07:41.4 (Gaia DR3)  | RRAB (VSX)       | 0.702568800000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.217+/-0.042 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4681,7 +4681,7 @@ magnitude = 13.48
 vsx_id = CSS_J055935.1-082641
 asassn_id = 292058115652
 color_string =  CSS_J055935.1-082641         | 05:59:35.21 -08:26:42.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.271+/-0.038 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4693,7 +4693,7 @@ magnitude = 11.49
 vsx_id = ASAS J062411-1504.9
 asassn_id = 300648008374
 color_string =  ASAS J062411-1504.9          | 06:24:11.30 -15:04:55.1 (Gaia DR3)  | MISC/RRAB (VSX)  | 89.800000000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=1.259+/-8.891 (Very red! L if it's a dwarf)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4705,7 +4705,7 @@ magnitude = 15.36
 vsx_id = [MVD2012] 1099
 asassn_id = 300648212967
 color_string =  [MVD2012] 1099               | 06:25:25.33 -02:41:51.6 (Gaia DR3)  | RRAB (VSX)       | 0.498496000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=1.439+/-0.035 (Very red! L if it's a dwarf)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4717,7 +4717,7 @@ magnitude = 12.49
 vsx_id = ASAS J063355-0128.1
 asassn_id = 300648843123
 color_string =  ASAS J063355-0128.1          | 06:33:55.02 -01:28:07.6 (Gaia DR3)  | EC/RRC (VSX)     | 0.813280000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.366+/-0.032 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4729,7 +4729,7 @@ magnitude = 14.632
 vsx_id = CSS_J055713.7-140529
 asassn_id = 309238303823
 color_string =  CSS_J055713.7-140529         | 05:57:13.80 -14:05:29.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.766+/-0.042 (K)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4741,7 +4741,7 @@ magnitude = 9.41
 vsx_id = ASAS J063358-4629.9
 asassn_id = 317828095412
 color_string =  ASAS J063358-4629.9          | 06:33:58.08 -46:29:56.0 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.243548000000 (VSX) |  Gaia3var=VARIABLE        SpType: F0V 1978MSS...C02....0H HD 46998  J-Ks=0.169+/-0.035 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4753,7 +4753,7 @@ magnitude = 15.47
 vsx_id = [MVD2012] 1093
 asassn_id = 317828418853
 color_string =  [MVD2012] 1093               | 06:14:57.46 -02:10:27.3 (Gaia DR3)  | RRC (VSX)        | 0.289360000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.484+/-0.040 (K)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -4765,7 +4765,7 @@ magnitude = 11.92
 vsx_id = ASAS J062039-2834.3
 asassn_id = 335008647542
 color_string =  ASAS J062039-2834.3          | 06:20:38.95 -28:34:16.5 (Gaia DR3)  | MISC/RRAB (VSX)  | 116.300000000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=1.181+/-0.038 (M)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4777,7 +4777,7 @@ magnitude = 14.49
 vsx_id = PS1-3PI J062358.93+650456.2
 asassn_id = 34360308704
 color_string =  PS1-3PI J062358.93+650456.2  | 06:23:58.94 +65:04:56.3 (Gaia DR3)  | RRC (VSX)        | 0.268672000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.214+/-0.041 (F)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -4789,7 +4789,7 @@ magnitude = 14.972
 vsx_id = CSS_J060910.5-030851
 asassn_id = 360777458263
 color_string =  CSS_J060910.5-030851         | 06:09:10.61 -03:08:51.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.705+/-0.043 (K)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -4801,7 +4801,7 @@ magnitude = 14.86
 vsx_id = SSS_J062526.9-420441
 asassn_id = 360778415171
 color_string =  SSS_J062526.9-420441         | 06:25:26.96 -42:04:42.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.189+/-0.069 (F)
-visual_inspection_comments =
+visual_inspection_comments = true RRC
 
 
 ######### Classification results #########
@@ -4813,7 +4813,7 @@ magnitude = 12.67
 vsx_id = ASAS J063045+0321.5
 asassn_id = 377957226175
 color_string =  ASAS J063045+0321.5          | 06:30:45.48 +03:21:30.0 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.561380000000 (VSX) |  Gaia3var=VARIABLE        SpType: F3 (LAMOST DR5)      J-Ks=0.260+/-0.033 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW - W Ursae Majoris-type Eclipsing
 
 
 ######### Classification results #########
@@ -4825,7 +4825,7 @@ magnitude = 11.3
 vsx_id = ASAS J062332-2849.2
 asassn_id = 377957569492
 color_string =  ASAS J062332-2849.2          | 06:23:31.54 -28:49:16.3 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.526762000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.166+/-0.031 (F)
-visual_inspection_comments =
+visual_inspection_comments = possibly RRC, need TESS
 
 
 ######### Classification results #########
@@ -4837,7 +4837,7 @@ magnitude = 9.29
 vsx_id = ASAS J062909-2749.5
 asassn_id = 377957858376
 color_string =  ASAS J062909-2749.5          | 06:29:08.79 -27:49:31.2 (Gaia DR3)  | MISC/RRAB/DCEP-FO (VSX) | 60.070000000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=1.312+/-0.368 (Very red! L if it's a dwarf)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -4849,7 +4849,7 @@ magnitude = 9.96
 vsx_id = ASAS J055405+1552.8
 asassn_id = 386547625158
 color_string =  ASAS J055405+1552.8          | 05:54:05.12 +15:52:46.1 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.381483000000 (VSX) |  Gaia3var=VARIABLE        SpType: F5 1931AnHar.100...61C HD 248952  J-Ks=0.191+/-0.028 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
