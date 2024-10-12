@@ -39,6 +39,8 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # lib/vizquery -site=vizier.cds.unistra.fr -mime=text -source=I/352 -out.max=1 -out.form=mini   -sort=_r -c='278.12175 -33.74589' -c.rs=1.5 -out=rgeo,b_rgeo,B_rgeo 2>&1 | grep -A3 'rgeo (pc)' | grep '\.'
  BailerJones_DISTANCE=$($LIB_VIZQUERY -site=vizier.cds.unistra.fr -mime=text -source=I/352 -out.max=1 -out.form=mini   -sort=_r -c="$VSXRA $VSXDec" -c.rs=1.5 -out=rgeo,b_rgeo,B_rgeo 2>&1 | grep -A3 'rgeo (pc)' | grep '\.')
  DISTANCE=$(echo "$BailerJones_DISTANCE" | awk '{print $1}')
+ DISTANCE_LOW=$(echo "$BailerJones_DISTANCE" | awk '{print $2}')
+ DISTANCE_HIGH=$(echo "$BailerJones_DISTANCE" | awk '{print $3}')
 
  # Infrared colors from 2MASS catalog
  # https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=II/246/out&-out.max=50&-out.form=HTML%20Table&-out.add=_r&-out.add=_RAJ,_DEJ&-sort=_r&-oc.form=sexa
@@ -56,9 +58,16 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  EXTINCTION_CORRECTION_JMAG_BESTDIST=$(echo "$GET_DUST_OUTPUT" | grep 'J band extinction' | awk '{print $4}')
  EXTINCTION_CORRECTION_HMAG_BESTDIST=$(echo "$GET_DUST_OUTPUT" | grep 'H band extinction' | awk '{print $4}')
  EXTINCTION_CORRECTION_KMAG_BESTDIST=$(echo "$GET_DUST_OUTPUT" | grep 'K band extinction' | awk '{print $4}')
- #EXTINCTION_CORRECTED_JMAG_BESTDIST=$(echo "$JMAG" "$EXTINCTION_CORRECTION_JMAG_BESTDIST" | awk '{printf "%6.3f\n", $1 - $2}')
- #EXTINCTION_CORRECTED_HMAG_BESTDIST=$(echo "$HMAG" "$EXTINCTION_CORRECTION_HMAG_BESTDIST" | awk '{printf "%6.3f\n", $1 - $2}')
- #EXTINCTION_CORRECTED_KMAG_BESTDIST=$(echo "$KMAG" "$EXTINCTION_CORRECTION_KMAG_BESTDIST" | awk '{printf "%6.3f\n", $1 - $2}')
+ 
+ GET_DUST_OUTPUT=$(./get_dust.py "$VSXRA" "$VSXDec" "$DISTANCE_LOW") 
+ EXTINCTION_CORRECTION_JMAG_DIST_LOW=$(echo "$GET_DUST_OUTPUT" | grep 'J band extinction' | awk '{print $4}')
+ EXTINCTION_CORRECTION_HMAG_DIST_LOW=$(echo "$GET_DUST_OUTPUT" | grep 'H band extinction' | awk '{print $4}')
+ EXTINCTION_CORRECTION_KMAG_DIST_LOW=$(echo "$GET_DUST_OUTPUT" | grep 'K band extinction' | awk '{print $4}')
+ 
+ GET_DUST_OUTPUT=$(./get_dust.py "$VSXRA" "$VSXDec" "$DISTANCE_HIGH") 
+ EXTINCTION_CORRECTION_JMAG_DIST_HIGH=$(echo "$GET_DUST_OUTPUT" | grep 'J band extinction' | awk '{print $4}')
+ EXTINCTION_CORRECTION_HMAG_DIST_HIGH=$(echo "$GET_DUST_OUTPUT" | grep 'H band extinction' | awk '{print $4}')
+ EXTINCTION_CORRECTION_KMAG_DIST_HIGH=$(echo "$GET_DUST_OUTPUT" | grep 'K band extinction' | awk '{print $4}')
  
  # M = m + 5 - 5 * log10(r_pc) - A
  # where M is the absolute magnitude
@@ -67,6 +76,8 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # A is the extinciton in magnitudes
  #echo "100" | awk '{print log($1)/log(10)}'
  EXTINCTION_CORRECTED_ABSJMAG_BESTDIST=$(echo "$JMAG" "$DISTANCE" "$EXTINCTION_CORRECTION_JMAG_BESTDIST" | awk '{printf "%+7.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
+ EXTINCTION_CORRECTED_ABSJMAG_LOWDIST=$(echo "$JMAG" "$DISTANCE_LOW" "$EXTINCTION_CORRECTION_JMAG_DIST_LOW" | awk '{printf "%+7.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
+ EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST=$(echo "$JMAG" "$DISTANCE_HIGH" "$EXTINCTION_CORRECTION_JMAG_DIST_HIGH" | awk '{printf "%+7.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
 
 
  # Get ASASSN ID from VSX name
@@ -76,7 +87,7 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # Print results
  echo "$ASASSN_ID   $GAIA_DR3_INFO  $BailerJones_DISTANCE  $TWOMASS_INFO   $VSXType $VSXRA $VSXDec $VSXMag $VSXName"
 
- echo "$EXTINCTION_CORRECTED_ABSJMAG_BESTDIST   $EXTINCTION_CORRECTED_JMAG_BESTDIST  $EXTINCTION_CORRECTED_HMAG_BESTDIST $EXTINCTION_CORRECTED_KMAG_BESTDIST  $ASASSN_ID   $VSXName"
+ echo "$EXTINCTION_CORRECTED_ABSJMAG_BESTDIST  $EXTINCTION_CORRECTED_ABSJMAG_LOWDIST  $EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST   $EXTINCTION_CORRECTED_JMAG_BESTDIST  $EXTINCTION_CORRECTED_HMAG_BESTDIST $EXTINCTION_CORRECTED_KMAG_BESTDIST  $ASASSN_ID   $VSXName"
  
 done 
 
