@@ -51,13 +51,32 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # Get extinction information
  #EXTINCTION_SCRIPT_OUTPUT=$(./get_dust.py "$VSXRA" "$VSXDec" "$DISTANCE")
  #A_JMAG=$(echo "$EXTINCTION_SCRIPT_OUTPUT" | grep )
+ 
+ GET_DUST_OUTPUT=$(./get_dust.py "$VSXRA" "$VSXDec" "$DISTANCE") 
+ EXTINCTION_CORRECTION_JMAG_BESTDIST=$(echo "$GET_DUST_OUTPUT" | grep 'J band extinction' | awk '{print $4}')
+ EXTINCTION_CORRECTION_HMAG_BESTDIST=$(echo "$GET_DUST_OUTPUT" | grep 'H band extinction' | awk '{print $4}')
+ EXTINCTION_CORRECTION_KMAG_BESTDIST=$(echo "$GET_DUST_OUTPUT" | grep 'K band extinction' | awk '{print $4}')
+ #EXTINCTION_CORRECTED_JMAG_BESTDIST=$(echo "$JMAG" "$EXTINCTION_CORRECTION_JMAG_BESTDIST" | awk '{printf "%6.3f\n", $1 - $2}')
+ #EXTINCTION_CORRECTED_HMAG_BESTDIST=$(echo "$HMAG" "$EXTINCTION_CORRECTION_HMAG_BESTDIST" | awk '{printf "%6.3f\n", $1 - $2}')
+ #EXTINCTION_CORRECTED_KMAG_BESTDIST=$(echo "$KMAG" "$EXTINCTION_CORRECTION_KMAG_BESTDIST" | awk '{printf "%6.3f\n", $1 - $2}')
+ 
+ # M = m + 5 - 5 * log10(r_pc) - A
+ # where M is the absolute magnitude
+ # m is the apparent magnitude
+ # r_pc is the distance in pc
+ # A is the extinciton in magnitudes
+ #echo "100" | awk '{print log($1)/log(10)}'
+ EXTINCTION_CORRECTED_ABSJMAG_BESTDIST=$(echo "$JMAG" "$DISTANCE" "$EXTINCTION_CORRECTION_JMAG_BESTDIST" | awk '{printf "%+7.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
+
 
  # Get ASASSN ID from VSX name
- ASASSN_ID=$(grep "  $VSXName" asassn_vsx_id.txt | awk '{print $1}')
+ # '$' here is the mark that VSXName should be at the end of the line
+ ASASSN_ID=$(grep "  $VSXName$" asassn_vsx_id.txt | awk '{print $1}')
   
  # Print results
  echo "$ASASSN_ID   $GAIA_DR3_INFO  $BailerJones_DISTANCE  $TWOMASS_INFO   $VSXType $VSXRA $VSXDec $VSXMag $VSXName"
 
+ echo "$EXTINCTION_CORRECTED_ABSJMAG_BESTDIST   $EXTINCTION_CORRECTED_JMAG_BESTDIST  $EXTINCTION_CORRECTED_HMAG_BESTDIST $EXTINCTION_CORRECTED_KMAG_BESTDIST  $ASASSN_ID   $VSXName"
  
 done 
 
