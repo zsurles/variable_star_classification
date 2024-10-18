@@ -5461,7 +5461,7 @@ magnitude = 15.0
 vsx_id = PS1-3PI J055724.77+215410.4
 asassn_id = 661428788329
 color_string =  PS1-3PI J055724.77+215410.4  | 05:57:24.78 +21:54:10.4 (Gaia DR3)  | RRAB (VSX)       | 0.555490000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.401+/-0.036 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW? confirm with TESS
 
 
 ######### Classification results #########
