@@ -23,6 +23,14 @@ if [ ! -f rrlyr_vsx_clean2_magnitude_filtered.txt ];then
  exit 1
 fi
 
+echo "Reading the input list of stars from 'rrlyr_vsx_clean2_magnitude_filtered.txt' and writing the output to 'distance_color_type_for_all_stars.txt'
+The script $0 will take a very long time to run!!!"
+
+if [ -f distance_color_type_for_all_stars.txt ];then
+ echo "Found 'distance_color_type_for_all_stars.txt' from a previous run - let's back up it"
+ mv -v distance_color_type_for_all_stars.txt distance_color_type_for_all_stars.txt_backup$(date "+%Y%m%d_%H%M%S")
+fi
+
 grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType VSXRA VSXDec VSXMag VSXName ;do
 
  # Get ASASSN ID from VSX name
@@ -102,9 +110,9 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
   EXTINCTION_CORRECTED_ABSJMAG_LOWDIST=$(echo "$JMAG" "$DISTANCE_LOW" "$EXTINCTION_CORRECTION_JMAG_DIST_LOW" | awk '{printf "%+6.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
   EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST=$(echo "$JMAG" "$DISTANCE_HIGH" "$EXTINCTION_CORRECTION_JMAG_DIST_HIGH" | awk '{printf "%+6.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
  else
-  EXTINCTION_CORRECTED_ABSJMAG_BESTDIST="9.999"
-  EXTINCTION_CORRECTED_ABSJMAG_LOWDIST="9.999"
-  EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST="9.999"
+  EXTINCTION_CORRECTED_ABSJMAG_BESTDIST="+9.999"
+  EXTINCTION_CORRECTED_ABSJMAG_LOWDIST="+9.999"
+  EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST="+9.999"
  fi
 
 
@@ -125,7 +133,11 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  PADDED_VSXName="$VSXName"
   
  # Print results
- echo "ASASSN $PADDED_ASASSN_ID  distance_pc= $DISTANCE $DISTANCE_LOW $DISTANCE_HIGH  J= $PADDED_JMAG $PADDED_JMAG_ERR K= $PADDED_KMAG $PADDED_KMAG_ERR  MabsJ= $EXTINCTION_CORRECTED_ABSJMAG_BESTDIST $EXTINCTION_CORRECTED_ABSJMAG_LOWDIST $EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST  A_J= $EXTINCTION_CORRECTION_JMAG_BESTDIST $EXTINCTION_CORRECTION_JMAG_DIST_LOW $EXTINCTION_CORRECTION_JMAG_DIST_HIGH A_K= $EXTINCTION_CORRECTION_KMAG_BESTDIST $EXTINCTION_CORRECTION_KMAG_DIST_LOW $EXTINCTION_CORRECTION_KMAG_DIST_HIGH  MLType= $PADDED_ML_CLASSIFIER_TYPE VisType= $PADDED_VISUAL_CLASSIFICATION VSXType= $PADDED_VSXType VSX_RA_Dec_Name= $PADDED_VSXRA $PADDED_VSXDec $PADDED_VSXName"
+ echo "ASASSN $PADDED_ASASSN_ID  distance_pc= $DISTANCE $DISTANCE_LOW $DISTANCE_HIGH  J= $PADDED_JMAG $PADDED_JMAG_ERR K= $PADDED_KMAG $PADDED_KMAG_ERR  MabsJ= $EXTINCTION_CORRECTED_ABSJMAG_BESTDIST $EXTINCTION_CORRECTED_ABSJMAG_LOWDIST $EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST  A_J= $EXTINCTION_CORRECTION_JMAG_BESTDIST $EXTINCTION_CORRECTION_JMAG_DIST_LOW $EXTINCTION_CORRECTION_JMAG_DIST_HIGH A_K= $EXTINCTION_CORRECTION_KMAG_BESTDIST $EXTINCTION_CORRECTION_KMAG_DIST_LOW $EXTINCTION_CORRECTION_KMAG_DIST_HIGH  MLType= $PADDED_ML_CLASSIFIER_TYPE VisType= $PADDED_VISUAL_CLASSIFICATION VSXType= $PADDED_VSXType VSX_RA_Dec_Name= $PADDED_VSXRA $PADDED_VSXDec $PADDED_VSXName" >> distance_color_type_for_all_stars.txt
+
+ # Terminal output to entertain the user
+ tail -n 1 distance_color_type_for_all_stars.txt
  
 done 
 
+echo "The results are written to distance_color_type_for_all_stars.txt"
