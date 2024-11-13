@@ -7681,7 +7681,7 @@ magnitude = 13.03
 vsx_id = ASAS J072735+1414.5
 asassn_id = 257698088276
 color_string =  ASAS J072735+1414.5          | 07:27:34.80 +14:14:29.4 (Gaia DR3)  | EC/RRC/DSCT/ESD (VSX) | 0.409777000000 (VSX) |  Gaia3var=VARIABLE        SpType: G3 (LAMOST DR5)      J-Ks=0.389+/-0.038 (G)
-visual_inspection_comments = EB
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -7693,7 +7693,7 @@ magnitude = 14.57
 vsx_id = BESTII F20b_26889
 asassn_id = 257698534649
 color_string =  BESTII F20b_26889            | 07:27:26.05 -30:25:23.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.828+/-0.035 (M)
-visual_inspection_comments = constant (probably)
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
