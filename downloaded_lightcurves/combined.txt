@@ -14089,7 +14089,7 @@ magnitude = 12.82
 vsx_id = ASAS J094318-6131.9
 asassn_id = 652835609661
 color_string =  ASAS J094318-6131.9          | 09:43:18.02 -61:31:57.2 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.514578000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.248+/-0.035 (F)
-visual_inspection_comments = 
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -14101,7 +14101,7 @@ magnitude = 13.52
 vsx_id = ASASSN-V J125559.44-603302.4
 asassn_id = 652835726582
 color_string =  ASASSN-V J125559.44-603302.4 | 12:55:59.43 -60:33:02.4 (Gaia DR3)  | RRC (VSX)        | 0.218969000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.341+/-0.033 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -14113,7 +14113,7 @@ magnitude = 12.18
 vsx_id = ASAS J121806-6523.0
 asassn_id = 652835985631
 color_string =  ASAS J121806-6523.0          | 12:18:06.08 -65:23:05.9 (Gaia DR3)  | EC/RRC (VSX)     | 0.453226000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.419+/-0.035 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -14125,7 +14125,7 @@ magnitude = 13.06
 vsx_id = ASASSN-V J105932.41-613305.8
 asassn_id = 661425035313
 color_string =  ASASSN-V J105932.41-613305.8 | 10:59:32.39 -61:33:05.8 (Gaia DR3)  | RRAB (VSX)       | 0.472723000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.283+/-0.033 (F)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -14137,7 +14137,7 @@ magnitude = 10.67
 vsx_id = ASAS J114652-5902.9
 asassn_id = 661425066121
 color_string =  ASAS J114652-5902.9          | 11:46:52.06 -59:02:51.6 (Gaia DR3)  | EC/RRAB/DCEP-FO/ESD (VSX) | 1.138200000000 (VSX) |  Gaia3var=VARIABLE        SpType: B8 1976A&AS...23..283L LLNS 6250  J-Ks=0.070+/-0.040 (A)
-visual_inspection_comments =
+visual_inspection_comments = EB
 
 
 ######### Classification results #########
