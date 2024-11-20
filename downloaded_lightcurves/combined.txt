@@ -14149,7 +14149,7 @@ magnitude = 12.01
 vsx_id = ASASSN-V J093003.98-640057.3
 asassn_id = 661425194478
 color_string =  ASASSN-V J093003.98-640057.3 | 09:30:03.94 -64:00:57.1 (Gaia DR3)  | RRC (VSX)        | 0.476143000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.427+/-0.035 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -14161,7 +14161,7 @@ magnitude = 12.15
 vsx_id = ASASSN-V J115136.08-604352.6
 asassn_id = 661425325050
 color_string =  ASASSN-V J115136.08-604352.6 | 11:51:36.05 -60:43:52.5 (Gaia DR3)  | RRC (VSX)        | 0.192203000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.306+/-0.031 (F)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -14173,7 +14173,7 @@ magnitude = 12.65
 vsx_id = ASASSN-V J100933.73-600345.4
 asassn_id = 661425401347
 color_string =  ASASSN-V J100933.73-600345.4 | 10:09:33.72 -60:03:45.3 (Gaia DR3)  | RRC (VSX)        | 0.296778000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.887+/-0.035 (M)
-visual_inspection_comments =
+visual_inspection_comments = RRC - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -14185,7 +14185,7 @@ magnitude = 14.53
 vsx_id = ASASSN-V J092507.42-634858.1
 asassn_id = 661425429347
 color_string =  ASASSN-V J092507.42-634858.1 | 09:25:07.40 -63:48:58.0 (Gaia DR3)  | RRC (VSX)        | 0.332493000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.355+/-0.047 (G)
-visual_inspection_comments =
+visual_inspection_comments = constant
 
 
 ######### Classification results #########
@@ -14197,7 +14197,7 @@ magnitude = 13.79
 vsx_id = ASASSN-V J094102.09-634245.4
 asassn_id = 661425458288
 color_string =  ASASSN-V J094102.09-634245.4 | 09:41:02.06 -63:42:45.4 (Gaia DR3)  | RRC (VSX)        | 0.251050000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.252+/-0.040 (F)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
