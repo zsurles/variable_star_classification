@@ -13669,7 +13669,7 @@ magnitude = 11.493
 vsx_id = WISE J124512.1-625739
 asassn_id = 609886006656
 color_string =  WISE J124512.1-625739        | 12:45:12.09 -62:57:39.2 (Gaia DR3)  | RRAB (VSX)       | 0.548650800000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.773+/-0.041 (K)
-visual_inspection_comments = 
+visual_inspection_comments = need TESS. probably SR - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -13681,7 +13681,7 @@ magnitude = 12.47
 vsx_id = ASAS J100349-3219.1
 asassn_id = 609886154758
 color_string =  ASAS J100349-3219.1          | 10:03:48.85 -32:19:07.2 (Gaia DR3)  | RRAB (VSX)       | 0.696820000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.352+/-0.031 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRAB
 
 
 ######### Classification results #########
@@ -13693,7 +13693,7 @@ magnitude = 14.53
 vsx_id = SSS_J094128.7-331233
 asassn_id = 618475463742
 color_string =  SSS_J094128.7-331233         | 09:41:28.90 -33:12:32.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.309+/-0.047 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13705,7 +13705,7 @@ magnitude = 14.5
 vsx_id = NSV 5941
 asassn_id = 618475609598
 color_string =  NSV 5941                     | 12:47:22.10 -37:05:05.0 (Gaia DR3)  | RR: (VSX)        |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.366+/-0.033 (G)
-visual_inspection_comments =
+visual_inspection_comments = constant
 
 
 ######### Classification results #########
@@ -13717,7 +13717,7 @@ magnitude = 12.981
 vsx_id = WISE J092425.0-572633
 asassn_id = 618475804594
 color_string =  WISE J092425.0-572633        | 09:24:25.06 -57:26:33.0 (Gaia DR3)  | RRC (VSX)        | 0.327788100000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.528+/-0.046 (K)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -13729,7 +13729,7 @@ magnitude = 12.69
 vsx_id = ASAS J104454-6938.2
 asassn_id = 618475867446
 color_string =  ASAS J104454-6938.2          | 10:44:54.34 -69:38:14.3 (Gaia DR3)  | ESD/RRC/EC (VSX) | 0.547126000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.391+/-0.033 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13741,7 +13741,7 @@ magnitude = 11.41
 vsx_id = ASAS J124104-6937.4
 asassn_id = 618475886268
 color_string =  ASAS J124104-6937.4          | 12:41:03.95 -69:37:28.5 (Gaia DR3)  | RRC/EC/ESD (VSX) | 0.311981000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.242+/-0.031 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13753,7 +13753,7 @@ magnitude = 12.09
 vsx_id = ASAS J104618-5821.1
 asassn_id = 618476015872
 color_string =  ASAS J104618-5821.1          | 10:46:17.70 -58:21:06.0 (Gaia DR3)  | RRC/EC (VSX)     | 0.239231000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.277+/-0.036 (F)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -13765,7 +13765,7 @@ magnitude = 12.51
 vsx_id = ASAS J100518-7032.9
 asassn_id = 618476037924
 color_string =  ASAS J100518-7032.9          | 10:05:19.03 -70:32:51.5 (Gaia DR3)  | RRC/DSCT/EC (VSX) | 0.225345000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.427+/-0.032 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -13777,7 +13777,7 @@ magnitude = 12.06
 vsx_id = ASASSN-V J092236.77-682643.3
 asassn_id = 618476228185
 color_string =  ASASSN-V J092236.77-682643.3 | 09:22:36.76 -68:26:43.1 (Gaia DR3)  | RRC (VSX)        | 0.394308000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.228+/-0.056 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS. probably RRC
 
 
 ######### Classification results #########
@@ -13789,7 +13789,7 @@ magnitude = 15.41
 vsx_id = ASASSN-V J103028.31-571837.4
 asassn_id = 627065673912
 color_string =  ASASSN-V J103028.31-571837.4 | 10:30:28.31 -57:18:37.3 (Gaia DR3)  | RRC (VSX)        | 0.180378000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=1.276+/-0.043 (Very red! L if it's a dwarf)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -13801,7 +13801,7 @@ magnitude = 12.5
 vsx_id = ASAS J092043-5716.9
 asassn_id = 627065681265
 color_string =  ASAS J092043-5716.9          | 09:20:42.93 -57:16:56.2 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.783370000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.332+/-0.064 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13813,7 +13813,7 @@ magnitude = 15.01
 vsx_id = ASASSN-V J115112.51-532733.5
 asassn_id = 627065856651
 color_string =  ASASSN-V J115112.51-532733.5 | 11:51:12.49 -53:27:33.5 (Gaia DR3)  | RRC (VSX)        | 0.219637000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.316+/-0.052 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13825,7 +13825,7 @@ magnitude = 13.81
 vsx_id = SSS_J120501.3-330206
 asassn_id = 627065887197
 color_string =  SSS_J120501.3-330206         | 12:05:01.18 -33:02:06.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.214+/-0.042 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13837,7 +13837,7 @@ magnitude = 15.04
 vsx_id = SSS_J103150.7-374911
 asassn_id = 627066055202
 color_string =  SSS_J103150.7-374911         | 10:31:50.64 -37:49:13.3 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.361+/-0.069 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRAB
 
 
 ######### Classification results #########
@@ -13849,7 +13849,7 @@ magnitude = 12.1
 vsx_id = ASASSN-V J093322.67-345929.2
 asassn_id = 627066127653
 color_string =  ASASSN-V J093322.67-345929.2 | 09:33:22.66 -34:59:29.2 (Gaia DR3)  | RRC (VSX)        | 0.279586000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.244+/-0.031 (F)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -13861,7 +13861,7 @@ magnitude = 14.94
 vsx_id = ASASSN-V J100516.24-361527.4
 asassn_id = 627066264165
 color_string =  ASASSN-V J100516.24-361527.4 | 10:05:16.23 -36:15:27.3 (Gaia DR3)  | RRAB (VSX)       | 0.498961000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.678+/-0.045 (K)
-visual_inspection_comments =
+visual_inspection_comments = constant
 
 
 ######### Classification results #########
@@ -13873,7 +13873,7 @@ magnitude = 14.12
 vsx_id = ASASSN-V J094812.81-603151.3
 asassn_id = 635655219847
 color_string =  ASASSN-V J094812.81-603151.3 | 09:48:12.80 -60:31:51.4 (Gaia DR3)  | RRC (VSX)        | 0.359950000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.368+/-0.047 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13885,7 +13885,7 @@ magnitude = 12.54
 vsx_id = ASASSN-V J094329.47-570941.7
 asassn_id = 635655507085
 color_string =  ASASSN-V J094329.47-570941.7 | 09:43:29.48 -57:09:41.6 (Gaia DR3)  | RRC (VSX)        | 0.494404000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.269+/-0.037 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13897,7 +13897,7 @@ magnitude = 12.95
 vsx_id = ASASSN-V J120001.39-541224.0
 asassn_id = 635655547655
 color_string =  ASASSN-V J120001.39-541224.0 | 12:00:01.38 -54:12:24.0 (Gaia DR3)  | RRC (VSX)        | 0.215074000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.252+/-0.035 (F)
-visual_inspection_comments =
+visual_inspection_comments = RRAB
 
 
 ######### Classification results #########
@@ -13909,7 +13909,7 @@ magnitude = 12.78
 vsx_id = ASAS J113941-5412.5
 asassn_id = 635655548213
 color_string =  ASAS J113941-5412.5          | 11:39:41.29 -54:12:33.3 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.512948000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=11.798+/-      (unrealisitic color!)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -13921,7 +13921,7 @@ magnitude = 15.23
 vsx_id = ASASSN-V J121217.45-541227.2
 asassn_id = 635655549740
 color_string =  ASASSN-V J121217.45-541227.2 | 12:12:17.45 -54:12:27.3 (Gaia DR3)  | RRC (VSX)        | 0.205245000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.405+/-0.057 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13933,7 +13933,7 @@ magnitude = 8.987
 vsx_id = ASAS J100908-5555.1
 asassn_id = 635655603412
 color_string =  ASAS J100908-5555.1          | 10:09:08.13 -55:55:05.2 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.677512000000 (VSX) |  Gaia3var=NOT_AVAILABLE   SpType: A4V 1975MSS...C01....0H HD 88276  J-Ks=0.141+/-0.028 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -13945,7 +13945,7 @@ magnitude = 13.263
 vsx_id = WISE J120804.4-565300
 asassn_id = 635655660534
 color_string =  WISE J120804.4-565300        | 12:08:04.42 -56:53:00.9 (Gaia DR3)  | RRAB (VSX)       | 0.488553700000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.332+/-0.055 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -13957,7 +13957,7 @@ magnitude = 11.43
 vsx_id = WISE J123550.3-564826
 asassn_id = 635655701795
 color_string =  WISE J123550.3-564826        | 12:35:50.29 -56:48:26.3 (Gaia DR3)  | RRC (VSX)        | 0.361360200000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.392+/-0.037 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13969,7 +13969,7 @@ magnitude = 13.46
 vsx_id = ASASSN-V J093345.50-592632.0
 asassn_id = 635656215543
 color_string =  ASASSN-V J093345.50-592632.0 | 09:33:45.48 -59:26:32.0 (Gaia DR3)  | RRC (VSX)        | 0.301158000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.303+/-0.038 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13981,7 +13981,7 @@ magnitude = 13.17
 vsx_id = ASASSN-V J090205.10-573531.1
 asassn_id = 644245219200
 color_string =  ASASSN-V J090205.10-573531.1 | 09:02:05.10 -57:35:31.1 (Gaia DR3)  | RRC (VSX)        | 0.252632000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.344+/-0.035 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -13993,7 +13993,7 @@ magnitude = 13.73
 vsx_id = ASAS J101658-5620.5
 asassn_id = 644245242669
 color_string =  ASAS J101658-5620.5          | 10:16:57.93 -56:20:26.1 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.725130000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.348+/-0.033 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -14005,7 +14005,7 @@ magnitude = 14.71
 vsx_id = ASASSN-V J093506.74-642509.9
 asassn_id = 644245687872
 color_string =  ASASSN-V J093506.74-642509.9 | 09:35:06.72 -64:25:09.8 (Gaia DR3)  | RRAB (VSX)       | 0.644541000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.376+/-0.040 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRAB
 
 
 ######### Classification results #########
@@ -14017,7 +14017,7 @@ magnitude = 13.83
 vsx_id = ASASSN-V J115208.37-640454.6
 asassn_id = 644245733017
 color_string =  ASASSN-V J115208.37-640454.6 | 11:52:08.35 -64:04:54.5 (Gaia DR3)  | RRC (VSX)        | 0.260362000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.514+/-0.035 (K)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
