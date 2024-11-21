@@ -17149,7 +17149,7 @@ magnitude = 15.03
 vsx_id = [FVM2015] 16
 asassn_id = 661427672468
 color_string =  [FVM2015] 16                 | 13:30:26.91 -49:27:52.9 (Gaia DR3)  | RRAB (VSX)       | 0.786500000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.425+/-0.091 (G)
-visual_inspection_comments =
+visual_inspection_comments = 
 
 
 ######### Classification results #########
