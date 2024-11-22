@@ -17329,7 +17329,7 @@ magnitude = 10.05
 vsx_id = ASAS J130204-0501.4
 asassn_id = 661428667361
 color_string =  ASAS J130204-0501.4          | 13:02:04.03 -05:01:27.9 (Gaia DR3)  | DSCTr/RRC/DSCT/EC/ESD (VSX) | 0.208975000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.291+/-0.038 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -17341,7 +17341,7 @@ magnitude = 13.61
 vsx_id = CSS_J131722.6-040438
 asassn_id = 661428672404
 color_string =  CSS_J131722.6-040438         | 13:17:22.72 -04:04:39.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=NOT_AVAILABLE  SpType: G1 (LAMOST DR5)       J-Ks=0.345+/-0.041 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -17353,7 +17353,7 @@ magnitude = 9.67
 vsx_id = ASAS J134359+0209.1
 asassn_id = 661428704358
 color_string =  ASAS J134359+0209.1          | 13:43:59.21 +02:09:05.3 (Gaia DR3)  | RRC/EC (VSX)     | 0.315967000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.229+/-0.035 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -17365,7 +17365,7 @@ magnitude = 10.68
 vsx_id = ROTSE1 J135412.39+341226.6
 asassn_id = 661428836443
 color_string =  ROTSE1 J135412.39+341226.6   | 208.55164 34.20741 (user input)  | RRC (VSX)        | 0.298505990000 (VSX) |  (position from user input)                                                  
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -17377,7 +17377,7 @@ magnitude = 11.88
 vsx_id = NSVS 949798
 asassn_id = 661428965253
 color_string =  NSVS 949798                  | 13:21:28.36 +82:53:32.8 (Gaia DR3)  | RR (VSX)         | 0.587020590000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.221+/-0.032 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS. probably constant
 
 
 ######### Classification results #########
