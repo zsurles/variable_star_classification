@@ -17509,7 +17509,7 @@ magnitude = 14.22
 vsx_id = CSS_J150854.7+131203
 asassn_id = 214749772327
 color_string =  CSS_J150854.7+131203         | 15:08:54.79 +13:12:02.9 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.276+/-0.046 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -17521,7 +17521,7 @@ magnitude = 11.02
 vsx_id = ASAS J150955-0354.7
 asassn_id = 223339060605
 color_string =  ASAS J150955-0354.7          | 15:09:55.03 -03:54:46.4 (Gaia DR3)  | ESD/RRC/EC (VSX) | 0.743781000000 (VSX) |  Gaia3var=VARIABLE        SpType: A5V (LAMOST DR5)     J-Ks=0.231+/-0.030 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -17533,7 +17533,7 @@ magnitude = 11.0
 vsx_id = ROTSE1 J152406.02+343410.7
 asassn_id = 223339364576
 color_string =  ROTSE1 J152406.02+343410.7   | 15:24:05.99 +34:34:11.3 (Gaia DR3)  | RRC (VSX)        | 0.322930990000 (VSX) |  Gaia3var=VARIABLE        SpType: A6IV (LAMOST DR5)    J-Ks=0.206+/-0.030 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -17545,7 +17545,7 @@ magnitude = 13.18
 vsx_id = V0370 Boo
 asassn_id = 249108583583
 color_string =  V0370 Boo                    | 14:47:25.34 +22:50:11.6 (Gaia DR3)  | EW (GCVS)        | 0.3137700000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.324+/-0.030 (G)
-visual_inspection_comments =
+visual_inspection_comments = DSCT
 
 
 ######### Classification results #########
@@ -17557,7 +17557,7 @@ magnitude = 14.47
 vsx_id = CSS_J144328.9-173350
 asassn_id = 249108966812
 color_string =  CSS_J144328.9-173350         | 14:43:28.92 -17:33:50.9 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.368+/-0.049 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRAB
 
 
 ######### Classification results #########
