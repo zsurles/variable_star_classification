@@ -17569,7 +17569,7 @@ magnitude = 14.948
 vsx_id = CSS_J145156.9+001629
 asassn_id = 257699009339
 color_string =  CSS_J145156.9+001629         | 14:51:56.93 +00:16:28.7 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.306+/-0.053 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -17581,7 +17581,7 @@ magnitude = 13.4
 vsx_id = V0642 Cen
 asassn_id = 274879132364
 color_string =  V0642 Cen                    | 14:43:27.26 -41:02:05.4 (Gaia DR3)  | LB: (GCVS)       |  (GCVS)              |  Gaia3var=VARIABLE                                     J-Ks=1.470+/-0.046 (Very red! L if it's a dwarf)
-visual_inspection_comments =
+visual_inspection_comments = need TESS. either SR or CEP or RRC, brightness changes over time
 
 
 ######### Classification results #########
@@ -17593,7 +17593,7 @@ magnitude = 11.31
 vsx_id = ASASSN-V J150933.48-484108.6
 asassn_id = 283468103486
 color_string =  ASASSN-V J150933.48-484108.6 | 15:09:33.47 -48:41:08.6 (Gaia DR3)  | RRC (VSX)        | 0.204803000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.208+/-0.031 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS. probably constant
 
 
 ######### Classification results #########
@@ -17605,7 +17605,7 @@ magnitude = 13.13
 vsx_id = CSS_J150810.4+103456
 asassn_id = 300647892285
 color_string =  CSS_J150810.4+103456         | 15:08:10.42 +10:34:56.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.197+/-0.034 (F)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -17617,7 +17617,7 @@ magnitude = 12.431
 vsx_id = WISE J150335.5-780334
 asassn_id = 307409
 color_string =  WISE J150335.5-780334        | 15:03:35.51 -78:03:34.8 (Gaia DR3)  | RRC (VSX)        | 0.398537200000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.287+/-0.035 (F)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -17629,7 +17629,7 @@ magnitude = 14.37
 vsx_id = CSS_J145448.0-080319
 asassn_id = 309238118711
 color_string =  CSS_J145448.0-080319         | 14:54:48.06 -08:03:20.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.195+/-0.045 (F)
-visual_inspection_comments =
+visual_inspection_comments = 
 
 
 ######### Classification results #########
