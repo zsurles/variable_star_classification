@@ -17269,7 +17269,7 @@ magnitude = 14.16
 vsx_id = SSS_J130907.8-234829
 asassn_id = 661428488205
 color_string =  SSS_J130907.8-234829         | 197.28265 -23.80794 (user input)  | T (VSX)          | P (VSX)              |  (position from user input)                            J-Ks=0.384+/-0.036 (G)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -17281,7 +17281,7 @@ magnitude = 12.71
 vsx_id = SSS_J130658.4-230735
 asassn_id = 661428514399
 color_string =  SSS_J130658.4-230735         | 13:06:58.47 -23:07:35.6 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.352+/-0.033 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRAB
 
 
 ######### Classification results #########
@@ -17293,7 +17293,7 @@ magnitude = 12.87
 vsx_id = ASAS J130646-1805.2
 asassn_id = 661428599672
 color_string =  ASAS J130646-1805.2          | 13:06:46.64 -18:04:59.2 (Gaia DR3)  | RRAB (VSX)       | 0.493748000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.353+/-0.037 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRAB - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -17305,7 +17305,7 @@ magnitude = 14.71
 vsx_id = NSVS 16015100
 asassn_id = 661428616711
 color_string =  NSVS 16015100                | 199.91051 -14.94302 (user input)  | RRAB (VSX)       | 0.427334000000 (VSX) |  (position from user input)                                                  
-visual_inspection_comments =
+visual_inspection_comments = constant
 
 
 ######### Classification results #########
@@ -17317,7 +17317,7 @@ magnitude = 15.33
 vsx_id = MLS_J133546.9-090753
 asassn_id = 661428644186
 color_string =  MLS_J133546.9-090753         | 13:35:46.98 -09:07:53.4 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.633+/-0.042 (K)
-visual_inspection_comments =
+visual_inspection_comments = SR
 
 
 ######### Classification results #########
