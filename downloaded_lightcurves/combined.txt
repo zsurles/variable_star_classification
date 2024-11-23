@@ -20149,7 +20149,7 @@ magnitude = 14.61
 vsx_id = ASASSN-V J162732.99-310639.5
 asassn_id = 266288996245
 color_string =  ASASSN-V J162732.99-310639.5 | 16:27:32.96 -31:06:39.3 (Gaia DR3)  | RRAB (VSX)       | 0.875270000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.439+/-0.053 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRAB
 
 
 ######### Classification results #########
@@ -20161,7 +20161,7 @@ magnitude = 14.46
 vsx_id = SEKBO 111558.569
 asassn_id = 283468451796
 color_string =  SEKBO 111558.569             | 16:09:48.11 -17:45:31.3 (Gaia DR3)  | RRAB (VSX)       | 0.550212000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.424+/-0.072 (G)
-visual_inspection_comments =
+visual_inspection_comments = CEP
 
 
 ######### Classification results #########
@@ -20173,7 +20173,7 @@ magnitude = 14.9
 vsx_id = NSV 7798
 asassn_id = 292058837636
 color_string =  NSV 7798                     | 16:32:00.97 -08:02:30.4 (Gaia DR3)  | EW/RR (VSX)      |  (VSX)               |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.657+/-0.033 (K)
-visual_inspection_comments =
+visual_inspection_comments = constant
 
 
 ######### Classification results #########
@@ -20185,7 +20185,7 @@ magnitude = 13.25
 vsx_id = SSS_J160628.5-212130
 asassn_id = 300648363273
 color_string =  SSS_J160628.5-212130         | 16:06:28.60 -21:21:30.2 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE       SpType: em 1981A&AS...44..387M [M81] I-491  J-Ks=1.324+/-0.035 (Very red! L if it's a dwarf)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -20197,7 +20197,7 @@ magnitude = 12.485
 vsx_id = WISE J160806.3-173815
 asassn_id = 309237830093
 color_string =  WISE J160806.3-173815        | 16:08:06.36 -17:38:15.8 (Gaia DR3)  | RRC (VSX)        | 0.345609700000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.390+/-0.038 (G)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
