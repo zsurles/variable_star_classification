@@ -21109,7 +21109,7 @@ magnitude = 14.72
 vsx_id = ASASSN-V J162255.20-462940.1
 asassn_id = 661427688476
 color_string =  ASASSN-V J162255.20-462940.1 | 245.73002 -46.49447 (user input)  | RRC (VSX)        | 0.182189000000 (VSX) |  (position from user input)                            J-Ks=0.544+/-0.042 (K)
-visual_inspection_comments =
+visual_inspection_comments = DSCT
 
 
 ######### Classification results #########
@@ -21121,7 +21121,7 @@ magnitude = 14.07
 vsx_id = ASASSN-V J160810.31-453956.9
 asassn_id = 661427693312
 color_string =  ASASSN-V J160810.31-453956.9 | 16:08:10.30 -45:39:57.0 (Gaia DR3)  | RRC (VSX)        | 0.204695000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                                      
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -21133,7 +21133,7 @@ magnitude = 14.98
 vsx_id = ASASSN-V J160814.24-420813.9
 asassn_id = 661427713969
 color_string =  ASASSN-V J160814.24-420813.9 | 16:08:14.23 -42:08:14.0 (Gaia DR3)  | RRC (VSX)        | 0.208805000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                                      
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -21145,7 +21145,7 @@ magnitude = 15.22
 vsx_id = ASASSN-V J162207.74-415639.5
 asassn_id = 661427715034
 color_string =  ASASSN-V J162207.74-415639.5 | 16:22:07.74 -41:56:39.4 (Gaia DR3)  | RRC (VSX)        | 0.483070000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.646+/-0.044 (K)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
@@ -21157,7 +21157,7 @@ magnitude = 14.3
 vsx_id = 1SWASP J161215.11-352821.9
 asassn_id = 661427789218
 color_string =  1SWASP J161215.11-352821.9   | 16:12:15.18 -35:28:21.3 (Gaia DR3)  | RRAB (VSX)       | 0.817747590000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.550+/-0.087 (K)
-visual_inspection_comments =
+visual_inspection_comments = constant
 
 
 ######### Classification results #########
