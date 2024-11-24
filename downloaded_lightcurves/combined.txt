@@ -23509,7 +23509,7 @@ magnitude = 14.51
 vsx_id = ASASSN-V J173301.23-433406.8
 asassn_id = 523986481727
 color_string =  ASASSN-V J173301.23-433406.8 | 17:33:01.23 -43:34:06.9 (Gaia DR3)  | RRC (VSX)        | 0.201897000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.480+/-0.035 (K)
-visual_inspection_comments =
+visual_inspection_comments = EW
 
 
 ######### Classification results #########
@@ -23521,7 +23521,7 @@ magnitude = 12.51
 vsx_id = ASASSN-V J173543.54-360305.7
 asassn_id = 523986733150
 color_string =  ASASSN-V J173543.54-360305.7 | 17:35:43.54 -36:03:05.7 (Gaia DR3)  | RRC (VSX)        | 0.196802000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.442+/-0.031 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
