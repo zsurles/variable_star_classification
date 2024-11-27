@@ -32377,7 +32377,7 @@ magnitude = 15.148
 vsx_id = OGLE-BLG-RRLYR-35419
 asassn_id = 661427921962
 color_string =  OGLE-BLG-RRLYR-35419         | 18:15:42.38 -32:24:46.4 (Gaia DR3)  | RRAB (VSX)       | 0.735991000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.509+/-0.050 (K)
-visual_inspection_comments =
+visual_inspection_comments = need TESS, corrupted ASASSN data
 
 
 ######### Classification results #########
@@ -32389,7 +32389,7 @@ magnitude = 15.261
 vsx_id = OGLE-BLG-RRLYR-15001
 asassn_id = 661427923608
 color_string =  OGLE-BLG-RRLYR-15001         | 18:10:35.88 -32:22:19.1 (Gaia DR3)  | RRAB (VSX)       | 0.678730000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.640+/-0.047 (K)
-visual_inspection_comments =
+visual_inspection_comments = need TESS, not enough data
 
 
 ######### Classification results #########
@@ -32401,7 +32401,7 @@ magnitude = 15.125
 vsx_id = V4611 Sgr
 asassn_id = 661427923662
 color_string =  V4611 Sgr                    | 18:11:02.92 -32:22:15.2 (Gaia DR3)  | RRAB (GCVS)      |  (GCVS)              |  Gaia3var=VARIABLE                                     J-Ks=0.372+/-0.089 (G)
-visual_inspection_comments =
+visual_inspection_comments = need TESS, corrupted ASASSN data
 
 
 ######### Classification results #########
@@ -32413,7 +32413,7 @@ magnitude = 15.072
 vsx_id = OGLE-BLG-RRLYR-35207
 asassn_id = 661427923976
 color_string =  OGLE-BLG-RRLYR-35207         | 18:14:45.97 -32:21:49.8 (Gaia DR3)  | RRAB (VSX)       | 0.540625000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.282+/-0.096 (F)
-visual_inspection_comments =
+visual_inspection_comments = need TESS, corrupted ASASSN data but possibly RRab
 
 
 ######### Classification results #########
@@ -32425,7 +32425,7 @@ magnitude = 15.393
 vsx_id = OGLE-BLG-RRLYR-07355
 asassn_id = 661427924137
 color_string =  OGLE-BLG-RRLYR-07355         | 17:55:15.76 -32:21:35.9 (Gaia DR3)  | RRAB (VSX)       | 0.634808000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=2.391+/-      (Very red!)
-visual_inspection_comments =
+visual_inspection_comments = need TESS, corrupted ASASSN data but possibly RRab
 
 
 ######### Classification results #########
