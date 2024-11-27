@@ -32257,7 +32257,7 @@ magnitude = 14.48
 vsx_id = OGLE-BLG-RRLYR-35221
 asassn_id = 661427915318
 color_string =  OGLE-BLG-RRLYR-35221         | 18:14:49.89 -32:33:37.1 (Gaia DR3)  | RRC (VSX)        | 0.342477000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.342+/-0.040 (G)
-visual_inspection_comments = RRC? check
+visual_inspection_comments = RRC
 
 
 ######### Classification results #########
