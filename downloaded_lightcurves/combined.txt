@@ -26809,7 +26809,7 @@ magnitude = 14.007
 vsx_id = OGLE-BLG-RRLYR-02394
 asassn_id = 661427750971
 color_string =  OGLE-BLG-RRLYR-02394         | 17:46:22.77 -37:12:01.1 (Gaia DR3)  | RRAB (VSX)       | 0.466650000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.924+/-0.067 (M)
-visual_inspection_comments =
+visual_inspection_comments = RRAB - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -26821,7 +26821,7 @@ magnitude = 12.824
 vsx_id = OGLE-BLG-RRLYR-24752
 asassn_id = 661427751016
 color_string =  OGLE-BLG-RRLYR-24752         | 17:39:32.06 -37:11:49.9 (Gaia DR3)  | RRC (VSX)        | 0.218226000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.735+/-0.073 (K)
-visual_inspection_comments =
+visual_inspection_comments = RRC - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -26833,7 +26833,7 @@ magnitude = 15.378
 vsx_id = OGLE bul_sc29_i_176581
 asassn_id = 661427751156
 color_string =  OGLE bul_sc29_i_176581       | 17:47:57.18 -37:11:16.1 (Gaia DR3)  | T (VSX)          | P (VSX)              |  Gaia3var=VARIABLE                                     J-Ks=0.375+/-0.081 (G)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
@@ -26845,7 +26845,7 @@ magnitude = 15.346
 vsx_id = OGLE-BLG-RRLYR-03774
 asassn_id = 661427751281
 color_string =  OGLE-BLG-RRLYR-03774         | 17:49:58.58 -37:10:39.9 (Gaia DR3)  | RRAB (VSX)       | 0.481149000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.618+/-0.092 (K)
-visual_inspection_comments =
+visual_inspection_comments = RRAB - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -26857,7 +26857,7 @@ magnitude = 15.244
 vsx_id = OGLE-BLG-RRLYR-02479
 asassn_id = 661427751428
 color_string =  OGLE-BLG-RRLYR-02479         | 17:46:37.45 -37:10:04.7 (Gaia DR3)  | RRAB (VSX)       | 0.799203000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.495+/-0.097 (K)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - too few observations
 
 
 ######### Classification results #########
