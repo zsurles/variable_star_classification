@@ -27229,7 +27229,7 @@ magnitude = 13.506
 vsx_id = VVV J181826.01-363824.1
 asassn_id = 661427760545
 color_string =  VVV J181826.01-363824.1      | 18:18:26.01 -36:38:24.1 (Gaia DR3)  | RRAB (VSX)       | 0.607478000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.415+/-0.089 (G)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -27241,7 +27241,7 @@ magnitude = 15.479
 vsx_id = OGLE-BLG-RRLYR-07854
 asassn_id = 661427760761
 color_string =  OGLE-BLG-RRLYR-07854         | 17:56:09.39 -36:37:40.0 (Gaia DR3)  | RRAB (VSX)       | 0.489660000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.348+/-0.098 (G)
-visual_inspection_comments =
+visual_inspection_comments = RRAB - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -27253,7 +27253,7 @@ magnitude = 15.464
 vsx_id = VVV J180851.52-363732.8
 asassn_id = 661427760808
 color_string =  VVV J180851.52-363732.8      | 18:08:51.51 -36:37:33.0 (Gaia DR3)  | RRAB (VSX)       | 0.495692000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.577+/-      (K)
-visual_inspection_comments =
+visual_inspection_comments = constant - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -27265,7 +27265,7 @@ magnitude = 14.796
 vsx_id = VVV J180929.82-363652.5
 asassn_id = 661427761001
 color_string =  VVV J180929.82-363652.5      | 18:09:29.81 -36:36:52.7 (Gaia DR3)  | RRAB (VSX)       | 0.475975000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.238+/-      (F)
-visual_inspection_comments =
+visual_inspection_comments = RRAB - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -27277,7 +27277,7 @@ magnitude = 15.235
 vsx_id = OGLE-BLG-RRLYR-31178
 asassn_id = 661427762236
 color_string =  OGLE-BLG-RRLYR-31178         | 17:52:33.64 -36:33:07.9 (Gaia DR3)  | RRC (VSX)        | 0.362662000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=1.107+/-      (M)
-visual_inspection_comments =
+visual_inspection_comments = need TESS
 
 
 ######### Classification results #########
