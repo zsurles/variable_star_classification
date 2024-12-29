@@ -29209,7 +29209,7 @@ magnitude = 14.22
 vsx_id = VVV J182017.11-344434.0
 asassn_id = 661427813930
 color_string =  VVV J182017.11-344434.0      | 18:20:17.11 -34:44:34.2 (Gaia DR3)  | RRAB (VSX)       | 0.589237000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.179+/-0.087 (F)
-visual_inspection_comments =
+visual_inspection_comments = RRC - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -29221,7 +29221,7 @@ magnitude = 14.473
 vsx_id = OGLE-BLG-RRLYR-06376
 asassn_id = 661427814077
 color_string =  OGLE-BLG-RRLYR-06376         | 17:53:43.26 -34:44:20.9 (Gaia DR3)  | RRAB (VSX)       | 0.591526000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.913+/-0.038 (M)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -29233,7 +29233,7 @@ magnitude = 15.45
 vsx_id = OGLE-BLG-RRLYR-03347
 asassn_id = 661427814257
 color_string =  OGLE-BLG-RRLYR-03347         | 17:49:10.88 -34:44:02.8 (Gaia DR3)  | RRAB (VSX)       | 0.598720000000 (VSX) |  Gaia3var=VARIABLE                                                           
-visual_inspection_comments =
+visual_inspection_comments = RRAB - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -29245,7 +29245,7 @@ magnitude = 15.282
 vsx_id = OGLE-BLG-RRLYR-05610
 asassn_id = 661427814546
 color_string =  OGLE-BLG-RRLYR-05610         | 17:52:39.51 -34:43:33.9 (Gaia DR3)  | RRAB (VSX)       | 0.725307000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.646+/-0.098 (K)
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
@@ -29257,7 +29257,7 @@ magnitude = 15.403
 vsx_id = OGLE-BLG-RRLYR-06099
 asassn_id = 661427814835
 color_string =  OGLE-BLG-RRLYR-06099         | 17:53:20.25 -34:43:08.7 (Gaia DR3)  | RRAB (VSX)       | 0.690627000000 (VSX) |  Gaia3var=VARIABLE                                                           
-visual_inspection_comments =
+visual_inspection_comments = need TESS - corrupted ASAS-SN data
 
 
 ######### Classification results #########
