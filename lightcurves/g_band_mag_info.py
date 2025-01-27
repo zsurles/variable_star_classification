@@ -1,30 +1,32 @@
 import os
 import numpy as np
 
-folder_path = "/Users/zoesurles/Desktop/variable_star_classification/downloaded_lightcurves"
+zoes_folder_path = "/Users/zoesurles/Desktop/variable_star_classification/downloaded_lightcurves"
 output_file = "./g_band_magnitude_information.txt"
 
 with open(output_file, "w") as f:
     f.write("ASASSN ID\tMEAN VALUE\tMEDIAN VALUE\n")
 
 # Process each file in the folder
-for file_name in os.listdir(folder_path):
-    file_path = os.path.join(folder_path, file_name)
+for file_name in os.listdir(zoes_folder_path):
+    file_path = os.path.join(zoes_folder_path, file_name)
 
-    # Skip files that match the exclusion criteria
+    # Skip files that are not ASASSNID.txt
     if (
         "_classification.txt" in file_name
         or "_badpoints.txt" in file_name
         or "_edit.txt" in file_name
         or ".csv" in file_name
-        or "_best_lightcurve_mag.dat" in file_name
+        or ".dat" in file_name
+        or ".py" in file_name
+        or ".sh" in file_name
     ):
         continue
 
-    # Extract the ID number (file name without extension)
+    # Extract the ASASSN ID from the file name
     id_number, ext = os.path.splitext(file_name)
 
-    # Check if the file is not empty
+    # Check that the file is not empty
     if os.path.isfile(file_path) and os.path.getsize(file_path) > 0:
         # Read the file and extract magnitudes from the second column
         try:
