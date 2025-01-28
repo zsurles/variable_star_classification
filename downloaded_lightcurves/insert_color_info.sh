@@ -24,9 +24,32 @@ if [ ! -f combined.txt ];then
  exit 1
 fi
 
+#
+if [ ! -f ../lightcurves/g_band_magnitude_information.txt ];then
+ echo "ERROR in $0: cannot find ../lightcurves/g_band_magnitude_information.txt"
+ exit 1
+fi
+
 
 # Read the input file line by line
 while IFS= read -r line; do
+
+  # NEW: add median mag to the human-readble comment
+  if [[ $line == *"asassn_id ="* ]]; then
+   ASASSN_ID="${line/asassn_id = /}"
+  elif [[ $line == *"visual_inspection_comments ="* ]]; then
+   # check if the median magnitude comment has been inserted before
+   if [[ $line != *"median_g_mag="* ]]; then
+    # modify the line if in includes the visual_inspection_comments  
+    MEDIANgMAG=$(grep " $ASASSN_ID$" ../lightcurves/g_band_magnitude_information.txt | awk '{print $2}')
+    if [ -n "$MEDIANgMAG" ];then
+     ORIGINAL_LINE="$line"
+     line="$ORIGINAL_LINE  median_g_mag=$MEDIANgMAG"
+    fi
+   fi
+  fi
+
+
   # Check if the line contains "position ="
   if [[ $line == *"position ="* ]]; then
     POSITION="${line/position =/}"

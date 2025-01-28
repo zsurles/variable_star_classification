@@ -1,11 +1,31 @@
 import os
 import numpy as np
+import re  # regular expressions
 
-zoes_folder_path = "/Users/zoesurles/Desktop/variable_star_classification/downloaded_lightcurves"
+# Initial path specified by Zoe
+initial_folder_path = "/Users/zoesurles/Desktop/variable_star_classification/downloaded_lightcurves"
+
+# Check if the initial path exists
+if os.path.exists(initial_folder_path):
+    zoes_folder_path = initial_folder_path
+else:
+    # Get the directory where the script is located
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # Construct the path to ../downloaded_lightcurves relative to the script location
+    alternative_path = os.path.join(script_dir, "..", "downloaded_lightcurves")
+    
+    # Check if the alternative path exists
+    if os.path.exists(alternative_path):
+        zoes_folder_path = alternative_path
+    else:
+        raise FileNotFoundError(f"Neither {initial_folder_path} nor {alternative_path} exist")
+
 output_file = "./g_band_magnitude_information.txt"
 
 with open(output_file, "w") as f:
-    f.write("ASASSN ID\tMEAN VALUE\tMEDIAN VALUE\n")
+    #f.write("ASASSN ID\tMEAN VALUE\tMEDIAN VALUE\n")
+    f.write(f"{'MEAN':>6} {'MEDIAN':>6} {'ASASSN_ID':>12}\n")
 
 # Process each file in the folder
 for file_name in os.listdir(zoes_folder_path):
@@ -14,13 +34,19 @@ for file_name in os.listdir(zoes_folder_path):
     # Skip files that are not ASASSNID.txt
     if (
         "_classification.txt" in file_name
+        or "combined" in file_name
         or "_badpoints.txt" in file_name
         or "_edit.txt" in file_name
+        or ".html" in file_name
         or ".csv" in file_name
         or ".dat" in file_name
         or ".py" in file_name
         or ".sh" in file_name
     ):
+        continue
+
+    # Check if the filename matches the pattern of only numbers followed by .txt
+    if not re.match(r'^\d+\.txt$', file_name):
         continue
 
     # Extract the ASASSN ID from the file name
@@ -47,7 +73,8 @@ for file_name in os.listdir(zoes_folder_path):
 
                 # Append results to the output file
                 with open(output_file, "a") as f:
-                    f.write(f"{id_number}\t{mean_value:.6f}\t{median_value:.6f}\n")
+                    #f.write(f"{id_number}\t{mean_value:.6f}\t{median_value:.6f}\n")
+                    f.write(f"{mean_value:6.3f} {median_value:6.3f} {id_number:>12}\n")
             else:
                 print(f"No valid data in file: {file_name}")
         except Exception as e:
