@@ -37069,7 +37069,7 @@ magnitude = 15.28
 vsx_id = OGLE-BLG-RRLYR-34958
 asassn_id = 661428285726
 color_string =  OGLE-BLG-RRLYR-34958         | 18:13:32.74 -27:56:52.8 (Gaia DR3)  | RRAB (VSX)       | 0.533201000000 (VSX) |  Gaia3var=VARIABLE                                                           
-visual_inspection_comments =  median_g_mag=13.326
+visual_inspection_comments = RRAB - corrupted ASAS-SN data median_g_mag=13.326
 
 
 ######### Classification results #########
@@ -37081,7 +37081,7 @@ magnitude = 15.162
 vsx_id = [CAG2000] vd5f676
 asassn_id = 661428285998
 color_string =  [CAG2000] vd5f676            | 18:12:10.48 -27:56:39.1 (Gaia DR3)  | RRAB (VSX)       | 0.550800000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=1.127+/-      (M)
-visual_inspection_comments =  median_g_mag=16.117
+visual_inspection_comments = constant median_g_mag=16.117
 
 
 ######### Classification results #########
@@ -37093,7 +37093,7 @@ magnitude = 15.283
 vsx_id = OGLE-BLG-RRLYR-18012
 asassn_id = 661428286007
 color_string =  OGLE-BLG-RRLYR-18012         | 17:27:20.99 -27:56:38.8 (Gaia DR3)  | RRAB (VSX)       | 0.671175000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=1.041+/-0.069 (M)
-visual_inspection_comments =  median_g_mag=17.398
+visual_inspection_comments = constant median_g_mag=17.398
 
 
 ######### Classification results #########
@@ -37105,7 +37105,7 @@ magnitude = 15.242
 vsx_id = OGLE-BLG-RRLYR-35783
 asassn_id = 661428287639
 color_string =  OGLE-BLG-RRLYR-35783         | 18:17:33.07 -27:55:22.9 (Gaia DR3)  | RRAB (VSX)       | 0.614577000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.864+/-0.058 (M)
-visual_inspection_comments =  median_g_mag=16.815
+visual_inspection_comments = RRAB - corrupted ASAS-SN data median_g_mag=16.815
 
 
 ######### Classification results #########
@@ -37117,7 +37117,7 @@ magnitude = 15.166
 vsx_id = [CAG2000] vd36f732
 asassn_id = 661428287684
 color_string =  [CAG2000] vd36f732           | 18:09:45.86 -27:55:20.7 (Gaia DR3)  | RRC (VSX)        | 0.315904000000 (VSX) |  Gaia3var=VARIABLE                                                           
-visual_inspection_comments =  median_g_mag=16.071
+visual_inspection_comments = need TESS - too few observations median_g_mag=16.071
 
 
 ######### Classification results #########
@@ -37129,7 +37129,7 @@ magnitude = 15.146
 vsx_id = OGLE-BLG-RRLYR-13377
 asassn_id = 661428287849
 color_string =  OGLE-BLG-RRLYR-13377         | 18:06:19.35 -27:55:12.6 (Gaia DR3)  | RRAB (VSX)       | 0.730383000000 (VSX) |  Gaia3var=VARIABLE                                                           
-visual_inspection_comments =  median_g_mag=11.833
+visual_inspection_comments = constant median_g_mag=11.833
 
 
 ######### Classification results #########
@@ -37141,7 +37141,7 @@ magnitude = 15.408
 vsx_id = MACHO 102.23503.434
 asassn_id = 661428288721
 color_string =  MACHO 102.23503.434          | 18:11:01.09 -27:54:30.2 (Gaia DR3)  | RRAB (VSX)       | 0.688646000000 (VSX) |  Gaia3var=VARIABLE                                                           
-visual_inspection_comments =  median_g_mag=15.253
+visual_inspection_comments = RRAB - corrupted ASAS-SN data median_g_mag=15.253
 
 
 ######### Classification results #########
@@ -37153,7 +37153,7 @@ magnitude = 15.214
 vsx_id = OGLE-BLG-RRLYR-35492
 asassn_id = 661428289268
 color_string =  OGLE-BLG-RRLYR-35492         | 18:16:08.41 -27:54:04.7 (Gaia DR3)  | RRAB (VSX)       | 0.525738000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.288+/-0.084 (F)
-visual_inspection_comments =  median_g_mag=12.744
+visual_inspection_comments = need TESS - corrupted ASAS-SN data median_g_mag=12.744
 
 
 ######### Classification results #########
@@ -37165,7 +37165,7 @@ magnitude = 14.982
 vsx_id = OGLE-BLG-RRLYR-34861
 asassn_id = 661428289482
 color_string =  OGLE-BLG-RRLYR-34861         | 18:13:10.09 -27:53:54.0 (Gaia DR3)  | RRAB (VSX)       | 0.519107000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.143+/-0.067 (F)
-visual_inspection_comments =  median_g_mag=13.854
+visual_inspection_comments = need TESS - corrupted ASAS-SN data median_g_mag=13.854
 
 
 ######### Classification results #########
@@ -37177,7 +37177,7 @@ magnitude = 14.787
 vsx_id = OGLE-BLG-RRLYR-35467
 asassn_id = 661428289659
 color_string =  OGLE-BLG-RRLYR-35467         | 18:15:56.02 -27:53:45.3 (Gaia DR3)  | RRAB (VSX)       | 0.588238000000 (VSX) |  Gaia3var=NOT_AVAILABLE                                                      
-visual_inspection_comments =  median_g_mag=14.330
+visual_inspection_comments = need TESS - corrupted ASAS-SN data median_g_mag=14.330
 
 
 ######### Classification results #########
