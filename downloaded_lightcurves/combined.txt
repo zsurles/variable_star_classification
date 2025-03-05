@@ -37009,7 +37009,7 @@ magnitude = 15.3
 vsx_id = V2287 Sgr
 asassn_id = 661428284326
 color_string =  V2287 Sgr                    | 18:14:09.43 -27:58:00.4 (Gaia DR3)  | RRAB (GCVS)      | 0.5664710000 (GCVS)  |  Gaia3var=VARIABLE                                                           
-visual_inspection_comments =  median_g_mag=14.622
+visual_inspection_comments = RRAB - corrupted ASAS-SN data median_g_mag=14.622
 
 
 ######### Classification results #########
@@ -37021,7 +37021,7 @@ magnitude = 15.358
 vsx_id = OGLE-BLG-RRLYR-34882
 asassn_id = 661428284518
 color_string =  OGLE-BLG-RRLYR-34882         | 18:13:13.86 -27:57:51.4 (Gaia DR3)  | RRAB (VSX)       | 0.505488000000 (VSX) |  Gaia3var=VARIABLE                                                           
-visual_inspection_comments =  median_g_mag=16.763
+visual_inspection_comments = RRAB - corrupted ASAS-SN data median_g_mag=16.763
 
 
 ######### Classification results #########
@@ -37033,7 +37033,7 @@ magnitude = 15.421
 vsx_id = [CAG2000] vd17f452
 asassn_id = 661428284583
 color_string =  [CAG2000] vd17f452           | 18:18:49.33 -27:57:48.7 (Gaia DR3)  | RRAB (VSX)       | 0.535709000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=1.745+/-      (Very red! L if it's a dwarf)
-visual_inspection_comments =  median_g_mag=15.546
+visual_inspection_comments = RRAB - corrupted ASAS-SN data median_g_mag=15.546
 
 
 ######### Classification results #########
@@ -37045,7 +37045,7 @@ magnitude = 15.416
 vsx_id = OGLE-BLG-RRLYR-34942
 asassn_id = 661428284883
 color_string =  OGLE-BLG-RRLYR-34942         | 18:13:29.71 -27:57:32.7 (Gaia DR3)  | RRC (VSX)        | 0.284030000000 (VSX) |  Gaia3var=VARIABLE                                                           
-visual_inspection_comments =  median_g_mag=15.282
+visual_inspection_comments = RRC - corrupted ASAS-SN data median_g_mag=15.282
 
 
 ######### Classification results #########
@@ -37057,7 +37057,7 @@ magnitude = 14.8
 vsx_id = V2319 Sgr
 asassn_id = 661428285160
 color_string =  V2319 Sgr                    | 18:15:36.36 -27:57:19.5 (Gaia DR3)  | RRAB (GCVS)      | 0.4752330000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.308+/-0.085 (F)
-visual_inspection_comments =  median_g_mag=14.259
+visual_inspection_comments = RRAB - corrupted ASAS-SN data median_g_mag=14.259
 
 
 ######### Classification results #########
