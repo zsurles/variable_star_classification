@@ -42529,7 +42529,7 @@ magnitude = 14.35
 vsx_id = ASASSN-V J183916.23+323343.6
 asassn_id = 17180207393
 color_string =  ASASSN-V J183916.23+323343.6 | 18:39:16.22 +32:33:43.4 (Gaia DR3)  | RRC (VSX)        | 0.215830000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.300+/-0.047 (F)
-visual_inspection_comments =  median_g_mag=14.715
+visual_inspection_comments = DSCT median_g_mag=14.715
 
 
 ######### Classification results #########
@@ -42541,7 +42541,7 @@ magnitude = 11.739
 vsx_id = WISE J231403.4+632310
 asassn_id = 17180428156
 color_string =  WISE J231403.4+632310        | 23:14:03.40 +63:23:10.3 (Gaia DR3)  | RRAB (VSX)       | 0.581070600000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.888+/-0.037 (M)
-visual_inspection_comments =  median_g_mag=17.192
+visual_inspection_comments = RRC median_g_mag=17.192
 
 
 ######### Classification results #########
@@ -42553,7 +42553,7 @@ magnitude = 12.58
 vsx_id = ASASSN-V J193257.90+283756.1
 asassn_id = 17180485177
 color_string =  ASASSN-V J193257.90+283756.1 | 19:32:57.90 +28:37:56.0 (Gaia DR3)  | RRC (VSX)        | 0.296433000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.518+/-0.047 (K)
-visual_inspection_comments =  median_g_mag=12.957
+visual_inspection_comments = EW median_g_mag=12.957
 
 
 ######### Classification results #########
@@ -42565,7 +42565,7 @@ magnitude = 12.405
 vsx_id = WISE J201148.7+770620
 asassn_id = 17180595243
 color_string =  WISE J201148.7+770620        | 20:11:48.77 +77:06:20.0 (Gaia DR3)  | RRAB (VSX)       | 0.505555500000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.276+/-0.035 (F)
-visual_inspection_comments =  median_g_mag=14.104
+visual_inspection_comments = EB median_g_mag=14.104
 
 
 ######### Classification results #########
@@ -42577,7 +42577,7 @@ magnitude = 10.3
 vsx_id = WISE J203839.2+631540
 asassn_id = 17180784079
 color_string =  WISE J203839.2+631540        | 20:38:39.17 +63:15:40.1 (Gaia DR3)  | RRC (VSX)        | 0.404146600000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.245+/-0.042 (F)
-visual_inspection_comments =  median_g_mag=12.100
+visual_inspection_comments = RRC median_g_mag=12.100
 
 
 ######### Classification results #########
