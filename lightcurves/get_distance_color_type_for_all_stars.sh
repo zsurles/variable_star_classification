@@ -64,7 +64,7 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # Gaia DR3 2875539776437822592 12.868528  0.011965 13.166146  0.038479 12.473855  0.024048
  GAIA_DR3_INFO=$($LIB_VIZQUERY -site=vizier.cds.unistra.fr -mime=text -source=I/355/gaiadr3 -out.max=1 -out.form=mini   -sort=_r -c="$VSXRA $VSXDec" -c.rs=1.5 -out=DR3Name,Gmag,e_Gmag,BPmag,e_BPmag,RPmag,e_RPmag 2>&1 | grep -A3 'DR3Name ' | grep '\.')
  GAIA_DR3_NAMESTRING=$(echo "$GAIA_DR3_INFO" | awk '{print $1" "$2" "$3}')
- if [ -z "$GAIA_DR3_INFO"] || [ -z "$GAIA_DR3_NAMESTRING" ] || [ "$GAIA_DR3_NAMESTRING" = " " ] ;then
+ if [ -z "$GAIA_DR3_INFO" ] || [ -z "$GAIA_DR3_NAMESTRING" ] || [ "$GAIA_DR3_NAMESTRING" = "  " ] ;then
   #                    Gaia DR3 6735063943477003008
   GAIA_DR3_NAMESTRING="Gaia DR3 XXXXXXXXXXXXXXXXXXX"
  fi
@@ -147,12 +147,15 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # compute Gaia colors
  if [ -n "$BPMAG" ] && [ -n "$RPMAG" ] && [ -n "$BPMAG_ERR" ] && [ -n "$RPMAG_ERR" ] ;then
   GAIA_COLOR=$(echo "$BPMAG $RPMAG" | awk '{printf "%+5.3f\n", $1 - $2}')
-  GAIA_COLOR_ERROR=$(echo "$BPMAG_ERR $RPMAG_ERR" | awk '{printf "%5.3f\n", sqrt($1*$1 + $2*$2) }' | awk '{printf "%5.3f", ($1 > 0.001 ? $1 : 0.001)}')
+  GAIA_COLOR_ERROR=$(echo "$BPMAG_ERR $RPMAG_ERR" | awk '{printf "%5.3f\n", sqrt($1*$1 + $2*$2) }' | awk '{printf "%5.3f", ($1 > 0.001 ? $1 : 0.001)}' | awk '{printf "%5.3f", ($1 < 9.999 ? $1 : 9.999)}')
   if [ -n "$GAIA_COLOR_EXCESS_BESTDIST" ] && [ -n "$GAIA_COLOR_EXCESS_DIST_LOW" ] && [ -n "$GAIA_COLOR_EXCESS_DIST_HIGH" ];then
    GAIA_INTRINSIC_COLOR_BESTDIST=$(echo "$GAIA_COLOR $GAIA_COLOR_EXCESS_BESTDIST" | awk '{printf "%+5.3f", $1-$2}')
    GAIA_INTRINSIC_COLOR_DIST_LOW=$(echo "$GAIA_COLOR $GAIA_COLOR_EXCESS_DIST_LOW" | awk '{printf "%+5.3f", $1-$2}')
    GAIA_INTRINSIC_COLOR_DIST_HIGH=$(echo "$GAIA_COLOR $GAIA_COLOR_EXCESS_DIST_HIGH" | awk '{printf "%+5.3f", $1-$2}')
    GAIA_INTRINSIC_COLOR_ERR=$(echo "$GAIA_COLOR_ERROR $GAIA_COLOR_EXCESS_DIST_LOW $GAIA_COLOR_EXCESS_DIST_HIGH" | awk '{printf "%5.3f\n", sqrt( $1*$1 + ($3-$2)*($3-$2) ) }')
+   # debug
+   #echo "DEBUG: GAIA_INTRINSIC_COLOR_ERR=$GAIA_INTRINSIC_COLOR_ERR GAIA_COLOR_ERROR=$GAIA_COLOR_ERROR GAIA_COLOR_EXCESS_DIST_LOW=$GAIA_COLOR_EXCESS_DIST_LOW GAIA_COLOR_EXCESS_DIST_HIGH=$GAIA_COLOR_EXCESS_DIST_HIGH  GAIA_COLOR_EXCESS_BESTDIST=$GAIA_COLOR_EXCESS_BESTDIST" 1>&2 
+   #
   else
    GAIA_INTRINSIC_COLOR_BESTDIST="+9.999"
    GAIA_INTRINSIC_COLOR_DIST_LOW="+9.999"
