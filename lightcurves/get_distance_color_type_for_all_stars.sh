@@ -147,12 +147,12 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # compute Gaia colors
  if [ -n "$BPMAG" ] && [ -n "$RPMAG" ] && [ -n "$BPMAG_ERR" ] && [ -n "$RPMAG_ERR" ] ;then
   GAIA_COLOR=$(echo "$BPMAG $RPMAG" | awk '{printf "%+5.3f\n", $1 - $2}')
-  GAIA_COLOR_ERROR=$(echo "$BPMAG_ERR $RPMAG_ERR" | awk '{printf "%5.3f\n", sqrt($1*$1 + $2*$2) }' | awk '{printf "%5.3f", ($1 < 0.001 ? $1 : 0.001)}')
+  GAIA_COLOR_ERROR=$(echo "$BPMAG_ERR $RPMAG_ERR" | awk '{printf "%5.3f\n", sqrt($1*$1 + $2*$2) }' | awk '{printf "%5.3f", ($1 > 0.001 ? $1 : 0.001)}')
   if [ -n "$GAIA_COLOR_EXCESS_BESTDIST" ] && [ -n "$GAIA_COLOR_EXCESS_DIST_LOW" ] && [ -n "$GAIA_COLOR_EXCESS_DIST_HIGH" ];then
    GAIA_INTRINSIC_COLOR_BESTDIST=$(echo "$GAIA_COLOR $GAIA_COLOR_EXCESS_BESTDIST" | awk '{printf "%+5.3f", $1-$2}')
    GAIA_INTRINSIC_COLOR_DIST_LOW=$(echo "$GAIA_COLOR $GAIA_COLOR_EXCESS_DIST_LOW" | awk '{printf "%+5.3f", $1-$2}')
    GAIA_INTRINSIC_COLOR_DIST_HIGH=$(echo "$GAIA_COLOR $GAIA_COLOR_EXCESS_DIST_HIGH" | awk '{printf "%+5.3f", $1-$2}')
-   GAIA_INTRINSIC_COLOR_ERR=$(echo "$GAIA_COLOR_ERROR $GAIA_COLOR_EXCESS_DIST_LOW $GAIA_COLOR_EXCESS_DIST_HIGH" | awk '{printf "%5.3f\n", sqrt( $1*$1 + ($3-$2)*($3-$2)/4 ) }')
+   GAIA_INTRINSIC_COLOR_ERR=$(echo "$GAIA_COLOR_ERROR $GAIA_COLOR_EXCESS_DIST_LOW $GAIA_COLOR_EXCESS_DIST_HIGH" | awk '{printf "%5.3f\n", sqrt( $1*$1 + ($3-$2)*($3-$2) ) }')
   else
    GAIA_INTRINSIC_COLOR_BESTDIST="+9.999"
    GAIA_INTRINSIC_COLOR_DIST_LOW="+9.999"
