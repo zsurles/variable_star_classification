@@ -46,7 +46,7 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
   ML_CLASSIFIER_TYPE="NA"
  fi
  
- VISUAL_CLASSIFICATION=$(grep -A3 "asassn_id = $ASASSN_ID$" ../downloaded_lightcurves/combined.txt | grep 'visual_inspection_comments = ' | sed 's/visual_inspection_comments = //g' | sed 's/true //g' | awk '{print $1}')
+ VISUAL_CLASSIFICATION=$(grep -A3 "asassn_id = $ASASSN_ID$" ../downloaded_lightcurves/combined.txt | grep 'visual_inspection_comments = ' | sed 's/visual_inspection_comments = //g' | sed 's/true //g' | awk -F',' '{print $1}' | awk '{print $1}')
  if [ -z "$VISUAL_CLASSIFICATION" ];then
   VISUAL_CLASSIFICATION="NA"
  fi
@@ -62,8 +62,18 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  #lib/vizquery -site=vizier.cds.unistra.fr -mime=text -source=I/355/gaiadr3 -out.max=1 -out.form=mini   -sort=_r -c='278.12175 -33.74589' -c.rs=1.5 -out=DR3Name,Gmag,e_Gmag,BPmag,e_BPmag,RPmag,e_RPmag 2>&1 | grep -A3 'DR3Name ' | grep '\.'
  # Example output:
  # Gaia DR3 2875539776437822592 12.868528  0.011965 13.166146  0.038479 12.473855  0.024048
- #GAIA_DR3_INFO=$($LIB_VIZQUERY -site=vizier.cds.unistra.fr -mime=text -source=I/355/gaiadr3 -out.max=1 -out.form=mini   -sort=_r -c="$VSXRA $VSXDec" -c.rs=1.5 -out=DR3Name,Gmag,e_Gmag,BPmag,e_BPmag,RPmag,e_RPmag 2>&1 | grep -A3 'DR3Name ' | grep '\.')
- #lib/vizquery -site=vizier.cds.unistra.fr -mime=text -source=I/352 -out.max=1 -out.form=mini   -sort=_r -c='278.12175 -33.74589' -c.rs=1.5 -out=rgeo,b_rgeo,B_rgeo 2>&1 | grep -A3 'rgeo (pc)' | grep '\.'
+ GAIA_DR3_INFO=$($LIB_VIZQUERY -site=vizier.cds.unistra.fr -mime=text -source=I/355/gaiadr3 -out.max=1 -out.form=mini   -sort=_r -c="$VSXRA $VSXDec" -c.rs=1.5 -out=DR3Name,Gmag,e_Gmag,BPmag,e_BPmag,RPmag,e_RPmag 2>&1 | grep -A3 'DR3Name ' | grep '\.')
+ GAIA_DR3_NAMESTRING=$(echo "$GAIA_DR3_INFO" | awk '{print $1" "$2" "$3}')
+ if [ -z "$GAIA_DR3_NAMESTRING" ];then
+  #                    Gaia DR3 6735063943477003008
+  GAIA_DR3_NAMESTRING="Gaia DR3 XXXXXXXXXXXXXXXXXXX"
+ fi
+ GMAG=$(echo "$GAIA_DR3_INFO" | awk '{printf "%6.3f", ($4 != "" ? $4 : 99.999)}')
+ GMAG_ERR=$(echo "$GAIA_DR3_INFO" | awk '{printf "%5.3f", ($5 != "" ? $5 : 9.999)}')
+ BPMAG=$(echo "$GAIA_DR3_INFO" | awk '{printf "%6.3f", ($6 != "" ? $6 : 99.999)}')
+ BPMAG_ERR=$(echo "$GAIA_DR3_INFO" | awk '{printf "%5.3f", ($7 != "" ? $7 : 9.999)}')
+ RPMAG=$(echo "$GAIA_DR3_INFO" | awk '{printf "%6.3f", ($8 != "" ? $8 : 99.999)}')
+ RPMAG_ERR=$(echo "$GAIA_DR3_INFO" | awk '{printf "%5.3f", ($9 != "" ? $9 : 9.999)}')
  
  
  # Distance from Bailer-Jones+, 2021
@@ -119,29 +129,68 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  GET_DUST_OUTPUT=$(./get_dust.py "$VSXRA" "$VSXDec" "$DISTANCE") 
  EXTINCTION_CORRECTION_JMAG_BESTDIST=$( ( echo "$GET_DUST_OUTPUT" | grep 'J band extinction' || echo "1 2 3 9.999" ) | awk '{printf "%5.3f\n", $4}')
  EXTINCTION_CORRECTION_KMAG_BESTDIST=$( ( echo "$GET_DUST_OUTPUT" | grep 'K band extinction' || echo "1 2 3 9.999" ) | awk '{printf "%5.3f\n", $4}')
+ EXTINCTION_CORRECTION_GMAG_BESTDIST=$( ( echo "$GET_DUST_OUTPUT" | grep 'G band extinction' || echo "1 2 3 9.999" ) | awk '{printf "%5.3f\n", $4}')
+ GAIA_COLOR_EXCESS_BESTDIST=$( ( echo "$GET_DUST_OUTPUT" | grep 'E(BP-RP): ' || echo "1 9.999" ) | awk '{printf "%5.3f\n", $2}')
  
  GET_DUST_OUTPUT=$(./get_dust.py "$VSXRA" "$VSXDec" "$DISTANCE_LOW") 
  EXTINCTION_CORRECTION_JMAG_DIST_LOW=$( ( echo "$GET_DUST_OUTPUT" | grep 'J band extinction' || echo "1 2 3 9.999" ) | awk '{printf "%5.3f\n", $4}')
  EXTINCTION_CORRECTION_KMAG_DIST_LOW=$( ( echo "$GET_DUST_OUTPUT" | grep 'K band extinction' || echo "1 2 3 9.999" ) | awk '{printf "%5.3f\n", $4}')
+ EXTINCTION_CORRECTION_GMAG_DIST_LOW=$( ( echo "$GET_DUST_OUTPUT" | grep 'G band extinction' || echo "1 2 3 9.999" ) | awk '{printf "%5.3f\n", $4}')
+ GAIA_COLOR_EXCESS_DIST_LOW=$( ( echo "$GET_DUST_OUTPUT" | grep 'E(BP-RP): ' || echo "1 9.999" ) | awk '{printf "%5.3f\n", $2}')
  
  GET_DUST_OUTPUT=$(./get_dust.py "$VSXRA" "$VSXDec" "$DISTANCE_HIGH") 
  EXTINCTION_CORRECTION_JMAG_DIST_HIGH=$( ( echo "$GET_DUST_OUTPUT" | grep 'J band extinction' || echo "1 2 3 9.999" ) | awk '{printf "%5.3f\n", $4}')
  EXTINCTION_CORRECTION_KMAG_DIST_HIGH=$( ( echo "$GET_DUST_OUTPUT" | grep 'K band extinction' || echo "1 2 3 9.999" ) | awk '{printf "%5.3f\n", $4}')
+ EXTINCTION_CORRECTION_GMAG_DIST_HIGH=$( ( echo "$GET_DUST_OUTPUT" | grep 'G band extinction' || echo "1 2 3 9.999" ) | awk '{printf "%5.3f\n", $4}')
+ GAIA_COLOR_EXCESS_DIST_HIGH=$( ( echo "$GET_DUST_OUTPUT" | grep 'E(BP-RP): ' || echo "1 9.999" ) | awk '{printf "%5.3f\n", $2}')
  
+ # compute Gaia colors
+ if [ -n "$BPMAG" ] && [ -n "$RPMAG" ] && [ -n "$BPMAG_ERR" ] && [ -n "$RPMAG_ERR" ] ;then
+  GAIA_COLOR=$(echo "$BPMAG $RPMAG" | awk '{printf "%+5.3f\n", $1 - $2}')
+  GAIA_COLOR_ERROR=$(echo "$BPMAG_ERR $RPMAG_ERR" | awk '{printf "%5.3f\n", sqrt($1*$1 + $2*$2) }' | awk '{printf "%5.3f", ($1 < 0.001 ? $1 : 0.001)}')
+  if [ -n "$GAIA_COLOR_EXCESS_BESTDIST" ] && [ -n "$GAIA_COLOR_EXCESS_DIST_LOW" ] && [ -n "$GAIA_COLOR_EXCESS_DIST_HIGH" ];then
+   GAIA_INTRINSIC_COLOR_BESTDIST=$(echo "$GAIA_COLOR $GAIA_COLOR_EXCESS_BESTDIST" | awk '{printf "%+5.3f", $1-$2}')
+   GAIA_INTRINSIC_COLOR_DIST_LOW=$(echo "$GAIA_COLOR $GAIA_COLOR_EXCESS_DIST_LOW" | awk '{printf "%+5.3f", $1-$2}')
+   GAIA_INTRINSIC_COLOR_DIST_HIGH=$(echo "$GAIA_COLOR $GAIA_COLOR_EXCESS_DIST_HIGH" | awk '{printf "%+5.3f", $1-$2}')
+   GAIA_INTRINSIC_COLOR_ERR=$(echo "$GAIA_COLOR_ERROR $GAIA_COLOR_EXCESS_DIST_LOW $GAIA_COLOR_EXCESS_DIST_HIGH" | awk '{printf "%5.3f\n", sqrt( $1*$1 + ($3-$2)*($3-$2)/4 ) }')
+  else
+   GAIA_INTRINSIC_COLOR_BESTDIST="+9.999"
+   GAIA_INTRINSIC_COLOR_DIST_LOW="+9.999"
+   GAIA_INTRINSIC_COLOR_DIST_HIGH="+9.999"
+   GAIA_INTRINSIC_COLOR_ERR="9.999"
+  fi
+ else
+  GAIA_COLOR="+9.999"
+  GAIA_COLOR_ERROR="9.999"
+  GAIA_INTRINSIC_COLOR_BESTDIST="+9.999"
+  GAIA_INTRINSIC_COLOR_DIST_LOW="+9.999"
+  GAIA_INTRINSIC_COLOR_DIST_HIGH="+9.999"
+  GAIA_INTRINSIC_COLOR_ERR="9.999"
+ fi
+ 
+
  # M = m + 5 - 5 * log10(r_pc) - A
  # where M is the absolute magnitude
  # m is the apparent magnitude
  # r_pc is the distance in pc
  # A is the extinciton in magnitudes
  #echo "100" | awk '{print log($1)/log(10)}'
- if [ -n "$JMAG" ] && [ "$JMAG" != "99.999" ] && [ -n "$DISTANCE" ] && [ -n "$DISTANCE_LOW" ] && [ -n "$DISTANCE_HIGH" ] && [ "$EXTINCTION_CORRECTION_JMAG_BESTDIST" ] && [ "$EXTINCTION_CORRECTION_JMAG_BESTDIST" != "99.999" ] ;then
+ if [ "$DISTANCE" != "99999" ] && [ -n "$GMAG" ] && [ "$GMAG" != "99.999" ] && [ -n "$JMAG" ] && [ "$JMAG" != "99.999" ] && [ -n "$DISTANCE" ] && [ -n "$DISTANCE_LOW" ] && [ -n "$DISTANCE_HIGH" ] && [ "$EXTINCTION_CORRECTION_JMAG_BESTDIST" ] && [ "$EXTINCTION_CORRECTION_JMAG_BESTDIST" != "99.999" ] ;then
   EXTINCTION_CORRECTED_ABSJMAG_BESTDIST=$(echo "$JMAG" "$DISTANCE" "$EXTINCTION_CORRECTION_JMAG_BESTDIST" | awk '{printf "%+6.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
   EXTINCTION_CORRECTED_ABSJMAG_LOWDIST=$(echo "$JMAG" "$DISTANCE_LOW" "$EXTINCTION_CORRECTION_JMAG_DIST_LOW" | awk '{printf "%+6.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
   EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST=$(echo "$JMAG" "$DISTANCE_HIGH" "$EXTINCTION_CORRECTION_JMAG_DIST_HIGH" | awk '{printf "%+6.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
+  #
+  EXTINCTION_CORRECTED_ABSGMAG_BESTDIST=$(echo "$GMAG" "$DISTANCE" "$EXTINCTION_CORRECTION_GMAG_BESTDIST" | awk '{printf "%+6.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
+  EXTINCTION_CORRECTED_ABSGMAG_LOWDIST=$(echo "$GMAG" "$DISTANCE_LOW" "$EXTINCTION_CORRECTION_GMAG_DIST_LOW" | awk '{printf "%+6.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
+  EXTINCTION_CORRECTED_ABSGMAG_HIGHDIST=$(echo "$GMAG" "$DISTANCE_HIGH" "$EXTINCTION_CORRECTION_GMAG_DIST_HIGH" | awk '{printf "%+6.3f", $1 + 5 - 5 * log($2)/log(10) - $3 }')
  else
   EXTINCTION_CORRECTED_ABSJMAG_BESTDIST="+9.999"
   EXTINCTION_CORRECTED_ABSJMAG_LOWDIST="+9.999"
   EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST="+9.999"
+  #
+  EXTINCTION_CORRECTED_ABSGMAG_BESTDIST="+9.999"
+  EXTINCTION_CORRECTED_ABSGMAG_LOWDIST="+9.999"
+  EXTINCTION_CORRECTED_ABSGMAG_HIGHDIST="+9.999"
  fi
 
 
@@ -181,9 +230,9 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  PADDED_KMAG=$(printf "%-6s" "$KMAG")
  PADDED_KMAG_ERR=$(printf "%-5s" "$KMAG_ERR")
  PADDED_ML_CLASSIFIER_TYPE=$(printf "%-13s" "$ML_CLASSIFIER_TYPE")
- PADDED_VISUAL_CLASSIFICATION=$(printf "%-5s" "$VISUAL_CLASSIFICATION")
- PADDED_VSXType=$(printf "%-5s" "$VSXType")
- PADDED_FinalType=$(printf "%-5s" "$FinalType")
+ PADDED_VISUAL_CLASSIFICATION=$(printf "%-8s" "$VISUAL_CLASSIFICATION")
+ PADDED_VSXType=$(printf "%-8s" "$VSXType")
+ PADDED_FinalType=$(printf "%-8s" "$FinalType")
  PADDED_VSXRA=$(printf "%9.5f" "$VSXRA")
  PADDED_VSXDec=$(printf "%+9.5f" "$VSXDec")
  PADDED_VSXMag=$(printf "%-6s" "$VSXMag")
@@ -193,7 +242,7 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  
   
  # Print results
- echo "ASASSN $PADDED_ASASSN_ID  distance_pc= $DISTANCE $DISTANCE_LOW $DISTANCE_HIGH  g= $ASASSN_MEDIAN_g_MAG  J= $PADDED_JMAG $PADDED_JMAG_ERR K= $PADDED_KMAG $PADDED_KMAG_ERR  MabsJ= $EXTINCTION_CORRECTED_ABSJMAG_BESTDIST $EXTINCTION_CORRECTED_ABSJMAG_LOWDIST $EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST  A_J= $EXTINCTION_CORRECTION_JMAG_BESTDIST $EXTINCTION_CORRECTION_JMAG_DIST_LOW $EXTINCTION_CORRECTION_JMAG_DIST_HIGH A_K= $EXTINCTION_CORRECTION_KMAG_BESTDIST $EXTINCTION_CORRECTION_KMAG_DIST_LOW $EXTINCTION_CORRECTION_KMAG_DIST_HIGH  FinalType= $PADDED_FinalType MLType= $PADDED_ML_CLASSIFIER_TYPE VisType= $PADDED_VISUAL_CLASSIFICATION VSXType= $PADDED_VSXType VSX_RA_Dec_Name= $PADDED_VSXRA $PADDED_VSXDec $PADDED_VSXName" >> distance_color_type_for_all_stars.txt
+ echo "ASASSN $PADDED_ASASSN_ID  distance_pc= $DISTANCE $DISTANCE_LOW $DISTANCE_HIGH  g= $ASASSN_MEDIAN_g_MAG  $GAIA_DR3_NAMESTRING  G= $GMAG $GMAG_ERR  MabsG= $EXTINCTION_CORRECTED_ABSGMAG_BESTDIST $EXTINCTION_CORRECTED_ABSGMAG_LOWDIST $EXTINCTION_CORRECTED_ABSGMAG_HIGHDIST  A_G= $EXTINCTION_CORRECTION_GMAG_BESTDIST $GAIA_COLOR_EXCESS_DIST_LOW $EXTINCTION_CORRECTION_GMAG_DIST_HIGH  BP-RP= $GAIA_COLOR $GAIA_COLOR_ERROR  (BP-RP)_0= $GAIA_INTRINSIC_COLOR_BESTDIST $GAIA_INTRINSIC_COLOR_ERR  J= $PADDED_JMAG $PADDED_JMAG_ERR K= $PADDED_KMAG $PADDED_KMAG_ERR  MabsJ= $EXTINCTION_CORRECTED_ABSJMAG_BESTDIST $EXTINCTION_CORRECTED_ABSJMAG_LOWDIST $EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST  A_J= $EXTINCTION_CORRECTION_JMAG_BESTDIST $EXTINCTION_CORRECTION_JMAG_DIST_LOW $EXTINCTION_CORRECTION_JMAG_DIST_HIGH A_K= $EXTINCTION_CORRECTION_KMAG_BESTDIST $EXTINCTION_CORRECTION_KMAG_DIST_LOW $EXTINCTION_CORRECTION_KMAG_DIST_HIGH  FinalType= $PADDED_FinalType MLType= $PADDED_ML_CLASSIFIER_TYPE VisType= $PADDED_VISUAL_CLASSIFICATION VSXType= $PADDED_VSXType VSX_RA_Dec_Name= $PADDED_VSXRA $PADDED_VSXDec $PADDED_VSXName" >> distance_color_type_for_all_stars.txt
 
  # Terminal output to entertain the user
  tail -n 1 distance_color_type_for_all_stars.txt
