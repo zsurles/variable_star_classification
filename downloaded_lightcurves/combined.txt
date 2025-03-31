@@ -7705,7 +7705,7 @@ magnitude = 10.0
 vsx_id = NSV 4215
 asassn_id = 257698744902
 color_string =  NSV 4215                     | 08:43:28.16 +05:57:57.2 (Gaia DR3)  | RR: (VSX)        |  (VSX)               |  Gaia3var=NOT_AVAILABLE   SpType: F8 1962MitVS.626....1G NSV 4215  J-Ks=0.356+/-0.029 (G)
-visual_inspection_comments = BY according to need TESS, corrupted ASAS-SN data  median_g_mag=10.881
+visual_inspection_comments = BY according to TESS, corrupted ASAS-SN data  median_g_mag=10.881
 
 
 ######### Classification results #########
@@ -8305,7 +8305,7 @@ magnitude = 14.43
 vsx_id = PS1-3PI J085104.08-150448.3
 asassn_id = 369367213871
 color_string =  PS1-3PI J085104.08-150448.3  | 08:51:04.08 -15:04:48.3 (Gaia DR3)  | RRAB (VSX)       | 0.601306000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.429+/-0.057 (G)
-visual_inspection_comments = need TESS  median_g_mag=12.805
+visual_inspection_comments = true RRAB according to TESS, blended with a brigth star  median_g_mag=12.805
 
 
 ######### Classification results #########
@@ -8317,7 +8317,7 @@ magnitude = 9.34
 vsx_id = ASAS J074451-0036.1
 asassn_id = 369368108391
 color_string =  ASAS J074451-0036.1          | 07:44:50.83 -00:36:07.6 (Gaia DR3)  | EC/RRC/ESD (VSX) | 0.869210000000 (VSX) |  Gaia3var=VARIABLE        SpType: A2 1950TOYal..21.....B BD-00 1803  J-Ks=0.167+/-0.035 (F)
-visual_inspection_comments = need TESS  median_g_mag=9.782
+visual_inspection_comments = true RRC according to TESS, extreme Blazhko effect, elso thought it could be GDOR  median_g_mag=9.782
 
 
 ######### Classification results #########
@@ -8329,7 +8329,7 @@ magnitude = 11.811
 vsx_id = WISE J083655.9-465933
 asassn_id = 369368512469
 color_string =  WISE J083655.9-465933        | 08:36:55.97 -46:59:33.5 (Gaia DR3)  | RRAB (VSX)       | 0.820892500000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.504+/-0.037 (K)
-visual_inspection_comments = need TESS. probably constant  median_g_mag=14.454
+visual_inspection_comments = EA according to TESS  median_g_mag=14.454
 
 
 ######### Classification results #########
@@ -8399,7 +8399,7 @@ class_probability = 0.28
 position = 114.43 -7.72722
 magnitude = 7.13
 vsx_id = V0764 Mon
-asassn_id = 386547451455
+asassn_id = 386547451455 
 color_string =  V0764 Mon                    | 07:37:43.19 -07:43:37.9 (Gaia DR3)  | RRC (GCVS)       |  (GCVS)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.143+/-0.029 (F)
 visual_inspection_comments = need TESS  median_g_mag=8.131
 
