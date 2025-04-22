@@ -18,6 +18,8 @@ if [ ! -x "$LIB_VIZQUERY" ];then
 fi
 
 
+REF_FILE="distance_color_type_for_all_stars.txt_ref"
+
 if [ ! -f rrlyr_vsx_clean2_magnitude_filtered.txt ];then
  echo "ERROR in $0: no input file rrlyr_vsx_clean2_magnitude_filtered.txt"
  exit 1
@@ -56,6 +58,9 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  if [ -z "$ASASSN_MEDIAN_g_MAG" ];then
   ASASSN_MEDIAN_g_MAG="99.999"
  fi
+
+ CATALOG_INFO_FROM_REF_FILE=$(grep "ASASSN $ASASSN_ID " "$REF_FILE" | awk -F'FinalType=' '{print $1}')
+ if [ -z "$CATALOG_INFO_FROM_REF_FILE" ];then
 
  # Gaia optical magnitudes 
  # https://vizier.cds.unistra.fr/viz-bin/VizieR-3?-source=I/355/gaiadr3&-out.max=50&-out.form=HTML%20Table&-out.add=_r&-out.add=_RAJ,_DEJ&-sort=_r&-oc.form=sexa
@@ -196,6 +201,7 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
   EXTINCTION_CORRECTED_ABSGMAG_HIGHDIST="+9.999"
  fi
 
+ fi # if [ -z "$CATALOG_INFO_FROM_REF_FILE" ];then
 
  # Decide on the final type
  FinalType="NA"
@@ -225,14 +231,6 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # convert to uppercase for sonsistency
  FinalType="${FinalType^^}"
 
-
- # Add white spaces to have nicely formatted columns in the output
- PADDED_GAIA_DR3_NAMESTRING=$(printf "%-28s" "$GAIA_DR3_NAMESTRING")
- PADDED_ASASSN_ID=$(printf "%-12s" "$ASASSN_ID")
- PADDED_JMAG=$(printf "%-6s" "$JMAG")
- PADDED_JMAG_ERR=$(printf "%-5s" "$JMAG_ERR")
- PADDED_KMAG=$(printf "%-6s" "$KMAG")
- PADDED_KMAG_ERR=$(printf "%-5s" "$KMAG_ERR")
  PADDED_ML_CLASSIFIER_TYPE=$(printf "%-13s" "$ML_CLASSIFIER_TYPE")
  PADDED_VISUAL_CLASSIFICATION=$(printf "%-8s" "$VISUAL_CLASSIFICATION")
  PADDED_VSXType=$(printf "%-8s" "$VSXType")
@@ -243,10 +241,25 @@ grep -v 'Star Type' rrlyr_vsx_clean2_magnitude_filtered.txt | while read VSXType
  # No need to pad VSXName if we print it as the last column
  #PADDED_VSXName=$(printf "%-28s" "$VSXName")
  PADDED_VSXName="$VSXName"
+
+
+ if [ -z "$CATALOG_INFO_FROM_REF_FILE" ];then
+
+ # Add white spaces to have nicely formatted columns in the output
+ PADDED_GAIA_DR3_NAMESTRING=$(printf "%-28s" "$GAIA_DR3_NAMESTRING")
+ PADDED_ASASSN_ID=$(printf "%-12s" "$ASASSN_ID")
+ PADDED_JMAG=$(printf "%-6s" "$JMAG")
+ PADDED_JMAG_ERR=$(printf "%-5s" "$JMAG_ERR")
+ PADDED_KMAG=$(printf "%-6s" "$KMAG")
+ PADDED_KMAG_ERR=$(printf "%-5s" "$KMAG_ERR")
  
   
  # Print results
  echo "ASASSN $PADDED_ASASSN_ID  distance_pc= $DISTANCE $DISTANCE_LOW $DISTANCE_HIGH  g= $ASASSN_MEDIAN_g_MAG  $PADDED_GAIA_DR3_NAMESTRING  G= $GMAG $GMAG_ERR  MabsG= $EXTINCTION_CORRECTED_ABSGMAG_BESTDIST $EXTINCTION_CORRECTED_ABSGMAG_LOWDIST $EXTINCTION_CORRECTED_ABSGMAG_HIGHDIST  A_G= $EXTINCTION_CORRECTION_GMAG_BESTDIST $GAIA_COLOR_EXCESS_DIST_LOW $EXTINCTION_CORRECTION_GMAG_DIST_HIGH  BP-RP= $GAIA_COLOR $GAIA_COLOR_ERROR  (BP-RP)_0= $GAIA_INTRINSIC_COLOR_BESTDIST $GAIA_INTRINSIC_COLOR_ERR  J= $PADDED_JMAG $PADDED_JMAG_ERR K= $PADDED_KMAG $PADDED_KMAG_ERR  MabsJ= $EXTINCTION_CORRECTED_ABSJMAG_BESTDIST $EXTINCTION_CORRECTED_ABSJMAG_LOWDIST $EXTINCTION_CORRECTED_ABSJMAG_HIGHDIST  A_J= $EXTINCTION_CORRECTION_JMAG_BESTDIST $EXTINCTION_CORRECTION_JMAG_DIST_LOW $EXTINCTION_CORRECTION_JMAG_DIST_HIGH A_K= $EXTINCTION_CORRECTION_KMAG_BESTDIST $EXTINCTION_CORRECTION_KMAG_DIST_LOW $EXTINCTION_CORRECTION_KMAG_DIST_HIGH  FinalType= $PADDED_FinalType MLType= $PADDED_ML_CLASSIFIER_TYPE VisType= $PADDED_VISUAL_CLASSIFICATION VSXType= $PADDED_VSXType VSX_RA_Dec_Name= $PADDED_VSXRA $PADDED_VSXDec $PADDED_VSXName" >> distance_color_type_for_all_stars.txt
+ 
+ else
+  echo "${CATALOG_INFO_FROM_REF_FILE}FinalType= $PADDED_FinalType MLType= $PADDED_ML_CLASSIFIER_TYPE VisType= $PADDED_VISUAL_CLASSIFICATION VSXType= $PADDED_VSXType VSX_RA_Dec_Name= $PADDED_VSXRA $PADDED_VSXDec $PADDED_VSXName" >> distance_color_type_for_all_stars.txt
+ fi # if [ -z "$CATALOG_INFO_FROM_REF_FILE" ];then
 
  # Terminal output to entertain the user
  tail -n 1 distance_color_type_for_all_stars.txt
