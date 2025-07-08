@@ -60109,7 +60109,7 @@ magnitude = 11.71
 vsx_id = ASAS J062758-7035.7
 asassn_id = 343598298513
 color_string =  ASAS J062758-7035.7          | 06:27:57.92 -70:35:41.4 (Gaia DR3)  | EC/RRC/ESD (VSX @ VizieR) | 0.620270000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.204+/-0.035 (F)
-visual_inspection_comments =  median_g_mag=11.935
+visual_inspection_comments = EW median_g_mag=11.935
 
 
 ######### Classification results #########
@@ -60121,7 +60121,7 @@ magnitude = 14.6
 vsx_id = ASASSN-V J092546.25+812936.9
 asassn_id = 34360235483
 color_string =  ASASSN-V J092546.25+812936.9 | 09:25:46.24 +81:29:36.8 (Gaia DR3)  | RRAB (VSX @ VizieR) | 0.448624000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.294+/-0.084 (F)
-visual_inspection_comments =  median_g_mag=15.747
+visual_inspection_comments = RRAB median_g_mag=15.747
 
 
 ######### Classification results #########
@@ -60133,7 +60133,7 @@ magnitude = 15.24
 vsx_id = ASASSN-V J035527.59+812112.2
 asassn_id = 34360237085
 color_string =  ASASSN-V J035527.59+812112.2 | 03:55:27.57 +81:21:12.2 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.217734000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.423+/-0.060 (G)
-visual_inspection_comments =  median_g_mag=15.727
+visual_inspection_comments = RRC median_g_mag=15.727
 
 
 ######### Classification results #########
@@ -60145,7 +60145,7 @@ magnitude = 14.52
 vsx_id = ASASSN-V J084016.46+803432.5
 asassn_id = 34360267055
 color_string =  ASASSN-V J084016.46+803432.5 | 08:40:16.49 +80:34:32.5 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.282262000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.277+/-0.044 (F)
-visual_inspection_comments =  median_g_mag=14.788
+visual_inspection_comments = RRC median_g_mag=14.788
 
 
 ######### Classification results #########
@@ -60169,7 +60169,7 @@ magnitude = 14.17
 vsx_id = CSS_J004408.4+415722
 asassn_id = 34360900610
 color_string =  ATO J011.0347+41.9565        | 00:44:08.33 +41:57:23.6 (Gaia DR3)  | MSINE (ATLAS)    |   (ATLAS)            |  Gaia3var=NOT_AVAILABLE  SpType: F8 (LAMOST DR5)       J-Ks=0.324+/-0.032 (G)
-visual_inspection_comments =  median_g_mag=14.545
+visual_inspection_comments = RRC median_g_mag=14.545
 
 
 ######### Classification results #########
@@ -60181,7 +60181,7 @@ magnitude = 13.54
 vsx_id = TSVSC1 TN-N230322323-79-67-2
 asassn_id = 34361051934
 color_string =  TSVSC1 TN-N230322323-79-67-2 | 07:10:00.44 +41:28:29.5 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.272090000000 (VSX @ VizieR) |  Gaia3var=NOT_AVAILABLE   SpType: A7V (LAMOST DR5)     J-Ks=0.219+/-0.031 (F)
-visual_inspection_comments =  median_g_mag=13.644
+visual_inspection_comments = RRC median_g_mag=13.644
 
 
 ######### Classification results #########
@@ -60193,7 +60193,7 @@ magnitude = 13.68
 vsx_id = ASASSN-V J202603.80-405408.1
 asassn_id = 352187515909
 color_string =  ASASSN-V J202603.80-405408.1 | 20:26:03.74 -40:54:08.5 (Gaia DR3)  | RRAB (VSX @ VizieR) | 0.555926000000 (VSX @ VizieR) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.294+/-0.039 (F)
-visual_inspection_comments =  median_g_mag=13.930
+visual_inspection_comments = RRAB median_g_mag=13.930
 
 
 ######### Classification results #########
@@ -60205,7 +60205,7 @@ magnitude = 14.62
 vsx_id = V0765 Oph
 asassn_id = 352187678774
 color_string =  V0765 Oph                    | 17:29:12.80 +06:17:15.5 (Gaia DR3)  | RR (GCVS)        | 0.3798730000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.197+/-0.043 (F)
-visual_inspection_comments =  median_g_mag=15.192
+visual_inspection_comments = RRAB median_g_mag=15.192
 
 
 ######### Classification results #########
@@ -60217,7 +60217,7 @@ magnitude = 14.37
 vsx_id = CSS_J164750.6+062330
 asassn_id = 352187721332
 color_string =  ATO J251.9609+06.3916        | 16:47:50.63 +06:23:30.1 (Gaia DR3)  | CBF (ATLAS)      |   (ATLAS)            |  Gaia3var=VARIABLE                                     J-Ks=0.332+/-0.040 (G)
-visual_inspection_comments =  median_g_mag=14.789
+visual_inspection_comments = RRC median_g_mag=14.789
 
 
 ######### Classification results #########
