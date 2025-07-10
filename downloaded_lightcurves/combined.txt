@@ -64009,7 +64009,7 @@ magnitude = 12.824
 vsx_id = WISE J144931.9-702506
 asassn_id = 549756391467
 color_string =  WISE J144931.9-702506        | 14:49:31.99 -70:25:06.3 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.361299300000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.358+/-0.036 (G)
-visual_inspection_comments =  median_g_mag=14.565
+visual_inspection_comments = EW median_g_mag=14.565
 
 
 ######### Classification results #########
@@ -64021,7 +64021,7 @@ magnitude = 13.23
 vsx_id = ASASSN-V J061604.77-662209.0
 asassn_id = 549756487642
 color_string =  ASASSN-V J061604.77-662209.0 | 06:16:04.76 -66:22:09.0 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.346653000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=-0.024+/-0.035 (B)
-visual_inspection_comments =  median_g_mag=13.207
+visual_inspection_comments = need TESS, RRC or EW median_g_mag=13.207
 
 
 ######### Classification results #########
@@ -64033,7 +64033,7 @@ magnitude = 11.843
 vsx_id = WISE J115456.6-673354
 asassn_id = 549756582348
 color_string =  WISE J115456.6-673354        | 11:54:56.67 -67:33:55.0 (Gaia DR3)  | RR (VSX @ VizieR) | 0.433115700000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.447+/-0.033 (G)
-visual_inspection_comments =  median_g_mag=13.967
+visual_inspection_comments = EW median_g_mag=13.967
 
 
 ######### Classification results #########
@@ -64045,7 +64045,7 @@ magnitude = 14.91
 vsx_id = SSS_J202931.1-240237
 asassn_id = 549756612615
 color_string =  ATO J307.3798-24.0439        | 20:29:31.17 -24:02:38.4 (Gaia DR3)  | IRR (ATLAS)      |   (ATLAS)            |  Gaia3var=VARIABLE                                     J-Ks=0.270+/-0.054 (F)
-visual_inspection_comments =  median_g_mag=15.163
+visual_inspection_comments = RRAB median_g_mag=15.163
 
 
 ######### Classification results #########
@@ -64057,7 +64057,7 @@ magnitude = 14.6
 vsx_id = V1241 Sgr
 asassn_id = 549756745113
 color_string =  V1241 Sgr                    | 19:04:33.56 -26:07:34.0 (Gaia DR3)  | RRAB (GCVS)      | 0.5249666000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.195+/-0.039 (F)
-visual_inspection_comments =  median_g_mag=13.848
+visual_inspection_comments = RRAB median_g_mag=13.848
 
 
 ######### Classification results #########
