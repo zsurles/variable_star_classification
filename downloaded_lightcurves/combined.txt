@@ -62389,7 +62389,7 @@ magnitude = 15.22
 vsx_id = SSS_J102323.0-433612
 asassn_id = 455267660602
 color_string =  Gaia DR3 varaible 5415793132779891968 | 10:23:22.91 -43:36:13.5 (Gaia DR3)  | ECL (Gaia DR3)   | 2022yCat.1358....0G  |  Gaia3var=VARIABLE       Gaia DR3 varaible (the VSX policy as of July 2022 is to regard variables from Gaia DR3 as 'known')  J-Ks=0.181+/-0.080 (F)
-visual_inspection_comments =  median_g_mag=15.413
+visual_inspection_comments = need TESS, RC: median_g_mag=15.413
 
 
 ######### Classification results #########
