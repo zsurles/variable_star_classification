@@ -67513,7 +67513,7 @@ magnitude = 15.2
 vsx_id = V0340 Oph
 asassn_id = 661428133368
 color_string =  V0340 Oph                    | 17:03:23.52 -29:28:54.7 (Gaia DR3)  | RRAB (GCVS)      | 0.5448200000 (GCVS)  |  Gaia3var=VARIABLE                                     J-Ks=0.489+/-0.070 (K)
-visual_inspection_comments =  median_g_mag=15.883
+visual_inspection_comments = RRAB median_g_mag=15.883
 
 
 ######### Classification results #########
@@ -67525,7 +67525,7 @@ magnitude = 15.45
 vsx_id = PS1-3PI J165908.69-292008.0
 asassn_id = 661428150536
 color_string =  PS1-3PI J165908.69-292008.0  | 16:59:08.69 -29:20:08.1 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.344187000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.319+/-0.066 (F)
-visual_inspection_comments =  median_g_mag=15.783
+visual_inspection_comments = RRC median_g_mag=15.783
 
 
 ######### Classification results #########
@@ -67537,7 +67537,7 @@ magnitude = 13.3
 vsx_id = ASAS J201618-2902.1
 asassn_id = 661428185063
 color_string =  ASAS J201618-2902.1          | 20:16:17.86 -29:02:03.8 (Gaia DR3)  | RRAB (VSX @ VizieR) | 0.474130000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.154+/-0.036 (F)
-visual_inspection_comments =  median_g_mag=13.667
+visual_inspection_comments = RRAB median_g_mag=13.667
 
 
 ######### Classification results #########
