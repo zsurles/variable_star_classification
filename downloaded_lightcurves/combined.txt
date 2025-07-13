@@ -3457,7 +3457,7 @@ magnitude = 11.07
 vsx_id = ASAS J051714-1142.0
 asassn_id = 300647737742
 color_string =  ASAS J051714-1142.0          | 05:17:14.56 -11:41:58.3 (Gaia DR3)  | RRC (VSX)        | 0.236170000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.220+/-0.031 (F)
-visual_inspection_comments = DSCT according to TESS  median_g_mag=11.189
+visual_inspection_comments = DSCT according to TESS two periods median_g_mag=11.189
 
 
 ######### Classification results #########
@@ -4861,7 +4861,7 @@ magnitude = 11.45
 vsx_id = ASAS J063236-2159.3
 asassn_id = 386548197620
 color_string =  ASAS J063236-2159.3          | 06:32:35.99 -21:59:20.0 (Gaia DR3)  | ESD/RRC/DSCT/EC/ED (VSX) | 0.402572000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.183+/-0.033 (F)
-visual_inspection_comments = DSCT  median_g_mag=11.660
+visual_inspection_comments = need TESS likely DSCT  median_g_mag=11.660
 
 
 ######### Classification results #########
@@ -20413,7 +20413,7 @@ magnitude = 13.36
 vsx_id = ASASSN-V J161518.11-391505.5
 asassn_id = 420907270090
 color_string =  ASASSN-V J161518.11-391505.5 | 16:15:18.11 -39:15:05.5 (Gaia DR3)  | RRC (VSX)        | 0.198713000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.504+/-0.032 (K)
-visual_inspection_comments = DSCT according to TESS  median_g_mag=13.912
+visual_inspection_comments = GDOR multiple periods according to TESS  median_g_mag=13.912
 
 
 ######### Classification results #########
@@ -41569,7 +41569,7 @@ magnitude = 12.9
 vsx_id = ASASSN-V J195937.35+532502.6
 asassn_id = 111669193330
 color_string =  ASASSN-V J195937.35+532502.6 | 19:59:37.35 +53:25:02.5 (Gaia DR3)  | RRC (VSX)        | 0.214356000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.282+/-0.038 (F)
-visual_inspection_comments = DSCT median_g_mag=13.254
+visual_inspection_comments = RRC or could be DSCT median_g_mag=13.254
 
 
 ######### Classification results #########
@@ -42049,7 +42049,7 @@ magnitude = 10.81
 vsx_id = CzeV1628
 asassn_id = 146028967763
 color_string =  CzeV1628 RRC                 | 21:00:06.09 +62:03:24.8 (Gaia DR3)  | 0.137320500000 (VSX) |  (VSX)               |  Gaia3var=VARIABLE                                     J-Ks=0.349+/-0.035 (G)
-visual_inspection_comments = DSCT according to TESS  median_g_mag=11.046
+visual_inspection_comments = DSCT according to TESS spectroscopic binary  median_g_mag=11.046
 
 
 ######### Classification results #########
@@ -46501,7 +46501,7 @@ magnitude = 13.13
 vsx_id = ASAS J230815-8403.9
 asassn_id = 447030
 color_string =  ASAS J230815-8403.9          | 23:08:15.05 -84:03:54.4 (Gaia DR3)  | RRC/ELL (VSX)    | 0.277365000000 (VSX) |  Gaia3var=VARIABLE                                     J-Ks=0.197+/-0.037 (F)
-visual_inspection_comments = DSCT median_g_mag=13.396
+visual_inspection_comments = RRC median_g_mag=13.396
 
 
 ######### Classification results #########
