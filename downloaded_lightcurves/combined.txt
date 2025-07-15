@@ -56425,7 +56425,7 @@ magnitude = 14.72
 vsx_id = CSS_J070348.3+313022
 asassn_id = 120260209986
 color_string =  ATO J105.9517+31.5060        | 07:03:48.42 +31:30:21.8 (Gaia DR3)  | MSINE (ATLAS)    |   (ATLAS)            |  Gaia3var=NOT_AVAILABLE  SpType: A5V (LAMOST DR5)      J-Ks=0.201+/-0.052 (F)
-visual_inspection_comments = need TESS median_g_mag=14.915
+visual_inspection_comments = EW: according to TESS, but unsure median_g_mag=14.915
 
 
 ######### Classification results #########
@@ -56485,7 +56485,7 @@ magnitude = 13.6
 vsx_id = ASASSN-V J200350.12+623333.5
 asassn_id = 128849780888
 color_string =  ASASSN-V J200350.12+623333.5 | 20:03:50.11 +62:33:33.4 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.308304000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.206+/-0.035 (F)
-visual_inspection_comments = need TESS BY: median_g_mag=13.796
+visual_inspection_comments = EW according to TESS median_g_mag=13.796
 
 
 ######### Classification results #########
@@ -56497,7 +56497,7 @@ magnitude = 14.77
 vsx_id = PS1-3PI J051706.87+394556.3
 asassn_id = 128849894505
 color_string =  PS1-3PI J051706.87+394556.3  | 05:17:06.88 +39:45:56.3 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.261591000000 (VSX @ VizieR) |  Gaia3var=VARIABLE        SpType: F4 (LAMOST DR5)      J-Ks=0.443+/-0.039 (G)
-visual_inspection_comments = need TESS median_g_mag=15.348
+visual_inspection_comments = EW: according to TESS median_g_mag=15.348
 
 
 ######### Classification results #########
@@ -56509,7 +56509,7 @@ magnitude = 15.05
 vsx_id = CSS_J092557.0+533415
 asassn_id = 128849934997
 color_string =  ATO J141.4877+53.5710        | 09:25:57.06 +53:34:15.9 (Gaia DR3)  | SINE (ATLAS)     |   (ATLAS)            |  Gaia3var=VARIABLE                                     J-Ks=0.058+/-0.076 (A)
-visual_inspection_comments = need TESS median_g_mag=15.121
+visual_inspection_comments = EW: according to TESS median_g_mag=15.121
 
 
 ######### Classification results #########
@@ -56533,7 +56533,7 @@ magnitude = 14.87
 vsx_id = PS1-3PI J222041.80+462903.0
 asassn_id = 128850174683
 color_string =  PS1-3PI J222041.80+462903.0  | 22:20:41.82 +46:29:03.0 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.294159000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.273+/-0.058 (F)
-visual_inspection_comments = need TESS median_g_mag=15.046
+visual_inspection_comments = EW: according to TESS median_g_mag=15.046
 
 
 ######### Classification results #########
@@ -56569,7 +56569,7 @@ magnitude = 14.05
 vsx_id = ASASSN-V J201117.80+662742.8
 asassn_id = 137439056971
 color_string =  ASASSN-V J201117.80+662742.8 | 20:11:17.77 +66:27:42.6 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.409287000000 (VSX @ VizieR) |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.452+/-0.034 (G)
-visual_inspection_comments = need TESS median_g_mag=14.545
+visual_inspection_comments = EW according to TESS median_g_mag=14.545
 
 
 ######### Classification results #########
