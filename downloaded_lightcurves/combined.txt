@@ -66577,7 +66577,7 @@ magnitude = 13.07
 vsx_id = WISE J122119.9-594612
 asassn_id = 661427608430
 color_string =  WISE J122119.9-594612        | 12:21:19.91 -59:46:12.9 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.369298800000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.417+/-0.040 (G)
-visual_inspection_comments = need TESS median_g_mag=15.018
+visual_inspection_comments = EW: according to TESS hard to tell median_g_mag=15.018
 
 
 ######### Classification results #########
@@ -66601,7 +66601,7 @@ magnitude = 15.0
 vsx_id = V0456 Ara
 asassn_id = 661427612023
 color_string =  V0456 Ara                    | 17:05:04.02 -59:15:15.9 (Gaia DR3)  | RR (GCVS)        |  (GCVS)              |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.547+/-0.086 (K)
-visual_inspection_comments = need TESS corrupted ASAS-SN data median_g_mag=14.678
+visual_inspection_comments = RRC according to TESS hard to tell corrupted ASAS-SN data median_g_mag=14.678
 
 
 ######### Classification results #########
@@ -66613,7 +66613,7 @@ magnitude = 15.49
 vsx_id = ASASSN-V J073212.74-581521.1
 asassn_id = 661427618731
 color_string =  ASASSN-V J073212.74-581521.1 | 07:32:12.74 -58:15:21.1 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.378277000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.465+/-0.064 (K)
-visual_inspection_comments = need TESS median_g_mag=15.806
+visual_inspection_comments = EW according to TESS median_g_mag=15.806
 
 
 ######### Classification results #########
@@ -66721,7 +66721,7 @@ magnitude = 11.981
 vsx_id = WISE J110912.9-520454
 asassn_id = 661427657454
 color_string =  WISE J110912.9-520454        | 11:09:12.92 -52:04:54.6 (Gaia DR3)  | RRC (VSX @ VizieR) | 0.348892000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.215+/-0.033 (F)
-visual_inspection_comments = need TESS corrupted ASAS-SN data median_g_mag=12.149
+visual_inspection_comments = EW according to TESS corrupted ASAS-SN data median_g_mag=12.149
 
 
 ######### Classification results #########
