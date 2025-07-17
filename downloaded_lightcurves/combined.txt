@@ -58357,7 +58357,7 @@ magnitude = 14.63
 vsx_id = CSS_J223047.6+044542
 asassn_id = 240518391637
 color_string =  ATO J337.6981+04.7617        | 22:30:47.56 +04:45:42.3 (Gaia DR3)  | MPULSE (ATLAS)   |   (ATLAS)            |  Gaia3var=VARIABLE       SpType: A6V (LAMOST DR5)      J-Ks=0.205+/-0.052 (F)
-visual_inspection_comments = most likely RR but need a check, need TESS median_g_mag=14.824
+visual_inspection_comments = RRC according to TESS median_g_mag=14.824
 
 
 ######### Classification results #########
@@ -59509,7 +59509,7 @@ magnitude = 14.6
 vsx_id = V1033 Sgr
 asassn_id = 317828398480
 color_string =  V1033 Sgr                    | 18:55:07.33 -18:43:04.3 (Gaia DR3)  | RRAB (GCVS)      | 0.5492397000 (GCVS)  |  Gaia3var=NOT_AVAILABLE                                J-Ks=0.711+/-0.034 (K)
-visual_inspection_comments = RRAB likely, need TESS median_g_mag=15.640
+visual_inspection_comments = RRAB according to TESS median_g_mag=15.640
 
 
 ######### Classification results #########
@@ -59737,7 +59737,7 @@ magnitude = 12.38
 vsx_id = ASAS J175555-1526.7
 asassn_id = 326418708383
 color_string =  ASAS J175555-1526.7          | 17:55:55.40 -15:26:39.7 (Gaia DR3)  | EC/RRC (VSX @ VizieR) | 0.491472000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.359+/-0.035 (G)
-visual_inspection_comments = RRC or EW, need TESS median_g_mag=12.781
+visual_inspection_comments = EW according to TESS median_g_mag=12.781
 
 
 ######### Classification results #########
@@ -59809,7 +59809,7 @@ magnitude = 11.68
 vsx_id = ASAS J062651-0244.5
 asassn_id = 335008102786
 color_string =  ASAS J062651-0244.5          | 06:26:51.21 -02:44:27.8 (Gaia DR3)  | RRC/EC (VSX @ VizieR) | 0.310674000000 (VSX @ VizieR) |  Gaia3var=VARIABLE                                     J-Ks=0.298+/-0.035 (F)
-visual_inspection_comments = RRC or EW, need TESS median_g_mag=12.104
+visual_inspection_comments = EW according to TESS median_g_mag=12.104
 
 
 ######### Classification results #########
@@ -60289,7 +60289,7 @@ magnitude = 14.81
 vsx_id = SSS_J161404.8-222918
 asassn_id = 352188179677
 color_string =  ATO J243.5201-22.4882        | 16:14:04.83 -22:29:17.6 (Gaia DR3)  | PULSE (ATLAS)    |   (ATLAS)            |  Gaia3var=VARIABLE                                     J-Ks=0.449+/-0.057 (G)
-visual_inspection_comments = RRAB (or RRB), need TESS median_g_mag=15.358
+visual_inspection_comments = RRAB according to TESS median_g_mag=15.358
 
 
 ######### Classification results #########
@@ -60325,7 +60325,7 @@ magnitude = 15.22
 vsx_id = CSS_J160851.6-092040
 asassn_id = 360777333193
 color_string =  ATO J242.2152-09.3446        | 16:08:51.66 -09:20:40.8 (Gaia DR3)  | NSINE (ATLAS)    |   (ATLAS)            |  Gaia3var=VARIABLE                                     J-Ks=0.178+/-0.075 (F)
-visual_inspection_comments = RRC likely, need TESS median_g_mag=15.691
+visual_inspection_comments = RRC according to TESS median_g_mag=15.691
 
 
 ######### Classification results #########
@@ -60349,7 +60349,7 @@ magnitude = 14.81
 vsx_id = CSS_J150053.5-180409
 asassn_id = 360777669046
 color_string =  ATO J225.2234-18.0692        | 15:00:53.62 -18:04:09.4 (Gaia DR3)  | SINE (ATLAS)     |   (ATLAS)            |  Gaia3var=VARIABLE                                     J-Ks=0.210+/-0.077 (F)
-visual_inspection_comments = EW or RRC, need TESS median_g_mag=15.106
+visual_inspection_comments = EW according to TESS median_g_mag=15.106
 
 
 ######### Classification results #########
@@ -60541,7 +60541,7 @@ magnitude = 15.18
 vsx_id = SSS_J031612.2-291550
 asassn_id = 369367927711
 color_string =  ATO J049.0510-29.2639        | 03:16:12.24 -29:15:50.0 (Gaia DR3)  | PULSE (ATLAS)    |   (ATLAS)            |  Gaia3var=VARIABLE                                     J-Ks=0.173+/-0.094 (F)
-visual_inspection_comments = RRC likely, need TESS to double check median_g_mag=15.148
+visual_inspection_comments = RRC according to TESS to double check median_g_mag=15.148
 
 
 ######### Classification results #########
