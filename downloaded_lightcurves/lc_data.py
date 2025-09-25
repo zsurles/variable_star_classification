@@ -1,7 +1,10 @@
 # create a script that takes the lightcurve data from files with ####.csv (NOT _ztf.csv) and gets the average amount of data points (brightness measurements, basically the number of rows) and the average time that the data was taken over (so final jd - first jd) and gets the average over ALL of these files
+# only account for files that have g-band data
+# potentially only use the .txt files
 
 # IMPORTS
 import os
+import re
 import pandas as pd
 from tqdm import tqdm
 
@@ -11,18 +14,21 @@ total_points = 0
 total_time = 0  # in years
 file_count = 0
 
-files = [f for f in os.listdir(data_dir) if f.endswith(".csv") and not f.endswith("_ztf.csv")]
+digit_txt_pattern = re.compile(r"^\d+\.txt$")
+files = [f for f in os.listdir(data_dir) if digit_txt_pattern.match(f)]
 
 for file in tqdm(files, desc="Processing files"):
     path = os.path.join(data_dir, file)
     try:
-        df = pd.read_csv(path, skiprows=1)
+        # No header row → assign a column name
+        df = pd.read_csv(path, delim_whitespace=True, header=None, usecols=[0])
+        df.columns = ["jd"]
     except Exception as e:
         print(f"⚠️ Skipping {file} (read error: {e})")
         continue
-    
-    if "jd" not in df.columns:
-        print(f"⚠️ Skipping {file} (no 'jd' column found)")
+
+    if len(df) < 2:  # need at least 2 points
+        print(f"⚠️ Skipping {file} (not enough rows)")
         continue
     
     df = df.sort_values("jd")
